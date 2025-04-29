@@ -892,7 +892,7 @@
             "patterns": [
                 "Seperti apa gerakan tari Gandrung Provinsi Nusa Tenggara Barat yang diperagakan?"
             ],
-            "respon": [
+            "responses": [
                 "Penari akan menari dengan kipas sambil melirik ke penonton."
             ]
         },
@@ -901,7 +901,7 @@
             "patterns": [
                 "Berapa banyak pemain Tari Oncer tersebut?"
             ],
-            "respon": [
+            "responses": [
                 "6 hingga 8"
             ]
         },
@@ -910,7 +910,7 @@
             "patterns": [
                 "Seperti apa gerakan di tari Gandrung Provinsi Nusantara Barat yang diperagakan?"
             ],
-            "respon": [
+            "responses": [
                 "Penari akan menari dengan kipas sambil melirik ke penonton."
             ]
         },
@@ -919,7 +919,7 @@
             "patterns": [
                 "Suku apa yang mendominasi di NTB?"
             ],
-            "respon": [
+            "responses": [
                 " suku Sasak."
             ]
         },
@@ -928,7 +928,7 @@
             "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi NTB?"
             ],
-            "respon": [
+            "responses": [
                 "Ada 3 Suku."
             ]
         },
@@ -937,7 +937,7 @@
             "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di NTB?"
             ],
-            "respon": [
+            "responses": [
                 "beda agama dan saling menjaga hubungan sesama manusia."
             ]
         },
@@ -946,7 +946,7 @@
             "patterns": [
                 "adat apa yang ada di Provinsi NTB?"
             ],
-            "respon": [
+            "responses": [
                 "Adat Bayan"
             ]
         },
@@ -955,7 +955,7 @@
             "patterns": [
                 "kapan adat Bale Bonder tersebut dirayakan"
             ],
-            "respon": [
+            "responses": [
                 "Setiap tanggal 22 Rayagung tahun saka sunda."
             ]
         },
@@ -964,7 +964,7 @@
             "patterns": [
                 "Ada berapa macam rumah adat yang ada NTB"
             ],
-            "respon": [
+            "responses": [
                 "5 Rumah Adat"
             ]
         },
@@ -973,7 +973,7 @@
             "patterns": [
                 "bagaimana bentuk Rumah ada tersebut"
             ],
-            "respon": [
+            "responses": [
                 "bentuk puncak atap yang runcing, menyerupai tanduk kerbau."
             ]
         },
@@ -982,7 +982,7 @@
             "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat NTB"
             ],
-            "respon": [
+            "responses": [
                 "Katun, Wool dan Sutra."
             ]
         },
@@ -991,7 +991,7 @@
             "patterns": [
                 "Bagaimana motif pada pakain adat NTB"
             ],
-            "respon": [
+            "responses": [
                 "motifnya bergambar flora."
             ]
         },
@@ -1000,7 +1000,7 @@
             "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat NTB tersebut"
             ],
-            "respon": [
+            "responses": [
                 "pada saat upacara adat."
             ]
         },
@@ -1009,7 +1009,7 @@
             "patterns": [
                 "Makanan khas apa yang ada di NTB"
             ],
-            "respon": [
+            "responses": [
                 "Nasi Balap Puyung."
             ]
         },
@@ -1018,7 +1018,7 @@
             "patterns": [
                 "Bagaimana rasa makanan yang paling Dicari wisataan"
             ],
-            "respon": [
+            "responses": [
                 "rasanya yang nikmat dan pedas.."
             ]
         },
@@ -1027,7 +1027,7 @@
             "patterns": [
                 "Wisata mana yang sangat dicari di daerah NTB?"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Senggigi."
             ]
         },
@@ -1036,7 +1036,7 @@
             "patterns": [
                 "Ada beberapa macam wisata yang ada NTB"
             ],
-            "respon": [
+            "responses": [
                 "25 Tempat WIsata"
             ]
         },
@@ -1045,7 +1045,7 @@
             "patterns": [
                 "Kesenian apa saja yang berasal dari Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Kesenian Sinoman Hadrah yang bernuansa Islami dan Tari Baksa Kembang."
             ]
         },
@@ -1054,7 +1054,7 @@
             "patterns": [
                 "Berasal dari daerah mana Tari Gantar"
             ],
-            "respon": [
+            "responses": [
                 "Berasal dari suku Dayak benuaq dan Dayak tanjong kabupaten kutai barat."
             ]
         },
@@ -1063,7 +1063,7 @@
             "patterns": [
                 " Untuk acara apa tari gantar diadakan"
             ],
-            "respon": [
+            "responses": [
                 "Untuk memohon berkah kepada Dewi Padi."
             ]
         },
@@ -1072,7 +1072,7 @@
             "patterns": [
                 "Apa lagu daerah yang berasal dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Buah Bolok, Oh Adingkoh, Indung-Indung."
             ]
         },
@@ -1081,7 +1081,7 @@
             "patterns": [
                 "Dimana ibukota provinsi Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Samarinda."
             ]
         },
@@ -1090,7 +1090,7 @@
             "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Kutai."
             ]
         },
@@ -1099,7 +1099,7 @@
             "patterns": [
                 "Daerah mana Bahasa Kutai banyak digunakan"
             ],
-            "respon": [
+            "responses": [
                 "di sepanjang Sungai Mahakam, dan wilayah bekas Kabupaten Kutai."
             ]
         },
@@ -1108,7 +1108,7 @@
             "patterns": [
                 " Apa nama pakaian adat dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian adat Kustin."
             ]
         },
@@ -1117,7 +1117,7 @@
             "patterns": [
                 "Untuk acara apa baju adat Kalimantan Timur digunakan"
             ],
-            "respon": [
+            "responses": [
                 "Sebagai pakaian resmi upacara pada masa Kerajaan Kutai Kertanegara."
             ]
         },
@@ -1126,7 +1126,7 @@
             "patterns": [
                 "Suku bangsa apa yang mendiami daerah Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Suku Kutai dan Suku Berau"
             ]
         },
@@ -1135,7 +1135,7 @@
             "patterns": [
                 " Di daerah mana kita banyak menjumpai penduduk Suku Kutai"
             ],
-            "respon": [
+            "responses": [
                 "Suku Kutai mendiami wilayah kaltim yang mayoritas beragama Islam."
             ]
         },
@@ -1144,7 +1144,7 @@
             "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Berau"
             ],
-            "respon": [
+            "responses": [
                 "Di pesisir Kabupaten Berau "
             ]
         },
@@ -1153,7 +1153,7 @@
             "patterns": [
                 "Rumah adat apa yang berasal dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Rumah adat Lamin."
             ]
         },
@@ -1162,7 +1162,7 @@
             "patterns": [
                 "Apa saja alat musik khas Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Sampe, Jatung Utang, Kadire, Gemer"
             ]
         },
@@ -1171,7 +1171,7 @@
             "patterns": [
                 "Apa makanan khas dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Gance ruan, roba ruan, nasi bekepor, sayur gangan asam kutai"
             ]
         },
@@ -1180,7 +1180,7 @@
             "patterns": [
                 "Apa saja objek wisata yang ada di Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Kepulauan Derawan, Danau Kakaban, Pulau Maratua, Gua Haji Mangku."
             ]
         },
@@ -1189,7 +1189,7 @@
             "patterns": [
                 " Upacara adat apa yang ada di Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat dahau, beliatn, ngugu tahun."
             ]
         },
@@ -1198,7 +1198,7 @@
             "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat pemberian nama anak oleh keluarga keturunan bangsawan."
             ]
         },
@@ -1207,7 +1207,7 @@
             "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Kain Ulap Doyo."
             ]
         },
@@ -1216,7 +1216,7 @@
             "patterns": [
                 " Apa nama senjata tradisional khas Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Senjata Mandau"
             ]
         },
@@ -1225,7 +1225,7 @@
             "patterns": [
                 "Kesenian apa saja yang berasal dari Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Kesenian Sinoman Hadrah yang bernuansa Islami dan Tari Baksa Kembang."
             ]
         },
@@ -1234,7 +1234,7 @@
             "patterns": [
                 "Di daerah mana Sinoman Hadrah banyak dijumpai"
             ],
-            "respon": [
+            "responses": [
                 "Kabupaten Banjar daerah Martapura."
             ]
         },
@@ -1243,7 +1243,7 @@
             "patterns": [
                 "Berasal dari daerah mana Tari Baksa kembang"
             ],
-            "respon": [
+            "responses": [
                 "Keraton Banjar."
             ]
         },
@@ -1252,7 +1252,7 @@
             "patterns": [
                 "Bagaimana tarian dari baksa kembang"
             ],
-            "respon": [
+            "responses": [
                 "Tari ini biasa ditarikan oleh seorang sanita secara tunggal."
             ]
         },
@@ -1261,7 +1261,7 @@
             "patterns": [
                 "Alat apa saja yang digunakan dalam menampilkan Sinoman Hadrah"
             ],
-            "respon": [
+            "responses": [
                 "Rebana, babun, ketipung, tamborens, bendera, dan paying besar berhias."
             ]
         },
@@ -1270,7 +1270,7 @@
             "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Kalimantan selatan"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Banjar."
             ]
         },
@@ -1279,7 +1279,7 @@
             "patterns": [
                 "Bahasa apa saja yang memengaruhi Bahasa Banjar"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Melayu, Jawa dan Dayak"
             ]
         },
@@ -1288,7 +1288,7 @@
             "patterns": [
                 "Apa nama pakaian adat dari Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Baju Bagajah Gamuling."
             ]
         },
@@ -1297,7 +1297,7 @@
             "patterns": [
                 "Untuk acara apa Sinoman Hadrah dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Untuk menyambut tamu"
             ]
         },
@@ -1306,7 +1306,7 @@
             "patterns": [
                 " Suku bangsa apa yang mendiami daerah Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Suku Banjar dan Suku Dayak Bakumpai."
             ]
         },
@@ -1315,7 +1315,7 @@
             "patterns": [
                 "Rumah adat apa yang berasal dari Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Rumah adat Tadah Alas "
             ]
         },
@@ -1324,7 +1324,7 @@
             "patterns": [
                 " Apa saja alat musik khas Kalimantan SelataN"
             ],
-            "respon": [
+            "responses": [
                 "Panting, Kintung, Terbang Mahidin, Gamelan Banjar."
             ]
         },
@@ -1333,7 +1333,7 @@
             "patterns": [
                 "Apa makanan khas dari Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Soto Banjar, Dodol Kandangan dan Sayur Kambang Tigarun."
             ]
         },
@@ -1342,7 +1342,7 @@
             "patterns": [
                 "Apa saja objek wisata yang adandi Kalimantan Selatan?"
             ],
-            "respon": [
+            "responses": [
                 "Pasar Terapung Lok Baintan, Bukit Matang Kaladan."
             ]
         },
@@ -1351,7 +1351,7 @@
             "patterns": [
                 " Apa aktivitas luar ruangan terbaik di Kalimantan Selatan?"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Angsana, Taman Hutan Raya Sultan Adam."
             ]
         },
@@ -1360,7 +1360,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat Mappanretasi."
             ]
         },
@@ -1369,7 +1369,7 @@
             "patterns": [
                 "Untuk apa upacara adat Mappanretasi dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Sebagai tanda syukur agar hasil panen ikan berikutnya lebih baik.."
             ]
         },
@@ -1378,7 +1378,7 @@
             "patterns": [
                 "Apa kain khas yang berasal dari Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Kain batik sasirangan."
             ]
         },
@@ -1387,7 +1387,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Kalimantan Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Senjata keris banjar"
             ]
         },
@@ -1396,7 +1396,7 @@
             "patterns": [
                 "Kesenian apa yang berasal dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Tari Gantar."
             ]
         },
@@ -1405,7 +1405,7 @@
             "patterns": [
                 "Berasal dari daerah mana Tari Lalatip"
             ],
-            "respon": [
+            "responses": [
                 "Daerah Tarakan dan Kabupaten Malinau"
             ]
         },
@@ -1414,7 +1414,7 @@
             "patterns": [
                 "Kesenian apa yang berasal dari Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Seni Tari Magunatip / Lalatip"
             ]
         },
@@ -1423,7 +1423,7 @@
             "patterns": [
                 "Bagaimana Tari Lalatip ditampilkan"
             ],
-            "respon": [
+            "responses": [
                 "Tarian ini berbentuk uji ketangkasan kaki."
             ]
         },
@@ -1432,7 +1432,7 @@
             "patterns": [
                 "Apa judul lagu daerah dari Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Bebilin. Leten Jenai, Lan E Tuyang, Gunung Incung."
             ]
         },
@@ -1441,7 +1441,7 @@
             "patterns": [
                 "Dimana ibukota provinsi Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Tanjung Selor"
             ]
         },
@@ -1450,7 +1450,7 @@
             "patterns": [
                 ". Apa bahasa daerah yang paling banyak digunakan di Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Agabag, Bahasa Bulungan."
             ]
         },
@@ -1459,7 +1459,7 @@
             "patterns": [
                 "Daerah mana Bahasa Bulungan banyak digunaka"
             ],
-            "respon": [
+            "responses": [
                 "Di daerah Kabupaten Bukungan"
             ]
         },
@@ -1468,7 +1468,7 @@
             "patterns": [
                 ". Apa nama pakaian adat dari Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian Adat Ta’a dan Sapei Sapaq"
             ]
         },
@@ -1477,7 +1477,7 @@
             "patterns": [
                 "Suku bangsa apa yang mendiami daerah Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Suku Bulungan, Suku Burusu"
             ]
         },
@@ -1486,7 +1486,7 @@
             "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Bulungan"
             ],
-            "respon": [
+            "responses": [
                 "Wilayah kesultanan Bulungan"
             ]
         },
@@ -1495,7 +1495,7 @@
             "patterns": [
                 "Rumah adat apa yang berasal dari Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Adat Baloy"
             ]
         },
@@ -1504,7 +1504,7 @@
             "patterns": [
                 "Apa saja alat musik khas Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Alat musik babun, sluding, gambang, rebab."
             ]
         },
@@ -1513,7 +1513,7 @@
             "patterns": [
                 "Apa makanan khas dari Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Lawa, kepiting soka, ikan asin richa, tumis kapah"
             ]
         },
@@ -1522,7 +1522,7 @@
             "patterns": [
                 ". Apa saja objek wisata yang ada di Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Air terjun krayan, bukit damai, giram luyu"
             ]
         },
@@ -1531,7 +1531,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Upacara Biduk Bebandung"
             ]
         },
@@ -1540,7 +1540,7 @@
             "patterns": [
                 "Untuk apa upacara adat Biduk Bebandung dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Sebagai pendopo terapung untuk menyambut tamu kehormatan kesultanan bulungan."
             ]
         },
@@ -1549,7 +1549,7 @@
             "patterns": [
                 "Apa kain khas yang berasal dari Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Kain Batik Pakis Asia, Kain Tenun Ikat Lima Permata."
             ]
         },
@@ -1558,7 +1558,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Kalimantan Utara"
             ],
-            "respon": [
+            "responses": [
                 "Senjata tradisional lonjo, sipet dan Mandau"
             ]
         },
@@ -1567,7 +1567,7 @@
             "patterns": [
                 "Kesenian apa yang berasal dari Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Tari Lenso dan Tari Maengket"
             ]
         },
@@ -1576,7 +1576,7 @@
             "patterns": [
                 "Berasal dari daerah mana Tari Lenso"
             ],
-            "respon": [
+            "responses": [
                 "Daerah Maluku dan Minahasa."
             ]
         },
@@ -1585,7 +1585,7 @@
             "patterns": [
                 "Untuk acara apa Tari Lenso diadakan"
             ],
-            "respon": [
+            "responses": [
                 "Pesta pernikahan, panen cengkih, tahun baru, dsb."
             ]
         },
@@ -1594,7 +1594,7 @@
             "patterns": [
                 "Apa judul lagu daerah dari Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Si Patokan, O Ina Ni Keke."
             ]
         },
@@ -1603,7 +1603,7 @@
             "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Kadaipang, Bahasa Tombulu."
             ]
         },
@@ -1612,7 +1612,7 @@
             "patterns": [
                 "Daerah mana Bahasa Kadaipang banyak digunakan"
             ],
-            "respon": [
+            "responses": [
                 "Kabupaten Bolaang Monngondow Utara"
             ]
         },
@@ -1621,7 +1621,7 @@
             "patterns": [
                 "Apa nama pakaian adat dari Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian adat Laku Tepu"
             ]
         },
@@ -1630,7 +1630,7 @@
             "patterns": [
                 "Untuk acara apa baju adat Sulawesi Utara digunakan"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat Tulude."
             ]
         },
@@ -1639,7 +1639,7 @@
             "patterns": [
                 "Suku bangsa apa yang mendiami daerah Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Suku Minahasa, Suku Bantik"
             ]
         },
@@ -1648,7 +1648,7 @@
             "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Minahasa"
             ],
-            "respon": [
+            "responses": [
                 "Daerah Semenanjung Minahasa."
             ]
         },
@@ -1657,7 +1657,7 @@
             "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Bantik"
             ],
-            "respon": [
+            "responses": [
                 "Daerah Malalayang dan Kalasei."
             ]
         },
@@ -1666,7 +1666,7 @@
             "patterns": [
                 "Rumah adat apa yang berasal dari Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Walewangko"
             ]
         },
@@ -1675,7 +1675,7 @@
             "patterns": [
                 " Apa saja alat musik khas Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Alat music paree, sasesahang, santu."
             ]
         },
@@ -1684,7 +1684,7 @@
             "patterns": [
                 "Apa makanan khas dari Sulawesi Utara "
             ],
-            "respon": [
+            "responses": [
                 "Cakalang fufu, mie cakalang, tinoransak, bubur manado"
             ]
         },
@@ -1693,7 +1693,7 @@
             "patterns": [
                 "Apa saja objek wisata yang ada di Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional Bunaken, Pulau Siladen, Air Terjun Kima Atas."
             ]
         },
@@ -1702,7 +1702,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat mekikuwa"
             ]
         },
@@ -1711,7 +1711,7 @@
             "patterns": [
                 "Untuk apa upacara adat Mekikuwa dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Sebagai ungkapan rasa syukur atas pemelijaraan Tuhan sepanjang tahun yang telah dilewati."
             ]
         },
@@ -1720,7 +1720,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Pedang bara sangihe."
             ]
         },
@@ -1729,7 +1729,7 @@
             "patterns": [
                 " Upacara adat apa yang ada di Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat dahau, beliatn, ngugu tahun."
             ]
         },
@@ -1738,7 +1738,7 @@
             "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat pemberian nama anak oleh keluarga keturunan bangsawan."
             ]
         },
@@ -1747,7 +1747,7 @@
             "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Kain Ulap Doyo."
             ]
         },
@@ -1756,7 +1756,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Pedang bara sangihe"
             ]
         },
@@ -1765,7 +1765,7 @@
             "patterns": [
                 "Kesenian apa yang berasal dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Tari Dana Dana dan Tari Palopalo."
             ]
         },
@@ -1774,7 +1774,7 @@
             "patterns": [
                 "Untuk acara apa Tari Dana Dana diadakan"
             ],
-            "respon": [
+            "responses": [
                 "Sering dipentaskan di acara – acara besar."
             ]
         },
@@ -1783,7 +1783,7 @@
             "patterns": [
                 "Untuk acara apa Tari Palopalo diadakan"
             ],
-            "respon": [
+            "responses": [
                 "Acara penting seperti acara perayaan ulang tahun Gorontalo."
             ]
         },
@@ -1792,7 +1792,7 @@
             "patterns": [
                 "Apa judul lagu daerah dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Tahuli Mama, Binde Biluhuta, Ati Olo Ati Mama"
             ]
         },
@@ -1801,7 +1801,7 @@
             "patterns": [
                 "Dimana ibukota provinsi Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Kota Gorontalo."
             ]
         },
@@ -1810,7 +1810,7 @@
             "patterns": [
                 " Apa bahasa daerah yang paling banyak digunakan di Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Rebana, babun, ketipung, tamborens, bendera, dan paying besar berhias."
             ]
         },
@@ -1819,7 +1819,7 @@
             "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Kalimantan selatan"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Gorontalo, Bahasa Suwawa."
             ]
         },
@@ -1828,7 +1828,7 @@
             "patterns": [
                 "Apa nama pakaian adat dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian adat Biliu dan Makuta"
             ]
         },
@@ -1837,7 +1837,7 @@
             "patterns": [
                 "Suku bangsa apa yang mendiami daerah Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Suku Gorontalo, Suku Suwawa"
             ]
         },
@@ -1846,7 +1846,7 @@
             "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Sebagian besar penduduk di provinsi Gorontalo."
             ]
         },
@@ -1855,7 +1855,7 @@
             "patterns": [
                 "Rumah adat apa yang berasal dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Adat Dulohupa"
             ]
         },
@@ -1864,7 +1864,7 @@
             "patterns": [
                 "Apa saja alat musik khas Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Alat music palopalo, ganda, gambusia, marwas."
             ]
         },
@@ -1873,7 +1873,7 @@
             "patterns": [
                 "Apa makanan khas dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Binte biluhuta, ayam iloni, sashimi tuna, bilenthango "
             ]
         },
@@ -1882,7 +1882,7 @@
             "patterns": [
                 " Apa saja objek wisata yang ada di Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Museum Pendaratan Pesawat Amphibi Bung Karno, Benteng Otanaha, Danau Limboto."
             ]
         },
@@ -1891,7 +1891,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat Molothalo."
             ]
         },
@@ -1900,7 +1900,7 @@
             "patterns": [
                 "Untuk apa upacara adat Mappanretasi dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Upacara tujuh bulan anak pertama."
             ]
         },
@@ -1909,7 +1909,7 @@
             "patterns": [
                 "Apa kain khas yang berasal dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Kain Karawo"
             ]
         },
@@ -1918,7 +1918,7 @@
             "patterns": [
                 " Apa nama senjata tradisional khas Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Senjata Huwangga."
             ]
         },
@@ -1927,7 +1927,7 @@
             "patterns": [
                 "Kesenian apa yang berasal dari Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Tari Raego, Tari Dero."
             ]
         },
@@ -1936,7 +1936,7 @@
             "patterns": [
                 "Berasal dari daerah mana Tari Dero"
             ],
-            "respon": [
+            "responses": [
                 "Kabupaten Poso"
             ]
         },
@@ -1945,7 +1945,7 @@
             "patterns": [
                 ". Untuk acara apa Tari Dero diadakan"
             ],
-            "respon": [
+            "responses": [
                 "Ungkapan rasa syukur kepada Tuhan"
             ]
         },
@@ -1954,7 +1954,7 @@
             "patterns": [
                 "Apa judul lagu daerah dari Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Tondok Kadidianku, Tananggu Kaili, Rano Poso"
             ]
         },
@@ -1963,7 +1963,7 @@
             "patterns": [
                 "Dimana ibukota provinsi Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Kota Palu"
             ]
         },
@@ -1972,7 +1972,7 @@
             "patterns": [
                 ". Apa bahasa daerah yang paling banyak digunakan di Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Bada"
             ]
         },
@@ -1981,7 +1981,7 @@
             "patterns": [
                 "Daerah mana Bahasa Bada banyak digunakan"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa bada digunakan oleh etnis lore di Sulawesi Tengah."
             ]
         },
@@ -1990,7 +1990,7 @@
             "patterns": [
                 "Apa nama pakaian adat dari Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Baju Nggembe."
             ]
         },
@@ -1999,7 +1999,7 @@
             "patterns": [
                 "Untuk acara apa baju adat Sulawesi Tengah digunakan"
             ],
-            "respon": [
+            "responses": [
                 "Baju ini dipakai pada acara adat dan acara khusus suku Kaili."
             ]
         },
@@ -2008,7 +2008,7 @@
             "patterns": [
                 "Suku bangsa apa yang mendiami daerah Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Suku Bada, Suku Balantak."
             ]
         },
@@ -2017,7 +2017,7 @@
             "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Bada"
             ],
-            "respon": [
+            "responses": [
                 "Di bagian semenanjung ujung Sulawesi Tengah"
             ]
         },
@@ -2026,7 +2026,7 @@
             "patterns": [
                 " Rumah adat apa yang berasal dari Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Adat Tambi"
             ]
         },
@@ -2035,7 +2035,7 @@
             "patterns": [
                 " Apa saja alat musik khas Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Alat music Ganda, Geso-Geso, Talindi, Tatali."
             ]
         },
@@ -2044,7 +2044,7 @@
             "patterns": [
                 "Apa makanan khas dari Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Sup Kalido, Onyop, Lalampa, Milu Siram"
             ]
         },
@@ -2053,7 +2053,7 @@
             "patterns": [
                 "Apa saja objek wisata yang ada di Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Talise, Jembatan Palu, Gunung Gawalise"
             ]
         },
@@ -2062,7 +2062,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Baliya Jinja"
             ]
         },
@@ -2071,7 +2071,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Senjata Cakalele."
             ]
         },
@@ -2080,7 +2080,7 @@
             "patterns": [
                 "Kesenian apa yang berasal dari Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tari Perang, Tari Ma’bundu"
             ]
         },
@@ -2089,7 +2089,7 @@
             "patterns": [
                 "Berasal dari daerah mana Tari Ma’bundu"
             ],
-            "respon": [
+            "responses": [
                 "Kecamatan Bonehau dan Kecamatan Kalumpang di Kota Mamuju"
             ]
         },
@@ -2098,7 +2098,7 @@
             "patterns": [
                 "Bagaimana Tari Perang ditampilkan"
             ],
-            "respon": [
+            "responses": [
                 "Ditarikan oleh seseorang atau sekelompok orang dengan maksud menggambarkan semangat dan cara-cara berperang"
             ]
         },
@@ -2107,7 +2107,7 @@
             "patterns": [
                 "Bagaimana Tari Ma’bundu ditampilkan"
             ],
-            "respon": [
+            "responses": [
                 "Ditampilkan oleh beberapa penari wanita dan pria, yang sambil memegang tombak."
             ]
         },
@@ -2116,7 +2116,7 @@
             "patterns": [
                 "Apa judul lagu daerah dari Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tenggang-Tenggang Lopi, Panawar Sililiu, Pulo Karampuang."
             ]
         },
@@ -2125,7 +2125,7 @@
             "patterns": [
                 "Dimana ibukota provinsi Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Kabupaten Mamuju"
             ]
         },
@@ -2134,7 +2134,7 @@
             "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Mamasa"
             ]
         },
@@ -2143,7 +2143,7 @@
             "patterns": [
                 "Daerah mana Bahasa Mamasa banyak digunakan"
             ],
-            "respon": [
+            "responses": [
                 "Di daerah sepanjang Sungai Mamasa, Kabupaten Mamasa"
             ]
         },
@@ -2152,7 +2152,7 @@
             "patterns": [
                 " Apa nama pakaian adat dari Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Lipa Saqbe Mandar"
             ]
         },
@@ -2161,7 +2161,7 @@
             "patterns": [
                 "Untuk acara apa baju adat Sulawesi Barat digunakan"
             ],
-            "respon": [
+            "responses": [
                 "Digunakan pada upacara adat tertentu"
             ]
         },
@@ -2170,7 +2170,7 @@
             "patterns": [
                 "Suku bangsa apa yang mendiami daerah Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Suku Mandar"
             ]
         },
@@ -2179,7 +2179,7 @@
             "patterns": [
                 " Di daerah mana kita banyak menjumpai penduduk Suku Mandar"
             ],
-            "respon": [
+            "responses": [
                 "Wilayah Sulawesi Barat, serta sebagian Sulawesi Selatan, dan Sulawesi Tengah"
             ]
         },
@@ -2188,7 +2188,7 @@
             "patterns": [
                 "Rumah adat apa yang berasal dari Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Adat Boyang"
             ]
         },
@@ -2197,7 +2197,7 @@
             "patterns": [
                 "Apa saja alat musik khas Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Calong, Kecapi Mandar, Pakkeke, Gongga Lima"
             ]
         },
@@ -2206,7 +2206,7 @@
             "patterns": [
                 ". Apa makanan khas dari Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Loka Sattai, Bau Piapi, Apang, Sambusa, Kue Cucur."
             ]
         },
@@ -2215,7 +2215,7 @@
             "patterns": [
                 "Apa saja objek wisata yang ada di Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Anjungan Pantai Manakarra, Pulau Karampuang, Pantai Mampie."
             ]
         },
@@ -2224,7 +2224,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat mattamu buah"
             ]
         },
@@ -2233,7 +2233,7 @@
             "patterns": [
                 " Untuk apa upacara adat Mattamu Buah dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi menyambut musim buah"
             ]
         },
@@ -2242,7 +2242,7 @@
             "patterns": [
                 "Apa kain khas yang berasal dari Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Kain tenun sekomandi, kain tenun sutera suku mandar, sambu mamasa"
             ]
         },
@@ -2251,7 +2251,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Badik dan Tombak."
             ]
         },
@@ -2260,7 +2260,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat mekikuwa"
             ]
         },
@@ -2269,7 +2269,7 @@
             "patterns": [
                 "Untuk apa upacara adat Mekikuwa dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Sebagai ungkapan rasa syukur atas pemelijaraan Tuhan sepanjang tahun yang telah dilewati."
             ]
         },
@@ -2278,7 +2278,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Pedang bara sangihe."
             ]
         },
@@ -2287,7 +2287,7 @@
             "patterns": [
                 " Upacara adat apa yang ada di Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat dahau, beliatn, ngugu tahun."
             ]
         },
@@ -2296,7 +2296,7 @@
             "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat pemberian nama anak oleh keluarga keturunan bangsawan."
             ]
         },
@@ -2305,7 +2305,7 @@
             "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Kain Ulap Doyo."
             ]
         },
@@ -2314,7 +2314,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Pedang bara sangihe"
             ]
         },
@@ -2323,7 +2323,7 @@
             "patterns": [
                 "Kesenian apa yang berasal dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Tari Dana Dana dan Tari Palopalo."
             ]
         },
@@ -2332,7 +2332,7 @@
             "patterns": [
                 "Untuk acara apa Tari Dana Dana diadakan"
             ],
-            "respon": [
+            "responses": [
                 "Sering dipentaskan di acara – acara besar."
             ]
         },
@@ -2341,7 +2341,7 @@
             "patterns": [
                 "Untuk acara apa Tari Palopalo diadakan"
             ],
-            "respon": [
+            "responses": [
                 "Acara penting seperti acara perayaan ulang tahun Gorontalo."
             ]
         },
@@ -2350,7 +2350,7 @@
             "patterns": [
                 "Apa judul lagu daerah dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Tahuli Mama, Binde Biluhuta, Ati Olo Ati Mama"
             ]
         },
@@ -2359,7 +2359,7 @@
             "patterns": [
                 "Dimana ibukota provinsi Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Kota Gorontalo."
             ]
         },
@@ -2368,7 +2368,7 @@
             "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Suku Sekak, Sakai, dan Lom."
             ]
         },
@@ -2377,7 +2377,7 @@
             "patterns": [
                 "Pakaian adat apakah yang khas dengan Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Baju seting"
             ]
         },
@@ -2386,7 +2386,7 @@
             "patterns": [
                 "Sebutkan senjata daerah yang ada di Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Parang Bangka dan kedik"
             ]
         },
@@ -2395,7 +2395,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 " Tari campak, tari zapin."
             ]
         },
@@ -2404,7 +2404,7 @@
             "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Dambus, suling."
             ]
         },
@@ -2413,7 +2413,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Mentinlin."
             ]
         },
@@ -2422,7 +2422,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Kayu agung dan melayu."
             ]
         },
@@ -2431,7 +2431,7 @@
             "patterns": [
                 "Sebutkan pahlawan yang berasal dari Bangka Belitung."
             ],
-            "respon": [
+            "responses": [
                 "H.A.S. Hanandjoeddin"
             ]
         },
@@ -2440,7 +2440,7 @@
             "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Berage, Yo miak"
             ]
         },
@@ -2449,7 +2449,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Lempah Kuning."
             ]
         },
@@ -2458,7 +2458,7 @@
             "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Asal usul Tanjung Penyusuk"
             ]
         },
@@ -2467,7 +2467,7 @@
             "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Minahasa"
             ],
-            "respon": [
+            "responses": [
                 "Daerah Semenanjung Minahasa."
             ]
         },
@@ -2476,7 +2476,7 @@
             "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Rumah panggung."
             ]
         },
@@ -2485,7 +2485,7 @@
             "patterns": [
                 "Sebutkan tumbuhan endemik dari Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Tumbuhan Nagasari"
             ]
         },
@@ -2494,7 +2494,7 @@
             "patterns": [
                 " Hasil bumi apakah yang dihasilkan di Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Timah, bijih besi."
             ]
         },
@@ -2503,7 +2503,7 @@
             "patterns": [
                 "Sebutkan upacara adat yang ada di Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Nujuh nerami"
             ]
         },
@@ -2512,7 +2512,7 @@
             "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 " Taman Nasional Batu Penyu."
             ]
         },
@@ -2521,7 +2521,7 @@
             "patterns": [
                 "Pada tahun berapakah Provinsi Bangka Belitung di bentuk"
             ],
-            "respon": [
+            "responses": [
                 "4 Desember 2000, terbentuk karena pemekaran dari provinsi Sumatra Selatan"
             ]
         },
@@ -2530,7 +2530,7 @@
             "patterns": [
                 "Sebutkan kain yang khas dari Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 " Kain Cual."
             ]
         },
@@ -2539,7 +2539,7 @@
             "patterns": [
                 "Bangka Belitung berada pada pulau"
             ],
-            "respon": [
+            "responses": [
                 " Pulau Sumatra."
             ]
         },
@@ -2548,7 +2548,7 @@
             "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Parai Tenggiri"
             ]
         },
@@ -2557,7 +2557,7 @@
             "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Suku Rejang, Serawai, Minang Mukomuko."
             ]
         },
@@ -2566,7 +2566,7 @@
             "patterns": [
                 "Pakaian adat apakah yang khas dengan Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Rejang lebong."
             ]
         },
@@ -2575,7 +2575,7 @@
             "patterns": [
                 "Sebutkan senjata daerah yang ada di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Keris Bengkulu, Rambai Ayam, Sewar, Dodong dan Rudus."
             ]
         },
@@ -2584,7 +2584,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Tari Tombak Kerbau, Tari Gandai, Tari Putri Gading Cempaka."
             ]
         },
@@ -2593,7 +2593,7 @@
             "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 " serunai"
             ]
         },
@@ -2602,7 +2602,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Beruang madu."
             ]
         },
@@ -2611,7 +2611,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Melayu Bengkulu"
             ]
         },
@@ -2620,7 +2620,7 @@
             "patterns": [
                 "Sebutkan pahlawan yang berasal dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Ibu Fatmawati, AM. Hanafi"
             ]
         },
@@ -2629,7 +2629,7 @@
             "patterns": [
                 " Sebutkan lagu daerah yang berasal dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Anak kunang, lalan belek."
             ]
         },
@@ -2638,7 +2638,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 " Bay tat, Godok-godok."
             ]
         },
@@ -2647,7 +2647,7 @@
             "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Putri Gading Cempaka"
             ]
         },
@@ -2656,7 +2656,7 @@
             "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Bubungan Lima"
             ]
         },
@@ -2665,7 +2665,7 @@
             "patterns": [
                 "Sebutkan tumbuhan endemik dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Sebagian besar penduduk di provinsi Gorontalo."
             ]
         },
@@ -2674,7 +2674,7 @@
             "patterns": [
                 "Rumah adat apa yang berasal dari Gorontalo"
             ],
-            "respon": [
+            "responses": [
                 "Rafflesia Arnoldi"
             ]
         },
@@ -2683,7 +2683,7 @@
             "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 " Batu bara."
             ]
         },
@@ -2692,7 +2692,7 @@
             "patterns": [
                 "Sebutkan upacara adat yang ada di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 " Tabut"
             ]
         },
@@ -2701,7 +2701,7 @@
             "patterns": [
                 " Sebutkan salah satu taman nasional yang ada di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional Bukit Barisan Selatan."
             ]
         },
@@ -2710,7 +2710,7 @@
             "patterns": [
                 "Pada tahun berapakah Provinsi Bengkulu di bentuk"
             ],
-            "respon": [
+            "responses": [
                 "18 November 1968."
             ]
         },
@@ -2719,7 +2719,7 @@
             "patterns": [
                 "Sebutkan kain yang khas dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Kain buserek."
             ]
         },
@@ -2728,7 +2728,7 @@
             "patterns": [
                 "Bengkulu berada pada pulau"
             ],
-            "respon": [
+            "responses": [
                 "Pulau Sumatra"
             ]
         },
@@ -2737,7 +2737,7 @@
             "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Padma Raksasa."
             ]
         },
@@ -2746,7 +2746,7 @@
             "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Suku lampung."
             ]
         },
@@ -2755,7 +2755,7 @@
             "patterns": [
                 "Pakaian adat apakah yang khas dengan Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Tulang bawang"
             ]
         },
@@ -2764,7 +2764,7 @@
             "patterns": [
                 "Sebutkan senjata daerah yang ada di Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Badik lampung"
             ]
         },
@@ -2773,7 +2773,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Tari sembah"
             ]
         },
@@ -2782,7 +2782,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Gajah sumatra"
             ]
         },
@@ -2791,7 +2791,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa lampung."
             ]
         },
@@ -2800,7 +2800,7 @@
             "patterns": [
                 "Sebutkan pahlawan yang berasal dari Lampung"
             ],
-            "respon": [
+            "responses": [
                 "H. Abu Bakar Sidiq, Achmad Akuan, Arifin R.I, Zainaboen Djajasinga, H. Alimuddin Umar"
             ]
         },
@@ -2809,7 +2809,7 @@
             "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Lampung"
             ],
-            "respon": [
+            "responses": [
                 " Lipang lipangdang, teluk lampung."
             ]
         },
@@ -2818,7 +2818,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Gulai taboh, tempoyak."
             ]
         },
@@ -2827,7 +2827,7 @@
             "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Legenda kelekup"
             ]
         },
@@ -2836,7 +2836,7 @@
             "patterns": [
                 " Rumah adat apakah yang menjadi ciri khas dari Provinsi Lampung"
             ],
-            "respon": [
+            "responses": [
                 " Nuwo sesat"
             ]
         },
@@ -2845,7 +2845,7 @@
             "patterns": [
                 "Sebutkan tumbuhan endemic dari Lampung"
             ],
-            "respon": [
+            "responses": [
                 " kecubung"
             ]
         },
@@ -2854,7 +2854,7 @@
             "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Padi, jagung ubi, kayu"
             ]
         },
@@ -2863,7 +2863,7 @@
             "patterns": [
                 " Sebutkan upacara adat yang ada di Lampung"
             ],
-            "respon": [
+            "responses": [
                 " Ngumbai lawok"
             ]
         },
@@ -2872,7 +2872,7 @@
             "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Baliya Jinja"
             ]
         },
@@ -2881,7 +2881,7 @@
             "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional Way Kambas"
             ]
         },
@@ -2890,7 +2890,7 @@
             "patterns": [
                 "Pada tahun berapakah Provinsi Lampung di bentuk"
             ],
-            "respon": [
+            "responses": [
                 "18 Maret 1964"
             ]
         },
@@ -2899,7 +2899,7 @@
             "patterns": [
                 "Sebutkan kain yang khas dari Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Kain tapis"
             ]
         },
@@ -2908,7 +2908,7 @@
             "patterns": [
                 "Lampung berada pada pulau"
             ],
-            "respon": [
+            "responses": [
                 "Pulau Sumatera"
             ]
         },
@@ -2917,7 +2917,7 @@
             "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Danau Ranau."
             ]
         },
@@ -2926,7 +2926,7 @@
             "patterns": [
                 "Suku bangsa apakah yang menempati provinsi DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Betawi."
             ]
         },
@@ -2935,7 +2935,7 @@
             "patterns": [
                 "Pakaian adat apakah yang khas dengan DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Kebaya encim"
             ]
         },
@@ -2944,7 +2944,7 @@
             "patterns": [
                 "Sebutkan senjata daerah yang ada di DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "golok"
             ]
         },
@@ -2953,7 +2953,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Tari ondel-ondel, Nandak Ganjen"
             ]
         },
@@ -2962,7 +2962,7 @@
             "patterns": [
                 "Sebutkan alat musik tradisional berasal dari DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Orkes samrah, tanjidor"
             ]
         },
@@ -2971,7 +2971,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Elang bondol"
             ]
         },
@@ -2980,7 +2980,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 " betawi."
             ]
         },
@@ -2989,7 +2989,7 @@
             "patterns": [
                 "Sebutkan pahlawan yang berasal dari DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Moh. Hatta"
             ]
         },
@@ -2998,7 +2998,7 @@
             "patterns": [
                 "Sebutkan lagu daerah yang berasal dari DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 " Kicir- kicir, gang kelinci"
             ]
         },
@@ -3007,7 +3007,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Kerak telor"
             ]
         },
@@ -3016,7 +3016,7 @@
             "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Lenong betawi"
             ]
         },
@@ -3025,7 +3025,7 @@
             "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Rumah kebaya."
             ]
         },
@@ -3034,7 +3034,7 @@
             "patterns": [
                 "Sebutkan tumbuhan endemic dari DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "ASalak condet."
             ]
         },
@@ -3043,7 +3043,7 @@
             "patterns": [
                 "Hasil bumi apakah yang dihasilkan di DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Hasil bumi apakah yang dihasilkan di DKI Jakarta?"
             ]
         },
@@ -3052,7 +3052,7 @@
             "patterns": [
                 "Sebutkan upacara adat yang ada di DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Pinde rume, nginjek tanah"
             ]
         },
@@ -3061,7 +3061,7 @@
             "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional Kepulauan Seribu"
             ]
         },
@@ -3070,7 +3070,7 @@
             "patterns": [
                 "Pada tahun berapakah Provinsi DKI Jakarta di bentuk"
             ],
-            "respon": [
+            "responses": [
                 "22 juni 1527."
             ]
         },
@@ -3079,7 +3079,7 @@
             "patterns": [
                 "Sebutkan kain yang khas dari DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Kain batik marunda"
             ]
         },
@@ -3088,7 +3088,7 @@
             "patterns": [
                 "DKI Jakarta berada pada pulau"
             ],
-            "respon": [
+            "responses": [
                 " Jawa."
             ]
         },
@@ -3097,7 +3097,7 @@
             "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi DKI Jakarta"
             ],
-            "respon": [
+            "responses": [
                 "Ancol"
             ]
         },
@@ -3106,7 +3106,7 @@
             "patterns": [
                 " Suku bangsa apakah yang menempati provinsi Banten"
             ],
-            "respon": [
+            "responses": [
                 "Baduy dan Sunda."
             ]
         },
@@ -3115,7 +3115,7 @@
             "patterns": [
                 "Pakaian adat apakah yang khas dengan Pakaian adat"
             ],
-            "respon": [
+            "responses": [
                 "Baju Pangsi"
             ]
         },
@@ -3124,7 +3124,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Banten"
             ],
-            "respon": [
+            "responses": [
                 "Tari Grebeg Terbang Gede, Maler Bedug."
             ]
         },
@@ -3133,7 +3133,7 @@
             "patterns": [
                 "Sebutkan senjata daerah yang ada di Banten"
             ],
-            "respon": [
+            "responses": [
                 "golok"
             ]
         },
@@ -3142,7 +3142,7 @@
             "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Banten"
             ],
-            "respon": [
+            "responses": [
                 "Rampak Bedug, Angklung Buhun."
             ]
         },
@@ -3151,7 +3151,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Banten"
             ],
-            "respon": [
+            "responses": [
                 "Badak jawa, owa jawa."
             ]
         },
@@ -3160,7 +3160,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Banten"
             ],
-            "respon": [
+            "responses": [
                 "Sunda Banten, jawa Serang."
             ]
         },
@@ -3169,7 +3169,7 @@
             "patterns": [
                 "Sebutkan pahlawan yang berasal dari Banten"
             ],
-            "respon": [
+            "responses": [
                 "Sultan Ageng Tirtayasa, Syafruddin Prawiranegara"
             ]
         },
@@ -3178,7 +3178,7 @@
             "patterns": [
                 " Sebutkan lagu daerah yang berasal dari Banten"
             ],
-            "respon": [
+            "responses": [
                 " Tong sarakah, Jereh Bu Guru"
             ]
         },
@@ -3187,7 +3187,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Banten"
             ],
-            "respon": [
+            "responses": [
                 "Pecak bandeng, kue cucur"
             ]
         },
@@ -3196,7 +3196,7 @@
             "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Banten"
             ],
-            "respon": [
+            "responses": [
                 "Karang Bolong"
             ]
         },
@@ -3205,7 +3205,7 @@
             "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Banten"
             ],
-            "respon": [
+            "responses": [
                 "Sulah Nyanda"
             ]
         },
@@ -3214,7 +3214,7 @@
             "patterns": [
                 "Sebutkan tumbuhan endemic dari Banten"
             ],
-            "respon": [
+            "responses": [
                 "  kokoleceran."
             ]
         },
@@ -3223,7 +3223,7 @@
             "patterns": [
                 " Hasil bumi apakah yang dihasilkan di Banten"
             ],
-            "respon": [
+            "responses": [
                 "Padi dan palawija."
             ]
         },
@@ -3232,7 +3232,7 @@
             "patterns": [
                 "Sebutkan upacara adat yang ada di Banten"
             ],
-            "respon": [
+            "responses": [
                 "Seren taun, ngalaksa."
             ]
         },
@@ -3241,7 +3241,7 @@
             "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Banten"
             ],
-            "respon": [
+            "responses": [
                 "Kayu agung dan melayu."
             ]
         },
@@ -3250,7 +3250,7 @@
             "patterns": [
                 "Sebutkan pahlawan yang berasal dari Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional Ujung Kulon"
             ]
         },
@@ -3259,7 +3259,7 @@
             "patterns": [
                 "Pada tahun berapakah Provinsi Banten di bentuk"
             ],
-            "respon": [
+            "responses": [
                 "4 Oktober 2000"
             ]
         },
@@ -3268,7 +3268,7 @@
             "patterns": [
                 "Sebutkan kain yang khas dari Banten"
             ],
-            "respon": [
+            "responses": [
                 "Kain tenun baduy"
             ]
         },
@@ -3277,7 +3277,7 @@
             "patterns": [
                 "Banten berada pada pulau"
             ],
-            "respon": [
+            "responses": [
                 "Pulau Jawa"
             ]
         },
@@ -3286,7 +3286,7 @@
             "patterns": [
                 " sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Banten"
             ],
-            "respon": [
+            "responses": [
                 "Tanjung lesung, Pantai Anyer"
             ]
         },
@@ -3295,7 +3295,7 @@
             "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Rumah panggung."
             ]
         },
@@ -3304,7 +3304,7 @@
             "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " sunda"
             ]
         },
@@ -3313,7 +3313,7 @@
             "patterns": [
                 " Pakaian adat apakah yang khas dengan Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Kebaya sunda"
             ]
         },
@@ -3322,7 +3322,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tari Merak, Jaipong"
             ]
         },
@@ -3331,7 +3331,7 @@
             "patterns": [
                 " Sebutkan alat musik tradisional berasal dari Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Angklung, gembyung"
             ]
         },
@@ -3340,7 +3340,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Macan tutul jawa"
             ]
         },
@@ -3349,7 +3349,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Sunda."
             ]
         },
@@ -3358,7 +3358,7 @@
             "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Bubuy bulan, manuk dadali"
             ]
         },
@@ -3367,7 +3367,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Dodol, tahu sumedang,."
             ]
         },
@@ -3376,7 +3376,7 @@
             "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Sangkuriang, asal usul Tangkubanperahu"
             ]
         },
@@ -3385,7 +3385,7 @@
             "patterns": [
                 " Rumah adat apakah yang menjadi ciri khas dari Provinsi Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Rumah kasepuhan"
             ]
         },
@@ -3394,7 +3394,7 @@
             "patterns": [
                 "Sebutkan tumbuhan endemic dari Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "gandaria."
             ]
         },
@@ -3403,7 +3403,7 @@
             "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Teh, cengkeh, karet"
             ]
         },
@@ -3412,7 +3412,7 @@
             "patterns": [
                 "Sebutkan upacara adat yang ada di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Ngaruwat bumi, nenjrang bumi"
             ]
         },
@@ -3421,7 +3421,7 @@
             "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Taman Nasional Gunung Ciremai"
             ]
         },
@@ -3430,7 +3430,7 @@
             "patterns": [
                 "Pada tahun berapakah Provinsi Jawa Barat di bentuk"
             ],
-            "respon": [
+            "responses": [
                 " 19 Agustus 1945"
             ]
         },
@@ -3439,7 +3439,7 @@
             "patterns": [
                 "Sebutkan kain yang khas dari Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Kain batik megamendung, kain batik ciamis."
             ]
         },
@@ -3448,7 +3448,7 @@
             "patterns": [
                 " Jawa Barat berada pada pulau"
             ],
-            "respon": [
+            "responses": [
                 " Pulau Jawa."
             ]
         },
@@ -3457,7 +3457,7 @@
             "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Kawah putih, Keraton Kasepuhan"
             ]
         },
@@ -3466,7 +3466,7 @@
             "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Jawa"
             ]
         },
@@ -3475,7 +3475,7 @@
             "patterns": [
                 "Pakaian adat apakah yang khas dengan Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "kebaya"
             ]
         },
@@ -3484,7 +3484,7 @@
             "patterns": [
                 "Sebutkan senjata daerah yang ada di Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Keris jawa."
             ]
         },
@@ -3493,7 +3493,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Serimpi, gambyong"
             ]
         },
@@ -3502,7 +3502,7 @@
             "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "gamelan"
             ]
         },
@@ -3511,7 +3511,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Kepudang kuduk hitam"
             ]
         },
@@ -3520,7 +3520,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 " jawa"
             ]
         },
@@ -3529,7 +3529,7 @@
             "patterns": [
                 "Sebutkan pahlawan yang berasal dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Ki Hajar Dewantar, Jendral Ahmad Yani"
             ]
         },
@@ -3538,7 +3538,7 @@
             "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Gambang suling, lir ilir, padhang Bulan"
             ]
         },
@@ -3547,7 +3547,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Selat Solo, Lumpia, lontong krubyuk"
             ]
         },
@@ -3556,7 +3556,7 @@
             "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Roro Jonggrang, Buto Ijo"
             ]
         },
@@ -3565,7 +3565,7 @@
             "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 " Rumah Joglo"
             ]
         },
@@ -3574,7 +3574,7 @@
             "patterns": [
                 "Sebutkan tumbuhan endemic dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 " Kantil"
             ]
         },
@@ -3583,7 +3583,7 @@
             "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Kedelai, kapulaga, beras hitam"
             ]
         },
@@ -3592,7 +3592,7 @@
             "patterns": [
                 "Sebutkan upacara adat yang ada di Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 " Mitoni, grebeg suro"
             ]
         },
@@ -3601,7 +3601,7 @@
             "patterns": [
                 " Sebutkan salah satu taman nasional yang ada di Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional KarimunJawa"
             ]
         },
@@ -3610,7 +3610,7 @@
             "patterns": [
                 " Sebutkan kain yang khas dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Kain batik parang, kawung, sekar jagat bumi"
             ]
         },
@@ -3619,7 +3619,7 @@
             "patterns": [
                 "Jawa Tengah berada pada pulau"
             ],
-            "respon": [
+            "responses": [
                 "Pulau Jawa"
             ]
         },
@@ -3628,7 +3628,7 @@
             "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "Karimun Jawa, Gunung Merapi."
             ]
         },
@@ -3637,7 +3637,7 @@
             "patterns": [
                 "Suku apa saja yang ada di Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Suku Bugis, Suku Makassar, Suku Toraja, Suku Bangsa Sulawesi dan Selatan Suku Mandar"
             ]
         },
@@ -3646,7 +3646,7 @@
             "patterns": [
                 "Apa saja adat istiadat yang ada di Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Rambu Tuka' (Toraja) Raumbu tuka, Ma'nen'e."
             ]
         },
@@ -3655,7 +3655,7 @@
             "patterns": [
                 "Apa saja pakaian adat Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Baju Bodo, Baju Labbu, Baju Tutu, Pattuqduq Towaine. "
             ]
         },
@@ -3664,7 +3664,7 @@
             "patterns": [
                 "Apa nama rumah adat di Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Adat Tongkonan"
             ]
         },
@@ -3673,7 +3673,7 @@
             "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Rumah khas Bugis ini "
             ]
         },
@@ -3682,7 +3682,7 @@
             "patterns": [
                 "Apa nama tarian dari Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "tari tradisional. Tari Kipas Pakarena. Tari Pa'bitte Passapu. Tari Pajoge Maradika. "
             ]
         },
@@ -3691,7 +3691,7 @@
             "patterns": [
                 "Apa saja makanan khas Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Pisang Epe Makanan Khas Sulawesi Selatan, Es Pisang Ijo, Barongko."
             ]
         },
@@ -3700,7 +3700,7 @@
             "patterns": [
                 "Apa oleh-oleh khas dari Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Kue Baruasa, Bannang-bannang, Kue Tori "
             ]
         },
@@ -3709,7 +3709,7 @@
             "patterns": [
                 "Apa Bahasa Daerah Provinsi Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Bugis De "
             ]
         },
@@ -3718,7 +3718,7 @@
             "patterns": [
                 "Apa kabar dalam bahasa Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Apa kareba? Aga Kareba?."
             ]
         },
@@ -3727,7 +3727,7 @@
             "patterns": [
                 "Apa nama Upacara Adat Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Rambu Tuka' (Toraja) Raumbu tuka ."
             ]
         },
@@ -3736,7 +3736,7 @@
             "patterns": [
                 " Apa saja senjata Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Bessing, Bessing Banranga, Tappi. "
             ]
         },
@@ -3745,7 +3745,7 @@
             "patterns": [
                 "Tradisi apa yang diselenggarakan di Bone Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi adu betis,Mappalanca, atau Mallanca "
             ]
         },
@@ -3754,7 +3754,7 @@
             "patterns": [
                 "Apa kegiatan adat istiadat di Tana Toraja Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Tana Toraja "
             ]
         },
@@ -3763,7 +3763,7 @@
             "patterns": [
                 "Lagu daerah Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Anging Mammiri, Sajeng Rennu, Marendeng Marampa. ."
             ]
         },
@@ -3772,7 +3772,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Losari, Pulau Kodingareng Keke, Pantai Akkarena"
             ]
         },
@@ -3781,7 +3781,7 @@
             "patterns": [
                 "Apa keunikan dari baju adat Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "pakaian adat Lipa Hinoru ."
             ]
         },
@@ -3790,7 +3790,7 @@
             "patterns": [
                 "Suku apa saja yang ada di Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Muna, Buton, Tolaki dan Mornene. "
             ]
         },
@@ -3799,7 +3799,7 @@
             "patterns": [
                 "Apa saja adat istiadat yang ada di Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "posuo."
             ]
         },
@@ -3808,7 +3808,7 @@
             "patterns": [
                 "Apa saja pakaian adat Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "pakaian adat Babu Nggawi dan pakaian adat Babu Nggawi Langgai. "
             ]
         },
@@ -3817,7 +3817,7 @@
             "patterns": [
                 "Apa nama pakaian adat wanita Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "pakaian adat Babu Nggawi untuk mempelai wanita. ."
             ]
         },
@@ -3826,7 +3826,7 @@
             "patterns": [
                 "Apa nama pakaian adat pria Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "pakaian pria biasanya mereka menggunakan bhatu (baju) "
             ]
         },
@@ -3835,7 +3835,7 @@
             "patterns": [
                 "Apa nama rumah adat di Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Banua Tada "
             ]
         },
@@ -3844,7 +3844,7 @@
             "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 " kayu tanpa menggunakan paku. ."
             ]
         },
@@ -3853,7 +3853,7 @@
             "patterns": [
                 "Apa nama tarian dari Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Tari Malulo atau Lulo merupakan salah ."
             ]
         },
@@ -3862,7 +3862,7 @@
             "patterns": [
                 "Apakah tarian khas dari Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Tari Dinggu dari Daerah Sulawesi Tenggara"
             ]
         },
@@ -3871,7 +3871,7 @@
             "patterns": [
                 "Apa saja makanan khas Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Lapa-Lapa ."
             ]
         },
@@ -3880,7 +3880,7 @@
             "patterns": [
                 "Apa oleh-oleh khas dari Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Kerajinan Perak, Kain Tenun Khas Kendari,Bagea. ."
             ]
         },
@@ -3889,7 +3889,7 @@
             "patterns": [
                 "Apa Bahasa Daerah Provinsi Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Apa kareba? Aga Kareba? . "
             ]
         },
@@ -3898,7 +3898,7 @@
             "patterns": [
                 " Apa kabar dalam bahasa Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 " Apa kareba? Aga Kareba?"
             ]
         },
@@ -3907,7 +3907,7 @@
             "patterns": [
                 "Apa nama Upacara Adat Sulawesi Tenggara "
             ],
-            "respon": [
+            "responses": [
                 "Adat Posuo."
             ]
         },
@@ -3916,7 +3916,7 @@
             "patterns": [
                 "Apa saja senjata Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "parang taawu"
             ]
         },
@@ -3925,7 +3925,7 @@
             "patterns": [
                 "Tradisi apa yang diselenggarakan Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi Mobasa-basa."
             ]
         },
@@ -3934,7 +3934,7 @@
             "patterns": [
                 "Apa kegiatan adat istiadat di Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Sisemba "
             ]
         },
@@ -3943,7 +3943,7 @@
             "patterns": [
                 "Lagu daerah Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Tana Wolio, Koemo Moghae hingga Molulo.."
             ]
         },
@@ -3952,7 +3952,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Sagori. Sagori Island, Pulau Muna."
             ]
         },
@@ -3961,7 +3961,7 @@
             "patterns": [
                 "Apa keunikan dari baju adat Maluku"
             ],
-            "respon": [
+            "responses": [
                 "baju cele perempuan"
             ]
         },
@@ -3970,7 +3970,7 @@
             "patterns": [
                 "Suku apa saja yang ada di Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Suku Alifuru, Suku Buru, Suku Sahu, Suku Rana, Suku Tanimbar."
             ]
         },
@@ -3979,7 +3979,7 @@
             "patterns": [
                 "Apa saja adat istiadat yang ada di Maluku"
             ],
-            "respon": [
+            "responses": [
                 "dilaksanakan di seluruh daerah Maluku ."
             ]
         },
@@ -3988,7 +3988,7 @@
             "patterns": [
                 "Apa saja pakaian adat Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Obor Pattimura, Makan Patita, Adat Cuci Negeri Soya, Upacara Fangnea Kidabela."
             ]
         },
@@ -3997,7 +3997,7 @@
             "patterns": [
                 "Apa nama pakaian adat wanita Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Baju salele pada perempuan  "
             ]
         },
@@ -4006,7 +4006,7 @@
             "patterns": [
                 "Apa nama pakaian adat pria Maluku"
             ],
-            "respon": [
+            "responses": [
                 "baju cele"
             ]
         },
@@ -4015,7 +4015,7 @@
             "patterns": [
                 "Apa nama rumah adat di Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Baileo."
             ]
         },
@@ -4024,7 +4024,7 @@
             "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Maluku"
             ],
-            "respon": [
+            "responses": [
                 "rumah baileo"
             ]
         },
@@ -4033,7 +4033,7 @@
             "patterns": [
                 "Apa saja nama tarian dari Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Tari Tifa Lenso. Tari Hula – hula. Tari Huhate. "
             ]
         },
@@ -4042,7 +4042,7 @@
             "patterns": [
                 "Apakah tarian khas dari Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Tari Yerik."
             ]
         },
@@ -4051,7 +4051,7 @@
             "patterns": [
                 "Apa saja makanan khas Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Papeda, Woku komo-komo, Rujak natsepa/Rujak Ambon"
             ]
         },
@@ -4060,7 +4060,7 @@
             "patterns": [
                 "Apa oleh-oleh khas dari Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Papeda."
             ]
         },
@@ -4069,7 +4069,7 @@
             "patterns": [
                 "Apa Bahasa Daerah Provinsi Maluku"
             ],
-            "respon": [
+            "responses": [
                 "bahasa Alune, Ambalau, Asilulu, Balkewan, Banda."
             ]
         },
@@ -4078,7 +4078,7 @@
             "patterns": [
                 "Apa kabar dalam bahasa Maluku"
             ],
-            "respon": [
+            "responses": [
                 "soto mole"
             ]
         },
@@ -4087,7 +4087,7 @@
             "patterns": [
                 "Apa nama Upacara Adat Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Cuci Negeri Soya, Upacara cuci negeri"
             ]
         },
@@ -4096,7 +4096,7 @@
             "patterns": [
                 "Apa saja senjata Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Parang Salawaku dan Kalawai."
             ]
         },
@@ -4105,7 +4105,7 @@
             "patterns": [
                 "Tradisi apa yang diselenggarakan di Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi Arumbae"
             ]
         },
@@ -4114,7 +4114,7 @@
             "patterns": [
                 "Apa kegiatan adat istiadat di Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Makan Patita"
             ]
         },
@@ -4123,7 +4123,7 @@
             "patterns": [
                 "Lagu daerah Maluku"
             ],
-            "respon": [
+            "responses": [
                 "Ayo Mama. Ayo mama, mama jangan marah beta, Ambon Manise."
             ]
         },
@@ -4132,7 +4132,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Maluku"
             ],
-            "respon": [
+            "responses": [
                 "numen Patung Martha Christina."
             ]
         },
@@ -4141,7 +4141,7 @@
             "patterns": [
                 "Apa keunikan dari baju adat Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Motif baju cele"
             ]
         },
@@ -4150,7 +4150,7 @@
             "patterns": [
                 "Suku apa saja yang ada di Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Suku Madole,Suku Pagu, Suku Ternate."
             ]
         },
@@ -4159,7 +4159,7 @@
             "patterns": [
                 "Apa saja adat istiadat yang ada di Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat sasi"
             ]
         },
@@ -4168,7 +4168,7 @@
             "patterns": [
                 "Apa saja pakaian adat Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi Pataheri, Upacara Tihi Huau, Aturan Adat Sasi."
             ]
         },
@@ -4177,7 +4177,7 @@
             "patterns": [
                 "Apa nama pakaian adat wanita Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "wanita memakai pakaian rok.."
             ]
         },
@@ -4186,7 +4186,7 @@
             "patterns": [
                 "Dimana ibukota provinsi Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Kabupaten Mamuju"
             ]
         },
@@ -4195,7 +4195,7 @@
             "patterns": [
                 "Apa nama pakaian adat pria Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Kebaya Dansa."
             ]
         },
@@ -4204,7 +4204,7 @@
             "patterns": [
                 "Apa nama rumah adat di Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Suku Sahu "
             ]
         },
@@ -4213,7 +4213,7 @@
             "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Sasadu"
             ]
         },
@@ -4222,7 +4222,7 @@
             "patterns": [
                 "Apa nama tarian dari Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Tari Tide-tide"
             ]
         },
@@ -4231,7 +4231,7 @@
             "patterns": [
                 "Apakah tarian khas dari Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Tari Soya-Soya."
             ]
         },
@@ -4240,7 +4240,7 @@
             "patterns": [
                 "Apa saja makanan khas Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Papeda"
             ]
         },
@@ -4249,7 +4249,7 @@
             "patterns": [
                 "Apa oleh-oleh khas dari Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Ikan Asap, Ikan Kuah Pala Banda, Papeda, Gatang Kenari."
             ]
         },
@@ -4258,7 +4258,7 @@
             "patterns": [
                 "Apa Bahasa Daerah Provinsi Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Melayu"
             ]
         },
@@ -4267,7 +4267,7 @@
             "patterns": [
                 "Apa saja alat musik khas Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "Calong, Kecapi Mandar, Pakkeke, Gongga Lima"
             ]
         },
@@ -4276,7 +4276,7 @@
             "patterns": [
                 "Apa kabar dalam bahasa Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 " soto mole"
             ]
         },
@@ -4285,7 +4285,7 @@
             "patterns": [
                 "Apa nama Upacara Adat Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Anjungan Pantai Manakarra, Pulau Karampuang, Pantai Mampie."
             ]
         },
@@ -4294,7 +4294,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Barat"
             ],
-            "respon": [
+            "responses": [
                 "tradisi tobo safar (mandi safar)."
             ]
         },
@@ -4303,7 +4303,7 @@
             "patterns": [
                 "Apa saja senjata Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Parang Salawaku"
             ]
         },
@@ -4312,7 +4312,7 @@
             "patterns": [
                 "Tradisi apa yang diselenggarakan di Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Sicoho (Kawin Tangkap)."
             ]
         },
@@ -4321,7 +4321,7 @@
             "patterns": [
                 "Apa kegiatan adat istiadat di Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Upacara Fangnea Kidabela"
             ]
         },
@@ -4330,7 +4330,7 @@
             "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Utara"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat mekikuwa"
             ]
         },
@@ -4339,7 +4339,7 @@
             "patterns": [
                 "Lagu daerah Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Naik-Naik ke Puncak Gunung."
             ]
         },
@@ -4348,7 +4348,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Maluku Utara"
             ],
-            "respon": [
+            "responses": [
                 "Pulau Dodola. Pulau • Pantai, Pulau Failonga. Pulau, Benteng Tahula."
             ]
         },
@@ -4357,7 +4357,7 @@
             "patterns": [
                 " Upacara adat apa saja yang ada di Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat dahau, beliatn, ngugu tahun."
             ]
         },
@@ -4366,7 +4366,7 @@
             "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Upacara adat pemberian nama anak oleh keluarga keturunan bangsawan."
             ]
         },
@@ -4375,7 +4375,7 @@
             "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
-            "respon": [
+            "responses": [
                 "Kain Ulap Doyo."
             ]
         },
@@ -4384,7 +4384,7 @@
             "patterns": [
                 "Apa kabar dalam bahasa Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Apa kareba? Aga Kareba?."
             ]
         },
@@ -4393,7 +4393,7 @@
             "patterns": [
                 "Apa nama Upacara Adat Sulawesi Selatan "
             ],
-            "respon": [
+            "responses": [
                 "Rambu Tuka' (Toraja) Raumbu tuka ."
             ]
         },
@@ -4402,7 +4402,7 @@
             "patterns": [
                 " Apa saja senjata Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Bessing, Bessing Banranga, Tappi. "
             ]
         },
@@ -4411,7 +4411,7 @@
             "patterns": [
                 "Tradisi apa yang diselenggarakan di Bone Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi adu betis,Mappalanca, atau Mallanca "
             ]
         },
@@ -4420,7 +4420,7 @@
             "patterns": [
                 "Apa kegiatan adat istiadat di Tana Toraja Sulawesi Selatan "
             ],
-            "respon": [
+            "responses": [
                 "Tana Toraja "
             ]
         },
@@ -4429,7 +4429,7 @@
             "patterns": [
                 "Lagu daerah Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Anging Mammiri, Sajeng Rennu, Marendeng Marampa. ."
             ]
         },
@@ -4438,7 +4438,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Losari, Pulau Kodingareng Keke, Pantai Akkarena"
             ]
         },
@@ -4447,7 +4447,7 @@
             "patterns": [
                 "Apa keunikan dari baju adat Papua"
             ],
-            "respon": [
+            "responses": [
                 "baju adat Papua yakni sebagai penutup kemaluan."
             ]
         },
@@ -4456,7 +4456,7 @@
             "patterns": [
                 "Apa saja adat istiadat yang ada di Papua"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi Iki Palek, radisi Mumi Papua., Tradisi Ararem, Tifa Darah."
             ]
         },
@@ -4465,7 +4465,7 @@
             "patterns": [
                 "Apa nama pakaian adat wanita Papua"
             ],
-            "respon": [
+            "responses": [
                 "Baju   Kurung. ."
             ]
         },
@@ -4474,7 +4474,7 @@
             "patterns": [
                 "Apa nama pakaian adat pria Papua"
             ],
-            "respon": [
+            "responses": [
                 "Rok  Rumbai Pria "
             ]
         },
@@ -4483,7 +4483,7 @@
             "patterns": [
                 "Apa nama rumah adat di Papua"
             ],
-            "respon": [
+            "responses": [
                 "rumah Honai  "
             ]
         },
@@ -4492,7 +4492,7 @@
             "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Papua"
             ],
-            "respon": [
+            "responses": [
                 "berbentuk dasar lingkaran dengan rangka kayu."
             ]
         },
@@ -4501,7 +4501,7 @@
             "patterns": [
                 "Apa saja nama tarian dari Papua"
             ],
-            "respon": [
+            "responses": [
                 "Tari Seka, Tari Balengan atau Tari Pergaulan, Tari Pangkur Sagu"
             ]
         },
@@ -4510,7 +4510,7 @@
             "patterns": [
                 "Apakah tarian khas dari Papua"
             ],
-            "respon": [
+            "responses": [
                 "Tari Sajojo."
             ]
         },
@@ -4519,7 +4519,7 @@
             "patterns": [
                 "Apa saja makanan khas Papua"
             ],
-            "respon": [
+            "responses": [
                 "Papeda"
             ]
         },
@@ -4528,7 +4528,7 @@
             "patterns": [
                 "Apa oleh-oleh khas dari Papua"
             ],
-            "respon": [
+            "responses": [
                 "Tepung Sagu, Papeda, Sagu Lempeng, Sagu Lempeng Gula Merah (sagu gula)."
             ]
         },
@@ -4537,7 +4537,7 @@
             "patterns": [
                 "barapa macam Bahasa Daerah Provinsi Papau "
             ],
-            "respon": [
+            "responses": [
                 " Bahasa Asmat, Bahasa Tabati, Bahasa Dera, Bahasa Kaure, Bahasa Sentani.  "
             ]
         },
@@ -4546,7 +4546,7 @@
             "patterns": [
                 "Apa Bahasa Daerah Provinsi Papau Barat"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Moraid."
             ]
         },
@@ -4555,7 +4555,7 @@
             "patterns": [
                 "Apa kabar dalam bahasa Papua"
             ],
-            "respon": [
+            "responses": [
                 "Nara gerotelo "
             ]
         },
@@ -4564,7 +4564,7 @@
             "patterns": [
                 "Apa nama Upacara Adat Papua"
             ],
-            "respon": [
+            "responses": [
                 "Upacara Adat Tindik Telinga. "
             ]
         },
@@ -4573,7 +4573,7 @@
             "patterns": [
                 "Apa saja senjata Papua"
             ],
-            "respon": [
+            "responses": [
                 "belati tulang kasuari senjata tradisional papua ."
             ]
         },
@@ -4582,7 +4582,7 @@
             "patterns": [
                 "Tradisi Bakar Batu apa yang diselenggarakan di Papua "
             ],
-            "respon": [
+            "responses": [
                 "Tradisi Bakar Batu adalah sebuah tradisi yang penting bagi seluruh penduduk asli Papua.  "
             ]
         },
@@ -4591,7 +4591,7 @@
             "patterns": [
                 "Apa kegiatan adat istiadat di Papua"
             ],
-            "respon": [
+            "responses": [
                 "Upacara Potong Jari"
             ]
         },
@@ -4600,7 +4600,7 @@
             "patterns": [
                 "Lagu daerah Papua"
             ],
-            "respon": [
+            "responses": [
                 "Apuse dan Yamko Rambe Yamko "
             ]
         },
@@ -4609,7 +4609,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Papua"
             ],
-            "respon": [
+            "responses": [
                 "Danau Sentani, Pantai Base-G, Taman Nasional Wasur, Taman Nasional Lorent, Lembah Baliem. "
             ]
         },
@@ -4618,7 +4618,7 @@
             "patterns": [
                 "Tarian apa yang ada di Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "Tari Kataga dan  Tari Cerana"
             ]
         },
@@ -4627,7 +4627,7 @@
             "patterns": [
                 "Berapa banyak pemain Tari Cerana  tersebut"
             ],
-            "respon": [
+            "responses": [
                 " 8 orang "
             ]
         },
@@ -4636,7 +4636,7 @@
             "patterns": [
                 "Seperti apa gerakan Tari Cerana Nusa Tenggara Timur  yang diperagakan"
             ],
-            "respon": [
+            "responses": [
                 "gerakan tangan yang direntangkan"
             ]
         },
@@ -4645,7 +4645,7 @@
             "patterns": [
                 "Ada berapa Suku apa yang mendominasi di Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "8 Suku"
             ]
         },
@@ -4654,7 +4654,7 @@
             "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "erat saling pengertian."
             ]
         },
@@ -4663,7 +4663,7 @@
             "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " sunda"
             ]
         },
@@ -4672,7 +4672,7 @@
             "patterns": [
                 " Pakaian adat apakah yang khas dengan Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Kebaya sunda"
             ]
         },
@@ -4681,7 +4681,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tari Merak, Jaipong"
             ]
         },
@@ -4690,7 +4690,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Macan tutul jawa"
             ]
         },
@@ -4699,7 +4699,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 " Sunda."
             ]
         },
@@ -4708,7 +4708,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Dodol, tahu sumedang,."
             ]
         },
@@ -4717,7 +4717,7 @@
             "patterns": [
                 "Rumah adat seperti apa yang sering disinggahi di NTT"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Adat Mbaru Niang."
             ]
         },
@@ -4726,7 +4726,7 @@
             "patterns": [
                 "keistimewaan apa yang ada di tarian adat Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "tarian penyambutan dari Kupang, NTT."
             ]
         },
@@ -4735,7 +4735,7 @@
             "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "Katun"
             ]
         },
@@ -4744,7 +4744,7 @@
             "patterns": [
                 "Bagaimana motif pada pakain adat Nusa Tenggara Timur "
             ],
-            "respon": [
+            "responses": [
                 " motif tenun ikat"
             ]
         },
@@ -4753,7 +4753,7 @@
             "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Nusa Tenggara Timur tersebut"
             ],
-            "respon": [
+            "responses": [
                 "ucapan selamat datang atau tarian penyambutan dari Kupang, NTT"
             ]
         },
@@ -4762,7 +4762,7 @@
             "patterns": [
                 "Makanan khas apa yang ada di Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "Kolo dan Catemak Jagung"
             ]
         },
@@ -4771,7 +4771,7 @@
             "patterns": [
                 "Ada berapa macam makan khas didaerah Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "10 makan khas."
             ]
         },
@@ -4780,7 +4780,7 @@
             "patterns": [
                 "Wisata mana yang sangat dicari di daerah Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional Komodo"
             ]
         },
@@ -4789,7 +4789,7 @@
             "patterns": [
                 "Ada beberapa macam wisata yang ada Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "11 tempat wisata"
             ]
         },
@@ -4798,7 +4798,7 @@
             "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "Melayu Pontianak."
             ]
         },
@@ -4807,7 +4807,7 @@
             "patterns": [
                 "Tarian apa yang ada di Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tari Pingan , Tari Zapin , Tari Jonggan , Tari Kondan dan Tari Kinyah Uut Danum."
             ]
         },
@@ -4816,7 +4816,7 @@
             "patterns": [
                 "Berapa banyak pemain Tari Zapin tersebut"
             ],
-            "respon": [
+            "responses": [
                 "14 pasangang"
             ]
         },
@@ -4825,7 +4825,7 @@
             "patterns": [
                 "Seperti apa gerakan Tari Pingan Kalimantan Barat yang diperagakan"
             ],
-            "respon": [
+            "responses": [
                 "Menekan pada gerakan – gerakan atraktif"
             ]
         },
@@ -4834,7 +4834,7 @@
             "patterns": [
                 "Suku apa yang mendominasi di Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 " Dayak, Melayu dan Tionghoa."
             ]
         },
@@ -4843,7 +4843,7 @@
             "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "3 macam suku."
             ]
         },
@@ -4852,7 +4852,7 @@
             "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Gambang suling, lir ilir, padhang Bulan"
             ]
         },
@@ -4861,7 +4861,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Selat Solo, Lumpia, lontong krubyuk"
             ]
         },
@@ -4870,7 +4870,7 @@
             "patterns": [
                 "rumah adat apa yang ada di Provinsi Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "rumah adat baluk"
             ]
         },
@@ -4879,7 +4879,7 @@
             "patterns": [
                 "Seperti apa rumah adat Kalimantan Barat tersebut ketika diperagakan"
             ],
-            "respon": [
+            "responses": [
                 "lebih mirip dengan rumah-rumah adat"
             ]
         },
@@ -4888,7 +4888,7 @@
             "patterns": [
                 "Ada berapa macam rumah adat yang ada Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "3 macam rumah adat"
             ]
         },
@@ -4897,7 +4897,7 @@
             "patterns": [
                 "Rumah adat seperti apa yang sering disinggahi dikalimantan barat"
             ],
-            "respon": [
+            "responses": [
                 "rumah adat baluk"
             ]
         },
@@ -4906,7 +4906,7 @@
             "patterns": [
                 "bagaimana bentuk Rumah adat Kalimantan barat tersebut"
             ],
-            "respon": [
+            "responses": [
                 "lebih mirip dengan rumah-rumah adat"
             ]
         },
@@ -4915,7 +4915,7 @@
             "patterns": [
                 "keistimewaan apa yang ada di tarian adat Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "kelestariannya. Selain menarik minat wisatawan."
             ]
         },
@@ -4924,7 +4924,7 @@
             "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat"
             ],
-            "respon": [
+            "responses": [
                 "Katun dan Woll."
             ]
         },
@@ -4933,7 +4933,7 @@
             "patterns": [
                 "Bagaimana motif pada pakain adat Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "Motif khas suku Dayak yaitu burung enggang.."
             ]
         },
@@ -4942,7 +4942,7 @@
             "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Kalimantan Barat tersebut"
             ],
-            "respon": [
+            "responses": [
                 "seperti pernikahan, syukuran, termasuk ritual keagamaan.."
             ]
         },
@@ -4951,7 +4951,7 @@
             "patterns": [
                 "Makanan khas apa yang ada di Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "Bubur Pedas, Kerupuk Basah, Pengkang, Mie Sagu. Mie Kepiting Pontianak."
             ]
         },
@@ -4960,7 +4960,7 @@
             "patterns": [
                 "Wisata mana yang sangat dicari di daerah Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "Pattuqduq Towaine. "
             ]
         },
@@ -4969,7 +4969,7 @@
             "patterns": [
                 "Ada beberapa macam wisata yang ada Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "14 yang sangat hits "
             ]
         },
@@ -4978,7 +4978,7 @@
             "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Jowo"
             ]
         },
@@ -4987,7 +4987,7 @@
             "patterns": [
                 "Tarian apa saja yang ada di Provinsi Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "Tari Kumbang, Tari Srikandi Suradewati, Tari Beksan Lawung Ageng"
             ]
         },
@@ -4996,7 +4996,7 @@
             "patterns": [
                 "Berapa banyak pemain Tari Kumbang tersebut"
             ],
-            "respon": [
+            "responses": [
                 "sangat banyak "
             ]
         },
@@ -5005,7 +5005,7 @@
             "patterns": [
                 "Seperti apa gerakan Tari Srikandi Suradewati Provinsi Yogyakarta  yang diperagakan"
             ],
-            "respon": [
+            "responses": [
                 "mengacu pada gerakan klasik ala Yogyakarta dengan konsep pewayangan."
             ]
         },
@@ -5014,7 +5014,7 @@
             "patterns": [
                 "Suku apa yang mendominasi di Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "Suku Jawa."
             ]
         },
@@ -5023,7 +5023,7 @@
             "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "Jawa, Sunda, Melayu dan Tionghoa "
             ]
         },
@@ -5032,7 +5032,7 @@
             "patterns": [
                 "Apa kabar dalam Apa kabar"
             ],
-            "respon": [
+            "responses": [
                 "Apa kareba? Aga Kareba?."
             ]
         },
@@ -5041,7 +5041,7 @@
             "patterns": [
                 "Ada berapa macam rumah adat yang ada Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "4 macam."
             ]
         },
@@ -5050,7 +5050,7 @@
             "patterns": [
                 "Rumah adat Yogyakarta  seperti apa yang sering disinggahi"
             ],
-            "respon": [
+            "responses": [
                 "Rumah adat joglo Yogyakarta . "
             ]
         },
@@ -5059,7 +5059,7 @@
             "patterns": [
                 "Tradisi apa yang diselenggarakan di Bone Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Tradisi adu betis,Mappalanca, atau Mallanca "
             ]
         },
@@ -5068,7 +5068,7 @@
             "patterns": [
                 "keistimewaan apa yang ada di tarian adat Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "kelestariannya. Selain menarik minat wisatawan."
             ]
         },
@@ -5077,7 +5077,7 @@
             "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakaian adat"
             ],
-            "respon": [
+            "responses": [
                 "Bahan Katun."
             ]
         },
@@ -5086,7 +5086,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Losari, Pulau Kodingareng Keke, Pantai Akkarena"
             ]
         },
@@ -5095,7 +5095,7 @@
             "patterns": [
                 "Bagaimana motif pada pakain adat Yogyakarta "
             ],
-            "respon": [
+            "responses": [
                 "Menarik sekali ."
             ]
         },
@@ -5104,7 +5104,7 @@
             "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Yogyakarta  tersebut"
             ],
-            "respon": [
+            "responses": [
                 "seperti pernikahan, syukuran, termasuk ritual keagamaan. "
             ]
         },
@@ -5113,7 +5113,7 @@
             "patterns": [
                 "Makanan khas apa yang ada di Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "Gudeg, Bakpia dan Sate Klatak.."
             ]
         },
@@ -5122,7 +5122,7 @@
             "patterns": [
                 "Bagaimana rasa makanan bakpia khas Yogyakarta yang paling Dicari wisataan"
             ],
-            "respon": [
+            "responses": [
                 "Manis dan Gurih. "
             ]
         },
@@ -5131,7 +5131,7 @@
             "patterns": [
                 "Wisata mana yang sangat dicari di daerah Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "Borobudur, Maliaboro dan  Taman Pelangi."
             ]
         },
@@ -5140,7 +5140,7 @@
             "patterns": [
                 "Ada beberapa macam wisata yang ada Yogyakarta"
             ],
-            "respon": [
+            "responses": [
                 "20 macam tempat wisata di Yogyakarta. "
             ]
         },
@@ -5149,7 +5149,7 @@
             "patterns": [
                 "berapa banyak pengunjung ketika berwisata  ke Yogyakarta tersebut"
             ],
-            "respon": [
+            "responses": [
                 "sebanyak 1,1 juta orang Pertahun "
             ]
         },
@@ -5158,7 +5158,7 @@
             "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Jawa."
             ]
         },
@@ -5167,7 +5167,7 @@
             "patterns": [
                 "Tarian apa saja yang ada di Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Tari Reog Ponorogo, Tari Jejer Gandrung dan  Tari Remo.."
             ]
         },
@@ -5176,7 +5176,7 @@
             "patterns": [
                 " Berapa banyak pemain Tari Jejer Gandrung tersebut? "
             ],
-            "respon": [
+            "responses": [
                 "menari secara solo."
             ]
         },
@@ -5185,7 +5185,7 @@
             "patterns": [
                 "Seperti apa gerakan tarian Jawa Timur yang akan diperagakan?"
             ],
-            "respon": [
+            "responses": [
                 "Badan tegak dengan kedua tungkai membuka. "
             ]
         },
@@ -5194,7 +5194,7 @@
             "patterns": [
                 "Suku apa yang mendominasi di Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Suku Jawa."
             ]
         },
@@ -5203,7 +5203,7 @@
             "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Suku Jawa, Suku Madura, Suku Osing dan Suku Tengger."
             ]
         },
@@ -5212,7 +5212,7 @@
             "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 " saling menghargai . "
             ]
         },
@@ -5221,7 +5221,7 @@
             "patterns": [
                 " Apa kabar dalam bahasa Sulawesi Tenggara"
             ],
-            "respon": [
+            "responses": [
                 " Apa kareba? Aga Kareba?"
             ]
         },
@@ -5230,7 +5230,7 @@
             "patterns": [
                 "adat istiadat apa saja yang ada di Provinsi Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Upacara Adat Ngurit, Upacara Adat Kebo-keboan dan Upacara Adat Dam Bagong."
             ]
         },
@@ -5239,7 +5239,7 @@
             "patterns": [
                 "kapan adat Adat Dam Bagong  tersebut dirayakan"
             ],
-            "respon": [
+            "responses": [
                 "Diadakan 1 setahun sekali."
             ]
         },
@@ -5248,7 +5248,7 @@
             "patterns": [
                 "Seperti apa adat Dam Bagong tersebut ketika diperagakan"
             ],
-            "respon": [
+            "responses": [
                 "dilakukan dengan melempar kepala kerbau ke dalam Bendungan Dam"
             ]
         },
@@ -5257,7 +5257,7 @@
             "patterns": [
                 "Ada berapa macam rumah adat yang ada Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "4 Macam yakni Rumah Joglo Hageng, Rumah Joglo Pangrawit, Rumah Joglo Situbondo dan Rumah Joglo Sinom"
             ]
         },
@@ -5266,7 +5266,7 @@
             "patterns": [
                 "Rumah adat seperti apa yang sering disinggahi di Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Joglo Hageng."
             ]
         },
@@ -5275,7 +5275,7 @@
             "patterns": [
                 "bagaimana bentuk Rumah adat Rumah Joglo Hageng tersebut"
             ],
-            "respon": [
+            "responses": [
                 "dua susunan berbentuk bubungan yang dibuat memanjang ke kiri dan kanan."
             ]
         },
@@ -5284,7 +5284,7 @@
             "patterns": [
                 "keistimewaan apa yang ada di tarian adat Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "menjaga kelestarian adat nya"
             ]
         },
@@ -5293,7 +5293,7 @@
             "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat Provinsi Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Katun dan Sutra."
             ]
         },
@@ -5302,7 +5302,7 @@
             "patterns": [
                 "Bagaimana motif pada pakain adat Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "motifnya sederhana."
             ]
         },
@@ -5311,7 +5311,7 @@
             "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Jawa Timur tersebut"
             ],
-            "respon": [
+            "responses": [
                 "ketika ada acara tertentu saja, ari Pahlawan, dan acara festival lainnya."
             ]
         },
@@ -5320,7 +5320,7 @@
             "patterns": [
                 "Makanan khas apa yang ada di Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Rujak Soto, Soto Lamongan, Pecel Madiun , Bebek Sinjay dan Lontong Balap. "
             ]
         },
@@ -5329,7 +5329,7 @@
             "patterns": [
                 "Ada berapa macam makan khas didaerah Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "9 Makanan Khas Jawatimur"
             ]
         },
@@ -5338,7 +5338,7 @@
             "patterns": [
                 "Bagaimana rasa makanan Soto Lamongan  yang paling Dicari wisataan"
             ],
-            "respon": [
+            "responses": [
                 "Rasa nya lezat dan enak sekali.."
             ]
         },
@@ -5347,7 +5347,7 @@
             "patterns": [
                 "Wisata mana yang sangat dicari di daerah Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "Bukit Kapur Arosbaya, Kawah Ijen, Pantai Tambakrejo dan Air Tejun Nglirip."
             ]
         },
@@ -5356,7 +5356,7 @@
             "patterns": [
                 "Ada beberapa macam wisata yang ada Jawa Timur"
             ],
-            "respon": [
+            "responses": [
                 "11 tempat wisata yang sangat direkomendasi. "
             ]
         },
@@ -5365,7 +5365,7 @@
             "patterns": [
                 "Berapa banyak pengunjung ketika berwisata tersebut"
             ],
-            "respon": [
+            "responses": [
                 "4,052 juta orang pada tiap tahun nya."
             ]
         },
@@ -5374,7 +5374,7 @@
             "patterns": [
                 "Apa itu Bahasa Aceh"
             ],
-            "respon": [
+            "responses": [
                 "Apa itu Bahasa Aceh?."
             ]
         },
@@ -5383,7 +5383,7 @@
             "patterns": [
                 "Apa itu Bahasa Jamee"
             ],
-            "respon": [
+            "responses": [
                 "bahasa tamu yang sudah menjadi salah satu bahasa daerah Aceh di Kabupaten Aceh Selatan."
             ]
         },
@@ -5392,7 +5392,7 @@
             "patterns": [
                 "Apa itu Bahasa Gayo"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Gayo digunakan oleh masyarakan Kabupaten Bener Meriah."
             ]
         },
@@ -5401,7 +5401,7 @@
             "patterns": [
                 "Apa itu Tari Saman"
             ],
-            "respon": [
+            "responses": [
                 "Tari Saman ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat."
             ]
         },
@@ -5410,7 +5410,7 @@
             "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bangka Belitung"
             ],
-            "respon": [
+            "responses": [
                 "biasanya ditarikan oleh sekelompok penari pria dengan gerakannya "
             ]
         },
@@ -5419,7 +5419,7 @@
             "patterns": [
                 "Apa itu Tari Tarek Pukat"
             ],
-            "respon": [
+            "responses": [
                 "menggambarkan aktivitas para nelayan yang menangkap ikan di laut."
             ]
         },
@@ -5428,7 +5428,7 @@
             "patterns": [
                 "Pakaian adat apakah yang khas dengan Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Rejang lebong."
             ]
         },
@@ -5437,7 +5437,7 @@
             "patterns": [
                 "Sebutkan senjata daerah yang ada di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Keris Bengkulu, Rambai Ayam, Sewar, Dodong dan Rudus."
             ]
         },
@@ -5446,7 +5446,7 @@
             "patterns": [
                 "Apa itu Rumoh Aceh"
             ],
-            "respon": [
+            "responses": [
                 "Rumoh Aceh juga merupakan rumah panggung yang memiliki tiga bagian."
             ]
         },
@@ -5455,7 +5455,7 @@
             "patterns": [
                 "Apa itu pakaian Linto Baro"
             ],
-            "respon": [
+            "responses": [
                 "yakni baju meukeusah,  celana sileuweu,  senjata tradisional, penutup kepala, dan hiasan-hiasan lain."
             ]
         },
@@ -5464,7 +5464,7 @@
             "patterns": [
                 "Apa itu pakaian Daro Baro"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian untuk pengantin laki-laki ini didesain dengan memiliki aksen Bulang Pengkah."
             ]
         },
@@ -5473,7 +5473,7 @@
             "patterns": [
                 "Apa itu suku Nias"
             ],
-            "respon": [
+            "responses": [
                 "Suku Nias adalah kelompok etnik yang berasal dari Pulau Nias."
             ]
         },
@@ -5482,7 +5482,7 @@
             "patterns": [
                 "Apa itu suku Pakpak"
             ],
-            "respon": [
+            "responses": [
                 "adalah salah satu suku bangsa yang terdapat di Pulau Sumatra Indonesia."
             ]
         },
@@ -5491,7 +5491,7 @@
             "patterns": [
                 "Apa itu suku Gayo"
             ],
-            "respon": [
+            "responses": [
                 "suku bangsa yang mendiami dataran tinggi Gayo di Provinsi Aceh bagian tengah."
             ]
         },
@@ -5500,7 +5500,7 @@
             "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 " Bay tat, Godok-godok."
             ]
         },
@@ -5509,7 +5509,7 @@
             "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 "Putri Gading Cempaka"
             ]
         },
@@ -5518,7 +5518,7 @@
             "patterns": [
                 "Apa itu suku Tamiang"
             ],
-            "respon": [
+            "responses": [
                 "suku bangsa pribumi di Kabupaten Aceh Tamiang di Provinsi Aceh."
             ]
         },
@@ -5527,7 +5527,7 @@
             "patterns": [
                 "Apa itu Rencong"
             ],
-            "respon": [
+            "responses": [
                 "Peudeung atau Pedang digunakan sebagai senjata untuk menyerang."
             ]
         },
@@ -5536,7 +5536,7 @@
             "patterns": [
                 "Apa itu Siwah"
             ],
-            "respon": [
+            "responses": [
                 "Senjata untuk menyerang."
             ]
         },
@@ -5545,7 +5545,7 @@
             "patterns": [
                 "Apa itu Bahasa Pakpak"
             ],
-            "respon": [
+            "responses": [
                 "Sebuah dialek bahasa Batak yang terdapat di provinsi Sumatra Utara. "
             ]
         },
@@ -5554,7 +5554,7 @@
             "patterns": [
                 "Sebutkan upacara adat yang ada di Bengkulu"
             ],
-            "respon": [
+            "responses": [
                 " Tabut"
             ]
         },
@@ -5563,7 +5563,7 @@
             "patterns": [
                 "Apa itu Bahasa Leukon"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa yang dituturkan oleh masyarakat Desa Lang."
             ]
         },
@@ -5572,7 +5572,7 @@
             "patterns": [
                 "Apa itu Bahasa Nias"
             ],
-            "respon": [
+            "responses": [
                 "berhubungan dengan bahasa Batak dan Mentawai."
             ]
         },
@@ -5581,7 +5581,7 @@
             "patterns": [
                 "Apa itu Bahasa Minangkabau"
             ],
-            "respon": [
+            "responses": [
                 "suatu bahasa Austronesia yang dituturkan oleh Suku Minangkabau."
             ]
         },
@@ -5590,7 +5590,7 @@
             "patterns": [
                 "Apa itu Bahasa Batak"
             ],
-            "respon": [
+            "responses": [
                 "merupakan bagian dari subkelompok Sumatra Barat Laut–Kepulauan Penghalang"
             ]
         },
@@ -5599,7 +5599,7 @@
             "patterns": [
                 "Apa itu suku Batak Toba"
             ],
-            "respon": [
+            "responses": [
                 "Wilayah yang mayoritas orang Batak Toba, khusunya berada di provinsi Sumatra Utara ."
             ]
         },
@@ -5608,7 +5608,7 @@
             "patterns": [
                 "Apa itu suku Batak Karo"
             ],
-            "respon": [
+            "responses": [
                 "suku bangsa atau kelompok etnik yang mendiami wilayah Sumatra Utara dan sebagian Aceh."
             ]
         },
@@ -5617,7 +5617,7 @@
             "patterns": [
                 "Apa itu suku Simalungun"
             ],
-            "respon": [
+            "responses": [
                 "bahwa leluhur suku ini berasal dari daerah India Selatan tetapi ini hal yang sedang diperdebatkan."
             ]
         },
@@ -5626,7 +5626,7 @@
             "patterns": [
                 "Apa itu lagu Butet"
             ],
-            "respon": [
+            "responses": [
                 "berasal dari suku Batak Toba yang memiliki latar belakang masa perjuangan kemerdekaan. "
             ]
         },
@@ -5635,7 +5635,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Lampung"
             ],
-            "respon": [
+            "responses": [
                 "jenis tarian tradisional dari suku Batak yang berasal dari provinsi Sumatra Utara."
             ]
         },
@@ -5644,7 +5644,7 @@
             "patterns": [
                 "Apa itu lagu “Sinanggar Tulo”"
             ],
-            "respon": [
+            "responses": [
                 "Lagu ini biasanya digunakan untuk memeriahkan Tari Tortor"
             ]
         },
@@ -5653,7 +5653,7 @@
             "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Gajah sumatra"
             ]
         },
@@ -5662,7 +5662,7 @@
             "patterns": [
                 "Apa itu Rumah Bolon"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Bolon adalah simbol dari identitas  berasal dari daerah Sumatra Utara."
             ]
         },
@@ -5671,7 +5671,7 @@
             "patterns": [
                 "Apa itu kain Ulos"
             ],
-            "respon": [
+            "responses": [
                 "Ulos secara turun temurun dikembangkan oleh masyarakat Batak, Sumatra Utara. "
             ]
         },
@@ -5680,7 +5680,7 @@
             "patterns": [
                 "Apa itu Hiou Simalungun"
             ],
-            "respon": [
+            "responses": [
                 "adalah sejenis pakaian yang berbentuk selembar kain tenunan khas batak Simalungun."
             ]
         },
@@ -5689,7 +5689,7 @@
             "patterns": [
                 "Apa itu alat music Aramba"
             ],
-            "respon": [
+            "responses": [
                 "adalah alat musik tradisional yang berasal dari Kabupaten Nias, Sumatera Utara. "
             ]
         },
@@ -5698,7 +5698,7 @@
             "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Lampung"
             ],
-            "respon": [
+            "responses": [
                 "Legenda kelekup"
             ]
         },
@@ -5707,7 +5707,7 @@
             "patterns": [
                 "Apa itu Tari Lilin"
             ],
-            "respon": [
+            "responses": [
                 "Sebuah tarian tradisional yang berasal dari Sumatra Barat. "
             ]
         },
@@ -5716,7 +5716,7 @@
             "patterns": [
                 "Apa itu Tari Piring"
             ],
-            "respon": [
+            "responses": [
                 "tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. "
             ]
         },
@@ -5725,7 +5725,7 @@
             "patterns": [
                 "Apa itu lagu “dindin badindin”"
             ],
-            "respon": [
+            "responses": [
                 "lagu asal Sumatera Barat yang diciptakan oleh Tiar Ramon."
             ]
         },
@@ -5734,7 +5734,7 @@
             "patterns": [
                 "Apa itu rumah Gadang"
             ],
-            "respon": [
+            "responses": [
                 "rumah tradisional dan banyak jumpai di Sumatra Barat, Indonesia"
             ]
         },
@@ -5743,7 +5743,7 @@
             "patterns": [
                 "Apa itu suku Mentawai"
             ],
-            "respon": [
+            "responses": [
                 "Penghuni asli Kepulauan Mentawai."
             ]
         },
@@ -5752,7 +5752,7 @@
             "patterns": [
                 "Apa itu suku Kerinci"
             ],
-            "respon": [
+            "responses": [
                 "suku bangsa atau kelompok etnik pribumi Sumatra yang mendiami wilayah Kabupaten Kerinci."
             ]
         },
@@ -5761,7 +5761,7 @@
             "patterns": [
                 "Apa pakaian pengantin provinsi sumatera barat"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian adat pengantin Sumatera Barat ini ditujukan untuk digunakan"
             ]
         },
@@ -5770,7 +5770,7 @@
             "patterns": [
                 "Apa itu pakaian Limpapeh rumah nan gadang"
             ],
-            "respon": [
+            "responses": [
                 "biasa dipakai oleh kaum wanita Minangkabau. "
             ]
         },
@@ -5779,7 +5779,7 @@
             "patterns": [
                 "Apa itu bahasa Mentawai"
             ],
-            "respon": [
+            "responses": [
                 "Bisa dibilang sebagai bahasa daerah dari Sumatera Barat."
             ]
         },
@@ -5788,7 +5788,7 @@
             "patterns": [
                 "Apa itu lagu gelang sipaku gelang"
             ],
-            "respon": [
+            "responses": [
                 "Sebuah lagu daerah yang berasal dari Provinsi Sumatra Barat."
             ]
         },
@@ -5797,7 +5797,7 @@
             "patterns": [
                 "Apa itu alat music rabab"
             ],
-            "respon": [
+            "responses": [
                 "Alat musik gesek tradisional khas Minangkabau yang terbuat dari tempurung kelapa."
             ]
         },
@@ -5806,7 +5806,7 @@
             "patterns": [
                 "Apa itu alat music talempong"
             ],
-            "respon": [
+            "responses": [
                 "Sebuah alat musik pukul tradisional khas suku Minangkabau."
             ]
         },
@@ -5815,7 +5815,7 @@
             "patterns": [
                 "Apa itu lagu “kampuang nan jauh di mato”"
             ],
-            "respon": [
+            "responses": [
                 "Adalah sebuah lagu daerah berbahasa Minangkabau yang berasal dari Sumatra Barat."
             ]
         },
@@ -5824,7 +5824,7 @@
             "patterns": [
                 "Apa itu rumah adat Selaso Jatuh Kembar"
             ],
-            "respon": [
+            "responses": [
                 "Rumah adat khas Riau yang berupa balai selaso jatuh. "
             ]
         },
@@ -5833,7 +5833,7 @@
             "patterns": [
                 "Apa itu suku Akit"
             ],
-            "respon": [
+            "responses": [
                 "Akit merupakan salah satu sub-suku ras (Proto Melayu)."
             ]
         },
@@ -5842,7 +5842,7 @@
             "patterns": [
                 "Apa itu suku Talang Mamak"
             ],
-            "respon": [
+            "responses": [
                 "Sekumpulan masyarakat yang terasing dan hidup masih secara tradisional di sehiliran Sungai Indragiri."
             ]
         },
@@ -5851,7 +5851,7 @@
             "patterns": [
                 "Apa itu suku Sakai"
             ],
-            "respon": [
+            "responses": [
                 "Kebudayaan asli sendiri yang berbeda dengan Suku bangsa Melayu lainnya di Riau"
             ]
         },
@@ -5860,7 +5860,7 @@
             "patterns": [
                 "Apa itu pedang Jenawi"
             ],
-            "respon": [
+            "responses": [
                 "Senjata tradisional yang terkenal bernama pedang jenawi. "
             ]
         },
@@ -5869,7 +5869,7 @@
             "patterns": [
                 "Apa itu Tari Tandak"
             ],
-            "respon": [
+            "responses": [
                 "tarian ini ditampilkan dengan beberapa musik dan alunan lagu. "
             ]
         },
@@ -5878,7 +5878,7 @@
             "patterns": [
                 "Apa itu Congklak"
             ],
-            "respon": [
+            "responses": [
                 "Salah satu kebudayaan daerah yang masih tetap lestari sampai saat ini. "
             ]
         },
@@ -5887,7 +5887,7 @@
             "patterns": [
                 "Apa itu bahasa Bugis"
             ],
-            "respon": [
+            "responses": [
                 "Baju ini biasa dipakai untuk acara-acara keluarga, salah satunya acara kenduri."
             ]
         },
@@ -5896,7 +5896,7 @@
             "patterns": [
                 "Apa itu baju melayu gunting cina"
             ],
-            "respon": [
+            "responses": [
                 "pakaian adat Melayu Riau yang terbuat dari kain satin maupun kain sutra berkualitas tinggi."
             ]
         },
@@ -5905,7 +5905,7 @@
             "patterns": [
                 "Apa itu baju melayu teluk belaga"
             ],
-            "respon": [
+            "responses": [
                 "Baju ini setelannya terdiri dari celana, kain sampin, dan penutup kepala songkok."
             ]
         },
@@ -5914,7 +5914,7 @@
             "patterns": [
                 "Apa itu tari sekapur sirih"
             ],
-            "respon": [
+            "responses": [
                 "tarian selamat datang kepada tamu-tamu besar di Provinsi Jambi, Kepulauan Riau, dan Riau."
             ]
         },
@@ -5923,7 +5923,7 @@
             "patterns": [
                 "Apa itu baju kurung khas Riau"
             ],
-            "respon": [
+            "responses": [
                 "Baju Kurung terdiri atas selendang dan kain. "
             ]
         },
@@ -5932,7 +5932,7 @@
             "patterns": [
                 "Apa itu tari zapin kepri"
             ],
-            "respon": [
+            "responses": [
                 "Tarian yang berasal dari negeri Yaman yang populer dalam kalangan masyarakat Melayu."
             ]
         },
@@ -5941,7 +5941,7 @@
             "patterns": [
                 "Apa itu tari makyong"
             ],
-            "respon": [
+            "responses": [
                 "Seni teater tradisional masyarakat Melayu yang sampai sekarang masih digemari"
             ]
         },
@@ -5950,7 +5950,7 @@
             "patterns": [
                 "Apa itu tebus kipas"
             ],
-            "respon": [
+            "responses": [
                 "Tarian daerah Kepri yang biasa dipentaskan pada acara kebudayaan"
             ]
         },
@@ -5959,7 +5959,7 @@
             "patterns": [
                 "Apa itu tari inai melayu"
             ],
-            "respon": [
+            "responses": [
                 "salah satu jenis pertunjukan seni tari dari daerah-daerah yang ada di Provinsi Kepulauan Riau"
             ]
         },
@@ -5968,7 +5968,7 @@
             "patterns": [
                 "Apa itu rumah belah bubung"
             ],
-            "respon": [
+            "responses": [
                 "Rumah Belah Bubung juga dikenal dengan nama rumah rabung atau rumah bubung melayu."
             ]
         },
@@ -5977,7 +5977,7 @@
             "patterns": [
                 "Apa itu suku hutan"
             ],
-            "respon": [
+            "responses": [
                 "Salah satu suku terasing di Batam."
             ]
         },
@@ -5986,7 +5986,7 @@
             "patterns": [
                 "Apa itu suku barok"
             ],
-            "respon": [
+            "responses": [
                 "Generasi Suku Laut yang terus berpindah-pindah tempat. "
             ]
         },
@@ -5995,7 +5995,7 @@
             "patterns": [
                 "Apa itu suku laut"
             ],
-            "respon": [
+            "responses": [
                 "salah komunitas pribumi (indigenous people) yang mendiami wilayah perairan Kepulauan Riau"
             ]
         },
@@ -6004,7 +6004,7 @@
             "patterns": [
                 "Apa itu suku sakai"
             ],
-            "respon": [
+            "responses": [
                 "salah satu suku yang mendiami kawasan pedalaman Riau di Pulau Sumatera."
             ]
         },
@@ -6013,7 +6013,7 @@
             "patterns": [
                 "Apa itu bahasa melayu"
             ],
-            "respon": [
+            "responses": [
                 "bahasa Melayu yang biasa diucapkan hampir seluruh masyarakat yang ada di Kepulauan Riau."
             ]
         },
@@ -6022,7 +6022,7 @@
             "patterns": [
                 "Apa itu kebaya labuh"
             ],
-            "respon": [
+            "responses": [
                 "pakaian yang khusus dikenakan oleh kaum wanita."
             ]
         },
@@ -6031,7 +6031,7 @@
             "patterns": [
                 "Apa itu teluk belanga"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian tradisional Kep. Riau yang hanya dikenakan oleh para pria. "
             ]
         },
@@ -6040,7 +6040,7 @@
             "patterns": [
                 "Apa itu pakaian kurung tanggung"
             ],
-            "respon": [
+            "responses": [
                 "digunakan oleh pria terbuat dari bahan utama beludru yang berwarna merah, dengan diberi sulaman benang emas bermotif flora seperti, tagapo (bunga bertabur), kembang melati dan kembang berangkai."
             ]
         },
@@ -6049,7 +6049,7 @@
             "patterns": [
                 "Apa itu Bahasa Bajau Tungkal Satu"
             ],
-            "respon": [
+            "responses": [
                 "Bahasa Bajau Tungkal Satu dituturkan di Desa Tungkal Satu, Kecamatan Tungkal Ilir, Kabupaten Tanjung Jabung Barat, Provinsi Jambi."
             ]
         },
@@ -6058,7 +6058,7 @@
             "patterns": [
                 "Apa itu rumah Kajang Lako"
             ],
-            "respon": [
+            "responses": [
                 "Rumah tradisional masyarakat Jambi, khususnya Suku Batin. Rumah tradisional ini tidak hanya dibangun sesuai dengan fungsi praktis"
             ]
         },
@@ -6067,7 +6067,7 @@
             "patterns": [
                 "Tari selampit delapan"
             ],
-            "respon": [
+            "responses": [
                 "Tari tradisional dari Jambi. Tari ini diperkenalkan M. Ceylon sekitar 1970. "
             ]
         },
@@ -6076,7 +6076,7 @@
             "patterns": [
                 "Apa itu hadrah"
             ],
-            "respon": [
+            "responses": [
                 "Ritual kolektif yang berlebihan yang dilakukan oleh perintah Sufi"
             ]
         },
@@ -6085,7 +6085,7 @@
             "patterns": [
                 "Apa itu lagu “Injit-Injit Semut”"
             ],
-            "respon": [
+            "responses": [
                 "lagu daerah Jambi yang sering dinyanyikan oleh anak-anak untuk mengiringi permainan tradisional."
             ]
         },
@@ -6094,7 +6094,7 @@
             "patterns": [
                 "Apa itu alat music kelintang kayu"
             ],
-            "respon": [
+            "responses": [
                 "adalah salah satu suku bangsa minoritas yang hidup di Pulau Sumatra."
             ]
         },
@@ -6103,7 +6103,7 @@
             "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Banten"
             ],
-            "respon": [
+            "responses": [
                 "Kayu agung dan melayu."
             ]
         },
@@ -6112,7 +6112,7 @@
             "patterns": [
                 "Apa itu suku bangsa kubu"
             ],
-            "respon": [
+            "responses": [
                 "salah satu suku bangsa minoritas yang hidup di Pulau Sumatra."
             ]
         },
@@ -6121,7 +6121,7 @@
             "patterns": [
                 "Apa itu suku batin"
             ],
-            "respon": [
+            "responses": [
                 "Melayu di provinsi Jambi di bagian pedalaman pulau Sumatra, Indonesia. "
             ]
         },
@@ -6130,7 +6130,7 @@
             "patterns": [
                 "Apa itu suku duano di tanjung solok"
             ],
-            "respon": [
+            "responses": [
                 "Suku asli yang terletak di Tanjung Solok, Kecamatan Kuala Jambi"
             ]
         },
@@ -6139,7 +6139,7 @@
             "patterns": [
                 "Apa itu suku anak dalam batin Sembilan"
             ],
-            "respon": [
+            "responses": [
                 "kelompok suku lokal yang salah satunya bermukim di Desa Tanjung Lebar."
             ]
         },
@@ -6148,7 +6148,7 @@
             "patterns": [
                 "Apa itu tari Iyo-Iyo"
             ],
-            "respon": [
+            "responses": [
                 "tarian tradisional yang berasal dari daerah Jambi yang biasanya dilaksanakan berasamaan "
             ]
         },
@@ -6157,7 +6157,7 @@
             "patterns": [
                 "Apa itu pakaian adat aesan gede"
             ],
-            "respon": [
+            "responses": [
                 "pakaian yang seringkali digunakan pada saat upacara pernikahan, yang disebut munggah."
             ]
         },
@@ -6166,7 +6166,7 @@
             "patterns": [
                 "Apa itu pakaian adat aesan paksangko"
             ],
-            "respon": [
+            "responses": [
                 "sama-sama menggambarkan kebesaran, kemewahan dan keagungan kerajaan-kerajaan Sumatera"
             ]
         },
@@ -6175,7 +6175,7 @@
             "patterns": [
                 "Apa itu bahasa musi"
             ],
-            "respon": [
+            "responses": [
                 "adalah bahasa yang dituturkan oleh etnis Musi yang mayoritas mendiami daerah sekitar aliran Sungai Musi."
             ]
         },
@@ -6184,7 +6184,7 @@
             "patterns": [
                 "Apa itu bahasa Komering"
             ],
-            "respon": [
+            "responses": [
                 "sebuah bahasa yang digunakan Suku Komering. "
             ]
         },
@@ -6193,7 +6193,7 @@
             "patterns": [
                 "Apa itu bahasa Besemah"
             ],
-            "respon": [
+            "responses": [
                 "sebuah bahasa dari rumpun Melayu Tengah."
             ]
         },
@@ -6202,7 +6202,7 @@
             "patterns": [
                 " Apa itu suku rawas"
             ],
-            "respon": [
+            "responses": [
                 "suku bangsa pribumi Sumatra tepatnya Sumatra Selatan."
             ]
         },
@@ -6211,7 +6211,7 @@
             "patterns": [
                 "Apa itu rumah limas"
             ],
-            "respon": [
+            "responses": [
                 " Macan tutul jawa"
             ]
         },
@@ -6220,7 +6220,7 @@
             "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "prototipe rumah tradisional Sumatra Selatan. Selain ditandai dengan atapnya yang berbentuk limas."
             ]
         },
@@ -6229,7 +6229,7 @@
             "patterns": [
                 "Apa itu suku komering"
             ],
-            "respon": [
+            "responses": [
                 "Suku bangsa yang berasal dari Kepaksian Sekala Brak Kuno"
             ]
         },
@@ -6238,7 +6238,7 @@
             "patterns": [
                 "Apa itu suku lintang"
             ],
-            "respon": [
+            "responses": [
                 "Salah satu suku yang terdapat pada Kabupaten Empat Lawang dan Kabupaten Lahat."
             ]
         },
@@ -6247,7 +6247,7 @@
             "patterns": [
                 "Apa itu suku pasemah"
             ],
-            "respon": [
+            "responses": [
                 "Suku bangsa yang mendiami wilayah kota Pagaralam, kabupaten Empat Lawang, kabupaten Lahat."
             ]
         },
@@ -6256,7 +6256,7 @@
             "patterns": [
                 "Apa itu alat music gambus"
             ],
-            "respon": [
+            "responses": [
                 "Alat musik petik seperti mandolin yang berasal dari Timur Tengah."
             ]
         },
@@ -6265,7 +6265,7 @@
             "patterns": [
                 "Apa itu alat music genggong"
             ],
-            "respon": [
+            "responses": [
                 "adalah alat musik yang terbuat dari bambu, pelepah enau, kayu, atau logam, yang dimainkan dengan mendekatkannya ke rongga mulut."
             ]
         },
@@ -6274,7 +6274,7 @@
             "patterns": [
                 "Apa itu kain tenun"
             ],
-            "respon": [
+            "responses": [
                 "salah satu karya budaya dari Sumatra Selatan yang telah ditetapkan sebagai Warisan Budaya Takbenda Indonesia"
             ]
         },
@@ -6283,7 +6283,7 @@
             "patterns": [
                 "Apa itu tari gending sriwijaya"
             ],
-            "respon": [
+            "responses": [
                 "tari yang melukiskan kegembiraan gadis-gadis Palembang saat menerima tamu yang diagungkan."
             ]
         },
@@ -6292,7 +6292,7 @@
             "patterns": [
                 "Apa itu lagu kabile bile"
             ],
-            "respon": [
+            "responses": [
                 "lagu ini berasal dari Sumatera Selatan. Lagu ini bercerita tentang seseorang yang merasa kesepian, merasa sendiri, menanti-nanti seorang pendamping. "
             ]
         },
@@ -6301,7 +6301,7 @@
             "patterns": [
                 "Apa itu tari tenun songket"
             ],
-            "respon": [
+            "responses": [
                 "tarian daerah masyarakat palembang Sumatera Selatan yang ada sejak zaman kerajaan Sriwijaya. "
             ]
         },
@@ -6310,7 +6310,7 @@
             "patterns": [
                 "Tempat wisata apa saja yang terindah di NTB."
             ],
-            "respon": [
+            "responses": [
                 "Pantai Pink, Danau Kelimutu, Pulau Padar"
             ]
         },
@@ -6319,7 +6319,7 @@
             "patterns": [
                 "Daerah mana yang terdapat wisata Pantai Lasiana itu berada"
             ],
-            "respon": [
+            "responses": [
                 "Kota Kupang"
             ]
         },
@@ -6328,7 +6328,7 @@
             "patterns": [
                 "sebutkan nama-nama tempat wisata bahari di NTT"
             ],
-            "respon": [
+            "responses": [
                 "Yakni Taman Laut Teluk Maumere, Pink Beach di Manggarai Barat, Pantai Nihiwatu di Sumba, Alor Dive, dan Pantai Nemberala di Rote Ndao.. "
             ]
         },
@@ -6337,7 +6337,7 @@
             "patterns": [
                 "Sebutkan 3 wisata bahari yang ada di Kota Kupang"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Lasiana , Pantai Batu Nona Kupang dan Pantai Nunsui"
             ]
         },
@@ -6346,7 +6346,7 @@
             "patterns": [
                 " ada berapa Suku apa yang mendominasi di Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "8 Suku"
             ]
         },
@@ -6355,7 +6355,7 @@
             "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di Nusa Tenggara Timur?"
             ],
-            "respon": [
+            "responses": [
                 "erat saling pengertian."
             ]
         },
@@ -6364,7 +6364,7 @@
             "patterns": [
                 "Makanan apa saja yang ada di provinsi Riau"
             ],
-            "respon": [
+            "responses": [
                 "Gulai Belacan, Mi Sagu, Mi Lendir"
             ]
         },
@@ -6373,7 +6373,7 @@
             "patterns": [
                 "Apa itu makanan Mi Lendir"
             ],
-            "respon": [
+            "responses": [
                 "memiliki kuah yang kental berwarna cokelat, kuah ini dicampurkan beberapa bahan seperti kacang tanah dan ubi jalar yang menjadi bahan dasar pada kuahnya"
             ]
         },
@@ -6382,7 +6382,7 @@
             "patterns": [
                 "Ciri khas seperti apa makanan gulai Belacan"
             ],
-            "respon": [
+            "responses": [
                 "RGulai Belacan ini memiliki cita rasa yang dominan pedas. "
             ]
         },
@@ -6391,7 +6391,7 @@
             "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tari Merak, Jaipong"
             ]
         },
@@ -6400,7 +6400,7 @@
             "patterns": [
                 "Apa itu mie sagu"
             ],
-            "respon": [
+            "responses": [
                 "makanan khas masyarakat Riau, terutama masyarakat di Selatpanjang, Kabupaten Kepulauan Meranti, Riau. "
             ]
         },
@@ -6409,7 +6409,7 @@
             "patterns": [
                 "ada berapa macam makanan yang berasal dari betawi"
             ],
-            "respon": [
+            "responses": [
                 "Ada 8 macem"
             ]
         },
@@ -6418,7 +6418,7 @@
             "patterns": [
                 "Sebutkan makanan apa saja yang ada di betawi"
             ],
-            "respon": [
+            "responses": [
                 "Kerak Telor, Nasi Uduk Betawi, Semur Jengkol, gado dado betawi, kue cucur, asinan betawi dan roti buaya. "
             ]
         },
@@ -6427,7 +6427,7 @@
             "patterns": [
                 "apa itu makanan kerak telor"
             ],
-            "respon": [
+            "responses": [
                 " Makanan asli daerah Jakarta, dengan bahan-bahan beras ketan putih, telur ayam atau bebek, ebi yang disangrai kering ditambah bawang merah goreng. "
             ]
         },
@@ -6436,7 +6436,7 @@
             "patterns": [
                 " Apa itu soto betawi"
             ],
-            "respon": [
+            "responses": [
                 "yang khas dari daerah DKI Jakarta. Seperti halnya Soto Madura dan Soto Sulung, soto Betawi juga menggunakan jeroan."
             ]
         },
@@ -6445,7 +6445,7 @@
             "patterns": [
                 "Campuran apa saja yang dimasukkan ke makanan soto betawi "
             ],
-            "respon": [
+            "responses": [
                 "mata, terpedo, dan juga hati."
             ]
         },
@@ -6454,7 +6454,7 @@
             "patterns": [
                 "Bagaimana rasanya roti buaya"
             ],
-            "respon": [
+            "responses": [
                 "suku Minangkabau, suku Mandailing dan suku Batak. "
             ]
         },
@@ -6463,7 +6463,7 @@
             "patterns": [
                 "Apa itu suku Mandailing"
             ],
-            "respon": [
+            "responses": [
                 "salah satu suku yang ada di Asia Tenggara. Suku ini lebih banyak ditemui di bagian utara pulau Sumatra, Indonesia dan bagian dari Batak. "
             ]
         },
@@ -6472,7 +6472,7 @@
             "patterns": [
                 "Sebutan apa yang berasal dari bentuk khas rumah adat suku minang"
             ],
-            "respon": [
+            "responses": [
                 "atapnya yang melengkung runcing yang disebut gonjong."
             ]
         },
@@ -6481,7 +6481,7 @@
             "patterns": [
                 "Pada atap rumah suku minang terbuat apa"
             ],
-            "respon": [
+            "responses": [
                 "terbuat dari ijuk"
             ]
         },
@@ -6490,7 +6490,7 @@
             "patterns": [
                 "Makanan khas apa pada suku minang"
             ],
-            "respon": [
+            "responses": [
                 "ucapan selamat datang atau tarian penyambutan dari Kupang, NTT"
             ]
         },
@@ -6499,7 +6499,7 @@
             "patterns": [
                 "Makanan khas apa yang ada di Nusa Tenggara Timur"
             ],
-            "respon": [
+            "responses": [
                 "Yakni Rendang."
             ]
         },
@@ -6508,7 +6508,7 @@
             "patterns": [
                 "Bagaimana rasa pada makanan rendang"
             ],
-            "respon": [
+            "responses": [
                 "Selain lezat, rendang juga mudah ditemukan di manapun."
             ]
         },
@@ -6517,7 +6517,7 @@
             "patterns": [
                 "Ada berapa macam wisata yang ada di Minang"
             ],
-            "respon": [
+            "responses": [
                 "20 wisata yang sangat populer."
             ]
         },
@@ -6526,7 +6526,7 @@
             "patterns": [
                 "Sebutkan wisata mana saja yang sering dikunjungi di daerah minang"
             ],
-            "respon": [
+            "responses": [
                 "Jembatan Siti Nurbaya, Taman Sitti Nurbaya, dan Museum Adityawarman. "
             ]
         },
@@ -6535,7 +6535,7 @@
             "patterns": [
                 "Apa itu pantai padang"
             ],
-            "respon": [
+            "responses": [
                 "salahsatu destinasi wisata favorit di Kota Padang. Terlebih setelah Pemerintah Kota Padang memoles dengan berbagai fasilitas."
             ]
         },
@@ -6544,7 +6544,7 @@
             "patterns": [
                 "Aktivitas apa saja yang ada diPantai Pasir Jambak"
             ],
-            "respon": [
+            "responses": [
                 "berenang, berjemur, bermain, hingga menyewa perahu"
             ]
         },
@@ -6553,7 +6553,7 @@
             "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "Melayu Pontianak."
             ]
         },
@@ -6562,7 +6562,7 @@
             "patterns": [
                 "Tarian apa yang ada di Kalimantan Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tari Pingan , Tari Zapin , Tari Jonggan , Tari Kondan dan Tari Kinyah Uut Danum."
             ]
         },
@@ -6571,7 +6571,7 @@
             "patterns": [
                 "Dibagian mana Pulau Sikuai itu berada"
             ],
-            "respon": [
+            "responses": [
                 "di sisi barat pulau Sumatra"
             ]
         },
@@ -6580,7 +6580,7 @@
             "patterns": [
                 "Seperti apa gerakan Tari Pingan Kalimantan Barat yang diperagakan?"
             ],
-            "respon": [
+            "responses": [
                 "Menekan pada gerakan – gerakan atraktif"
             ]
         },
@@ -6589,7 +6589,7 @@
             "patterns": [
                 "Apa itu pulau sirandah"
             ],
-            "respon": [
+            "responses": [
                 "pulau berbukit dengan pantai berpasir putih yang ditumbuhi beberapa jenis pohon tingkat tinggi seperti kelapa, semak dan bakau."
             ]
         },
@@ -6598,7 +6598,7 @@
             "patterns": [
                 "Apa itu Air Terjun Lubuk Hitam"
             ],
-            "respon": [
+            "responses": [
                 "Air terjun ini memiliki tiga tingkatan yang indah."
             ]
         },
@@ -6607,7 +6607,7 @@
             "patterns": [
                 "Lubuk Paraku terletak pada daerah mana"
             ],
-            "respon": [
+            "responses": [
                 "di tepian jalan antara Kota Padang dan Kota Solok"
             ]
         },
@@ -6616,7 +6616,7 @@
             "patterns": [
                 "Pakaian ada apa saja yang ada di Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Batik Jawa Tengah, Jawi Jangkep, Kebaya Jawa Tengah, Kanigaran dan Surjan."
             ]
         },
@@ -6625,7 +6625,7 @@
             "patterns": [
                 "Apa itu pakaian batik Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Pakaian adat Jawa Tengah tidak dapat dilepaskan dari penggunaan kain batik dengan berbagai motif sesuai daerah asalnya."
             ]
         },
@@ -6634,7 +6634,7 @@
             "patterns": [
                 "Bagaimana motif pada pakaian batik Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "rumah adat baluk"
             ]
         },
@@ -6643,7 +6643,7 @@
             "patterns": [
                 "dipakai kapan saat menggunakan pakaian kanigaran"
             ],
-            "respon": [
+            "responses": [
                 "untuk upacara pernikahan"
             ]
         },
@@ -6652,7 +6652,7 @@
             "patterns": [
                 "Ciri khas pakaian Kanigaran yang dikenakan pria"
             ],
-            "respon": [
+            "responses": [
                 "penggunaan singkok yang memanjang ke atas"
             ]
         },
@@ -6661,7 +6661,7 @@
             "patterns": [
                 "Terbuat dari apa pakaian kanigaran tersebut"
             ],
-            "respon": [
+            "responses": [
                 "dari kain beludru berwarna gelap dengan efek mengkilap, sehingga tampak elegan."
             ]
         },
@@ -6670,7 +6670,7 @@
             "patterns": [
                 " Apa itu pakaian adat beskap"
             ],
-            "respon": [
+            "responses": [
                 "jenis baju adat Jawa Tengah untuk laki-laki. Beskap merupakan bagian dari Jawi Jingkep."
             ]
         },
@@ -6679,7 +6679,7 @@
             "patterns": [
                 "Keunikan apa yang terdapat pada pakaian adat beskap"
             ],
-            "respon": [
+            "responses": [
                 "ukuran potongan depan yang miring atau tidak simetris."
             ]
         },
@@ -6688,7 +6688,7 @@
             "patterns": [
                 " Apa itu pakaian jarik"
             ],
-            "respon": [
+            "responses": [
                 "kain dengan motif batik corak khas Jawa Tengah."
             ]
         },
@@ -6697,7 +6697,7 @@
             "patterns": [
                 "Apa itu stagen"
             ],
-            "respon": [
+            "responses": [
                 "merupakan gulungan kain panjang yang dikenakan untuk membalut pinggang."
             ]
         },
@@ -6706,7 +6706,7 @@
             "patterns": [
                 "Fungsi apa yang terdapat pakaian stagen.?"
             ],
-            "respon": [
+            "responses": [
                 "untuk menahan jarik agar tidak melorot atau jatuh. Selain itu, juga dikenakan agar membuat perut tidak buncit."
             ]
         },
@@ -6715,7 +6715,7 @@
             "patterns": [
                 "Apa itu blangkon"
             ],
-            "respon": [
+            "responses": [
                 "penutup kepala yang terbuat dari kain yang dililitkan dan diikat."
             ]
         },
@@ -6724,7 +6724,7 @@
             "patterns": [
                 "Corak lain pada blangkon"
             ],
-            "respon": [
+            "responses": [
                 "blangkon adalah batik larik."
             ]
         },
@@ -6733,7 +6733,7 @@
             "patterns": [
                 "Ciri khas apa yang terdapat pada blangkon.?  "
             ],
-            "respon": [
+            "responses": [
                 "Tonjolan."
             ]
         },
@@ -6742,7 +6742,7 @@
             "patterns": [
                 " Apa makna pada dua ikat pada blangkon "
             ],
-            "respon": [
+            "responses": [
                 "merupakan simbol dua kalimat syahadat yang diikat kuat, maknanya bahwa seseorang harus mempunyai pendirian yang teguh."
             ]
         },
@@ -6751,7 +6751,7 @@
             "patterns": [
                 "Apa itu kuluk"
             ],
-            "respon": [
+            "responses": [
                 "pelengkap pakaian adat dimana penggunaan dan fungsinya seperti blangkon. "
             ]
         },
@@ -6760,7 +6760,7 @@
             "patterns": [
                 " Dipakai kapan pakain kuluk digunakan"
             ],
-            "respon": [
+            "responses": [
                 "dikenakan oleh pria pada acara pernikahan."
             ]
         },
@@ -6769,7 +6769,7 @@
             "patterns": [
                 "Ada berapa macam wisata yang terdapat pada provinsi Jambi.? "
             ],
-            "respon": [
+            "responses": [
                 "30 tempat wisata di jambi"
             ]
         },
@@ -6778,7 +6778,7 @@
             "patterns": [
                 "Sebutkan wisata jambi yang sering dikunjungi"
             ],
-            "respon": [
+            "responses": [
                 "Taman Mini Jambi, GeoPark Merangin , Gentala Arasy, Tugu Pers dan Tugu Juang."
             ]
         },
@@ -6787,7 +6787,7 @@
             "patterns": [
                 "Apa itu GeoPark Merangin "
             ],
-            "respon": [
+            "responses": [
                 "sebuah Geopark nasional di Kabupaten Merangin, Provinsi Jambi yang terletak di Pulau Sumatera, Indonesia."
             ]
         },
@@ -6796,7 +6796,7 @@
             "patterns": [
                 "Keunikan apa yang dimiliki wisata GeoPark Merangin"
             ],
-            "respon": [
+            "responses": [
                 "Ada tiga keunikan geologi utama di Geopark Merangin Jambi."
             ]
         },
@@ -6805,7 +6805,7 @@
             "patterns": [
                 "Apa itu wisata tugu Pers"
             ],
-            "respon": [
+            "responses": [
                 "tugu yang melambangkan kebebasan media massa untuk kontrol sosial"
             ]
         },
@@ -6814,7 +6814,7 @@
             "patterns": [
                 "Apa itu wisata gentala arasy"
             ],
-            "respon": [
+            "responses": [
                 "menara yang dibuat setinggi 80 meter. Menara dengan warna hijau dan kuning yang khas ini terletak di depan Jembatan Pedestrian."
             ]
         },
@@ -6823,7 +6823,7 @@
             "patterns": [
                 "Ciri khas apa yang dimiliki pada Menara Gentala Arasy"
             ],
-            "respon": [
+            "responses": [
                 "Arsitektur Islami.."
             ]
         },
@@ -6832,7 +6832,7 @@
             "patterns": [
                 "Berapa tarif pada masuk di wisata Gentala Arasy"
             ],
-            "respon": [
+            "responses": [
                 "Rp5 ribu per orang."
             ]
         },
@@ -6841,7 +6841,7 @@
             "patterns": [
                 "Wisata apa saja yang terdapat pada daerah papua"
             ],
-            "respon": [
+            "responses": [
                 "Taman Nasional Teluk Cenderawas, Raja Ampat, Danau Sentani, Danau Paniai dan Lembah Baliem."
             ]
         },
@@ -6850,7 +6850,7 @@
             "patterns": [
                 "Apa itu danau paniai"
             ],
-            "respon": [
+            "responses": [
                 "sebuah danau yang terletak di Kabupaten Paniai, Papua."
             ]
         },
@@ -6859,7 +6859,7 @@
             "patterns": [
                 "Terletak dimana danau Paniai"
             ],
-            "respon": [
+            "responses": [
                 "Distrik Paniai."
             ]
         },
@@ -6868,7 +6868,7 @@
             "patterns": [
                 " Apa itu lembah baliem"
             ],
-            "respon": [
+            "responses": [
                 "lembah di pegunungan Jayawijaya."
             ]
         },
@@ -6877,7 +6877,7 @@
             "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
-            "respon": [
+            "responses": [
                 "Pantai Losari, Pulau Kodingareng Keke, Pantai Akkarena"
             ]
         },
@@ -6886,7 +6886,7 @@
             "patterns": [
                 "Dimana keberadaan lembah Baliem"
             ],
-            "respon": [
+            "responses": [
                 "berada di ketinggian 1600 meter dari permukaan laut yang dikelilingi pegunungan."
             ]
         },
@@ -6895,7 +6895,7 @@
             "patterns": [
                 " Acara apa saja pada Festival Lembah Baliem"
             ],
-            "respon": [
+            "responses": [
                 "Acara perang antar Suku Dani, Suku Lani, dan Suku Yali "
             ]
         },
@@ -6904,7 +6904,7 @@
             "patterns": [
                 "Berapa lama Festival Lembah Baliem diadakan"
             ],
-            "respon": [
+            "responses": [
                 "berlangsung selama 3 hari dan dilaksanakan setiap bulan Agustus menjelang perayaan kemerdekaan Indonesia.."
             ]
         },
@@ -6913,7 +6913,7 @@
             "patterns": [
                 "Atraksi bagaimana yang bermakna positif bagi masyarakat Lembah Baliem"
             ],
-            "respon": [
+            "responses": [
                 "‘yogotak hubuluk motog hanaro‘ yang artinya ‘harapan akan hari esok yang harus lebih baik dari hari ini.’"
             ]
         },
@@ -6922,7 +6922,7 @@
             "patterns": [
                 "Apa itu Pesta bakar batu menjadi bukti kerukunan warga di Lembah Baliem"
             ],
-            "respon": [
+            "responses": [
                 "perayaan atau pesta yang dilakukan oleh Suku Dani di Lembah Baliem ketika mendapati kelahiran, pernikahan, upacara kematian, syukuran, atau euforia setelah perang."
             ]
         },
@@ -6931,7 +6931,7 @@
             "patterns": [
                 "Apa itu kepulauan raja ampat"
             ],
-            "respon": [
+            "responses": [
                 "rangkaian empat gugusan pulau yang berdekatan dan berlokasi di barat bagian Kepala Burung Pulau Papua. "
             ]
         },
@@ -6940,7 +6940,7 @@
             "patterns": [
                 "Dimana letak kepulauan raja ampat"
             ],
-            "respon": [
+            "responses": [
                 "berada di bawah Kabupaten Raja Ampat, Provinsi Papua Barat"
             ]
         },
@@ -6949,7 +6949,7 @@
             "patterns": [
                 " Ada berapa macam makanan khas pada daerah papua"
             ],
-            "respon": [
+            "responses": [
                 "7 macam makanan khas papua"
             ]
         },
@@ -6958,7 +6958,7 @@
             "patterns": [
                 "Sebutkan makanan khas yang sering dicari ketika di papua"
             ],
-            "respon": [
+            "responses": [
                 "Udang Selingkuh, Ulat Sagu, Kue Lontar, Sagu Lempeng dan Ikan Bakar Manokwari.."
             ]
         },
@@ -6967,7 +6967,7 @@
             "patterns": [
                 "Apa itu Ikan Bakar Manokwari"
             ],
-            "respon": [
+            "responses": [
                 "Masakan Khas Manokwari Manokwari nama salah satu kabupaten yang terdapat di Provinsi Papua Barat. "
             ]
         },
@@ -6976,7 +6976,7 @@
             "patterns": [
                 "Bagaimana rasa khas pada Masakan Khas makanan Manokwari Manokwari "
             ],
-            "respon": [
+            "responses": [
                 "yang sangat unik, lezat, enak, dan memiliki tekstur yang berbeda dari makanan yang lainnya."
             ]
         },
@@ -6985,7 +6985,7 @@
             "patterns": [
                 "Apa makanan ulat Sagu"
             ],
-            "respon": [
+            "responses": [
                 "Ulat sagu berada di dalam batang pohon sagu karena di batang tersebut terdapat banyak zat tepung, makanan utama ulat sagu."
             ]
         },
@@ -6994,7 +6994,7 @@
             "patterns": [
                 "Apa itu mie aceh"
             ],
-            "respon": [
+            "responses": [
                 "Masakan mie pedas khas aceh, Indonesia"
             ]
         },
@@ -7003,7 +7003,7 @@
             "patterns": [
                 "Apa itu kanji rumbia"
             ],
-            "respon": [
+            "responses": [
                 "Sejenis bubur dengan citarasa unik di provinsi Aceh, mirip dengan bubur ayam yang dijual di daerah lain di Indonesia."
             ]
         },
@@ -7012,7 +7012,7 @@
             "patterns": [
                 "Apa itu kopi gayo"
             ],
-            "respon": [
+            "responses": [
                 "Varietas kopi arabika yang menjadi salah satu komoditi unggulan yang berasal dari Dataran Tinggi Gayo, Aceh tengah, Indonesia."
             ]
         },
@@ -7021,7 +7021,7 @@
             "patterns": [
                 "Apa itu dali ni horbo"
             ],
-            "respon": [
+            "responses": [
                 "Air susu kerbau yang diolah secara tradisional dan merupakan makanan khas batak dari Tapanuli.  "
             ]
         },
@@ -7030,7 +7030,7 @@
             "patterns": [
                 "Apa itu bika ambon"
             ],
-            "respon": [
+            "responses": [
                 "Panganan khas Medan, Indonesia."
             ]
         },
@@ -7039,7 +7039,7 @@
             "patterns": [
                 "Apa itu mie gomak"
             ],
-            "respon": [
+            "responses": [
                 "Makanan yang terkenal sebagai makanan khas suku batak toba dari Sumatera Utara."
             ]
         },
@@ -7048,7 +7048,7 @@
             "patterns": [
                 "Apa itu rendang"
             ],
-            "respon": [
+            "responses": [
                 "Masakan berbahan dasar dagin asli Indonesia yang berasal dari Minangkabau"
             ]
         },
@@ -7057,7 +7057,7 @@
             "patterns": [
                 "Apa itu sate padang"
             ],
-            "respon": [
+            "responses": [
                 "Sebutan untuk tiga jenis varian sate di Sumatera Barat, yaitu Sate Padang, Sate Padang Panjang, dan Sate Pariaman."
             ]
         },
@@ -7066,7 +7066,7 @@
             "patterns": [
                 "sebutkan nama-nama tempat wisata bahari di NTT"
             ],
-            "respon": [
+            "responses": [
                 "Yakni Taman Laut Teluk Maumere, Pink Beach di Manggarai Barat, Pantai Nihiwatu di Sumba, Alor Dive, dan Pantai Nemberala di Rote Ndao.. "
             ]
         },
@@ -7075,7 +7075,7 @@
             "patterns": [
                 "Apa itu dendeng balado"
             ],
-            "respon": [
+            "responses": [
                 "Makanan khas Sumatera Barat dibuat dari irisan tipis dan lebar daging sapi yang dikeringkan lalu digoreng kering. "
             ]
         },
@@ -7084,7 +7084,7 @@
             "patterns": [
                 "Apa itu mie celor"
             ],
-            "respon": [
+            "responses": [
                 "Hidangan mi yang berasal dari kota Palembang, Indonesia. Mi disajikan dalam campuran kuah santan dan kaldu udang yang kental dan gurih dan disajikan dengan pelengkap seperti telur rebus, tauge, dan kucai. "
             ]
         },
@@ -7093,7 +7093,7 @@
             "patterns": [
                 "Apa itu pempek"
             ],
-            "respon": [
+            "responses": [
                 "Makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam. "
             ]
         },
@@ -7102,7 +7102,7 @@
             "patterns": [
                 "Apa itu tempoyak"
             ],
-            "respon": [
+            "responses": [
                 "Durian yang difermentasi bersama garam. Dikenal sebagai bumbu rempah khas Jambi ini cocok untuk berbagai hidangan masakan, seperti gulai ikan patin."
             ]
         },
@@ -7111,7 +7111,7 @@
             "patterns": [
                 "Apa itu kue padamaran"
             ],
-            "respon": [
+            "responses": [
                 "Durian yang difermentasi bersama garam. Dikenal sebagai bumbu rempah khas Jambi ini cocok untuk berbagai hidangan masakan, seperti gulai ikan patin."
             ]
         },
@@ -7120,7 +7120,7 @@
             "patterns": [
                 "Apa itu kue putri kandis"
             ],
-            "respon": [
+            "responses": [
                 "Kue basah tradisional khas Jambi, kombinasi warna kue putri kandis umunya berwarna hijau, cokelat, dan kuning dengan bentuk berlapis-lapis. "
             ]
         },
@@ -7129,7 +7129,7 @@
             "patterns": [
                 "Apa itu gulai ikan patin"
             ],
-            "respon": [
+            "responses": [
                 "Makanan khas riau yang mudah dijumpai di berbagai rumah makan. Umumnya masakan ini berkuah kental kemerahan dengan potongan daging ikan patin yang cukup besar."
             ]
         },
@@ -7138,7 +7138,7 @@
             "patterns": [
                 "Apa itu mie sagu"
             ],
-            "respon": [
+            "responses": [
                 "makanan khas masyarakat Riau, terutama masyarakat di Selatpanjang, Kabupaten Kepulauan Meranti, Riau. "
             ]
         },
@@ -7147,7 +7147,7 @@
             "patterns": [
                 "Apa itu ikan cuka"
             ],
-            "respon": [
+            "responses": [
                 "Olahan ikan goreng selalu menjadi primadona bagi banyak kalangan. Biasanya, ikan yang dipilih untuk bahan dasar adalah ikan tenggiri. Cita rasa kuah cukanya terbuat dari bahan cabai merah iris, cabai giling, lada, pala, jahe, serai, dan bumbu-bumbu."
             ]
         },
@@ -7156,7 +7156,7 @@
             "patterns": [
                 "Apa itu Lakse Kuah Kari Ikan Khas Melayu Kepri"
             ],
-            "respon": [
+            "responses": [
                 "Lakse memiliki bentuk mie bulat putih dan sedikit tebal.nama Lakse diambil daru bahasa. Resepi mee kari istimewa untuk anda sediakan pada tetamu yang berkunjung. Dengan rasa kuah yang seimbang,bebola ikan Kali ini kami nak bagi mee kari resepi istimewa khas untuk anda buat dengan beberapa tips istimewa. Roti jala kuah kari biasanya ditambahkan dengan acar mentimun atau bisa juga dengan Makanan khas Melayu Kepri sebenarnya adalah makanan yang berasal dari arab Makanan ikan salai atau dalam bahasa Indonesia yang berarti ikan asap khas Melayu."
             ]
         },
@@ -7165,7 +7165,7 @@
             "patterns": [
                 "Apa itu kue putu piring"
             ],
-            "respon": [
+            "responses": [
                 "Putu piring menjadi salah satu kue tradisional khas Kepulauan Riau yang banyak diburu untuk buka puasa. Kue ini memiliki cita rasa manis dan gurih dengan taburan parutan kelapa. Di tengah menjamurnya kuliner kekinian, putu piring masih eksis dan banyak diburu untuk disantap saat buka puasa."
             ]
         },
@@ -7174,7 +7174,7 @@
             "patterns": [
                 "Apa itu mie lendir"
             ],
-            "respon": [
+            "responses": [
                 " salah satu makanan khas dari Tanjungpinang, Kepulauan Riau. Mie Lendir tersebut memiliki kuah yang kental berwarna cokelat, kuah ini dicampurkan beberapa bahan seperti kacang tanah dan ubi jalar yang menjadi bahan dasar pada kuahnya."
             ]
         },
@@ -7183,7 +7183,7 @@
             "patterns": [
                 "Apa nama ibu kota dari provinsi Lampung "
             ],
-            "respon": [
+            "responses": [
                 "Kota Bandar Lampung."
             ]
         },
@@ -7192,7 +7192,7 @@
             "patterns": [
                 "Sebutkan bahasa daerah yang digunakan oleh masyarakat lampung"
             ],
-            "respon": [
+            "responses": [
                 "bahasa Lampung "
             ]
         },
@@ -7201,7 +7201,7 @@
             "patterns": [
                 "Senjata tradisional khas provinsi Lampung adalah"
             ],
-            "respon": [
+            "responses": [
                 " terapang"
             ]
         },
@@ -7210,7 +7210,7 @@
             "patterns": [
                 "Bahasa daerah yang digunakan oleh masyarakat provinsi Jawa Tengah adalah"
             ],
-            "respon": [
+            "responses": [
                 "bahasa Jawa ."
             ]
         },
@@ -7219,7 +7219,7 @@
             "patterns": [
                 "Rumah adat yang menjadi ciri khas dari provinsi Jawa Tengah  adalah"
             ],
-            "respon": [
+            "responses": [
                 " rumah Joglo"
             ]
         },
@@ -7228,7 +7228,7 @@
             "patterns": [
                 "Sebutkan Lagu daerah yang berasal dari Jawa Tengah"
             ],
-            "respon": [
+            "responses": [
                 "Gundul-Gundul Pacul, Padang Bulan, Lir- Ilir"
             ]
         },
@@ -7237,7 +7237,7 @@
             "patterns": [
                 "Ibu Kota dari Provinsi Bangka Belitung adalah"
             ],
-            "respon": [
+            "responses": [
                 "Pangkal Pinang"
             ]
         },
@@ -7246,7 +7246,7 @@
             "patterns": [
                 "Alat musik yang menjadi ciri khas dari provinsi Bangka Belitung adalah"
             ],
-            "respon": [
+            "responses": [
                 "Dambus."
             ]
         },
@@ -7255,7 +7255,7 @@
             "patterns": [
                 "Sebutkan Tari Tradisional yang menjadi ikon di provinsi Bangka Belitung adalah"
             ],
-            "respon": [
+            "responses": [
                 "Tari Campak."
             ]
         },
@@ -7264,7 +7264,7 @@
             "patterns": [
                 "Monas menjadi ikon yang paling terkenal di Indonesia yang berada di Provinsi"
             ],
-            "respon": [
+            "responses": [
                 "DKI Jakarta "
             ]
         },
@@ -7273,7 +7273,7 @@
             "patterns": [
                 "DKI Jakarta memiliki banyak latar belakang sejarah yang banyak, salah satu meseum paling terkenal  adalah"
             ],
-            "respon": [
+            "responses": [
                 " Meseum Fatahillah"
             ]
         },
@@ -7282,7 +7282,7 @@
             "patterns": [
                 "Julukan kota kembang tertuju kota Bandung yang menjadi Ibu kota dari provinsi"
             ],
-            "respon": [
+            "responses": [
                 "asal usul Tangkuban Perahu"
             ]
         },
@@ -7291,7 +7291,7 @@
             "patterns": [
                 "Tari tradisional yang berasal Jawa Barat"
             ],
-            "respon": [
+            "responses": [
                 "Tari Merak"
             ]
         },
@@ -7300,7 +7300,7 @@
             "patterns": [
                 "Salah satu taman Nasional terkenal karena terdapat hewan yang dilindungi yaitu, Badak jawa berada di provinsi"
             ],
-            "respon": [
+            "responses": [
                 " Banten"
             ]
         },
@@ -7309,7 +7309,7 @@
             "patterns": [
                 "Salah satu tarian daerah yang menjadi cirri khas masyrakat Banten adalah"
             ],
-            "respon": [
+            "responses": [
                 "Tari Cokek"
             ]
         },
@@ -7318,7 +7318,7 @@
             "patterns": [
                 "Tanaman endemik karna bentuknya besar dan hanya ada di provinsi Bengkulu adalah "
             ],
-            "respon": [
+            "responses": [
                 "Rafflesia Arnoldi"
             ]
         },
@@ -7327,7 +7327,7 @@
             "patterns": [
                 "Senjata tradisional yang menjadi kebanggan masyarakat Bengkulu adalah"
             ],
-            "respon": [
+            "responses": [
                 "Kerambit"
             ]
         },
@@ -7336,7 +7336,7 @@
             "patterns": [
                 "Suku bangsa yang menempati provinsi Bengkulu adalah"
             ],
-            "respon": [
+            "responses": [
                 "Suku Rejang"
             ]
         }
