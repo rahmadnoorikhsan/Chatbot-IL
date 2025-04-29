@@ -889,7 +889,7 @@
         },
         {
             "tag": "tari Gandrung ",
-            "input": [
+            "patterns": [
                 "Seperti apa gerakan tari Gandrung Provinsi Nusa Tenggara Barat yang diperagakan?"
             ],
             "respon": [
@@ -898,7 +898,7 @@
         },
         {
             "tag": "Tari Oncer",
-            "input": [
+            "patterns": [
                 "Berapa banyak pemain Tari Oncer tersebut?"
             ],
             "respon": [
@@ -907,7 +907,7 @@
         },
         {
             "tag": "tari Gandrung Provinsi",
-            "input": [
+            "patterns": [
                 "Seperti apa gerakan di tari Gandrung Provinsi Nusantara Barat yang diperagakan?"
             ],
             "respon": [
@@ -916,7 +916,7 @@
         },
         {
             "tag": "Suku mendominasi NTB",
-            "input": [
+            "patterns": [
                 "Suku apa yang mendominasi di NTB?"
             ],
             "respon": [
@@ -925,7 +925,7 @@
         },
         {
             "tag": "Suku NTB",
-            "input": [
+            "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi NTB?"
             ],
             "respon": [
@@ -934,7 +934,7 @@
         },
         {
             "tag": "Hubungan suku NTB",
-            "input": [
+            "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di NTB?"
             ],
             "respon": [
@@ -943,7 +943,7 @@
         },
         {
             "tag": "adat NTB",
-            "input": [
+            "patterns": [
                 "adat apa yang ada di Provinsi NTB?"
             ],
             "respon": [
@@ -952,7 +952,7 @@
         },
         {
             "tag": "perayaan adat bale",
-            "input": [
+            "patterns": [
                 "kapan adat Bale Bonder tersebut dirayakan"
             ],
             "respon": [
@@ -961,7 +961,7 @@
         },
         {
             "tag": "macam rumah",
-            "input": [
+            "patterns": [
                 "Ada berapa macam rumah adat yang ada NTB"
             ],
             "respon": [
@@ -970,7 +970,7 @@
         },
         {
             "tag": "bentuk Rumah",
-            "input": [
+            "patterns": [
                 "bagaimana bentuk Rumah ada tersebut"
             ],
             "respon": [
@@ -979,7 +979,7 @@
         },
         {
             "tag": "bahan pakai adat NTB",
-            "input": [
+            "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat NTB"
             ],
             "respon": [
@@ -988,7 +988,7 @@
         },
         {
             "tag": "motif pakain adat NTB",
-            "input": [
+            "patterns": [
                 "Bagaimana motif pada pakain adat NTB"
             ],
             "respon": [
@@ -997,7 +997,7 @@
         },
         {
             "tag": "test",
-            "input": [
+            "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat NTB tersebut"
             ],
             "respon": [
@@ -1006,7 +1006,7 @@
         },
         {
             "tag": "Makanan khas  NTB",
-            "input": [
+            "patterns": [
                 "Makanan khas apa yang ada di NTB"
             ],
             "respon": [
@@ -1015,7 +1015,7 @@
         },
         {
             "tag": "rasa makanan",
-            "input": [
+            "patterns": [
                 "Bagaimana rasa makanan yang paling Dicari wisataan"
             ],
             "respon": [
@@ -1024,7 +1024,7 @@
         },
         {
             "tag": "Wisata dicari di NTB",
-            "input": [
+            "patterns": [
                 "Wisata mana yang sangat dicari di daerah NTB?"
             ],
             "respon": [
@@ -1033,7 +1033,7 @@
         },
         {
             "tag": "beberapa macam NTB",
-            "input": [
+            "patterns": [
                 "Ada beberapa macam wisata yang ada NTB"
             ],
             "respon": [
@@ -1042,7 +1042,7 @@
         },
         {
             "tag": "Kesenian Kalimantan Selatan",
-            "input": [
+            "patterns": [
                 "Kesenian apa saja yang berasal dari Kalimantan Selatan"
             ],
             "respon": [
@@ -1051,7 +1051,7 @@
         },
         {
             "tag": "Tari Gantar",
-            "input": [
+            "patterns": [
                 "Berasal dari daerah mana Tari Gantar"
             ],
             "respon": [
@@ -1060,7 +1060,7 @@
         },
         {
             "tag": "tari gantar diadakan",
-            "input": [
+            "patterns": [
                 " Untuk acara apa tari gantar diadakan"
             ],
             "respon": [
@@ -1069,7 +1069,7 @@
         },
         {
             "tag": "lagu daerah Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Apa lagu daerah yang berasal dari Kalimantan Timur"
             ],
             "respon": [
@@ -1078,7 +1078,7 @@
         },
         {
             "tag": "ibukota provinsi Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Dimana ibukota provinsi Kalimantan Timur"
             ],
             "respon": [
@@ -1087,7 +1087,7 @@
         },
         {
             "tag": "bahasa daerah digunakan di Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Kalimantan Timur"
             ],
             "respon": [
@@ -1096,7 +1096,7 @@
         },
         {
             "tag": "Bahasa Kutai",
-            "input": [
+            "patterns": [
                 "Daerah mana Bahasa Kutai banyak digunakan"
             ],
             "respon": [
@@ -1105,7 +1105,7 @@
         },
         {
             "tag": "pakaian adat Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Apa nama pakaian adat dari Kalimantan Timur"
             ],
             "respon": [
@@ -1114,7 +1114,7 @@
         },
         {
             "tag": "acara apa baju adat Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Untuk acara apa baju adat Kalimantan Timur digunakan"
             ],
             "respon": [
@@ -1123,7 +1123,7 @@
         },
         {
             "tag": "Suku bangsa mendiami daerah Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Suku bangsa apa yang mendiami daerah Kalimantan Timur"
             ],
             "respon": [
@@ -1132,7 +1132,7 @@
         },
         {
             "tag": "menjumpai penduduk Suku Kutai",
-            "input": [
+            "patterns": [
                 " Di daerah mana kita banyak menjumpai penduduk Suku Kutai"
             ],
             "respon": [
@@ -1141,7 +1141,7 @@
         },
         {
             "tag": "penduduk Suku Berau",
-            "input": [
+            "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Berau"
             ],
             "respon": [
@@ -1150,7 +1150,7 @@
         },
         {
             "tag": "Rumah adat Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Rumah adat apa yang berasal dari Kalimantan Timur"
             ],
             "respon": [
@@ -1159,7 +1159,7 @@
         },
         {
             "tag": "alat musik khas Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Apa saja alat musik khas Kalimantan Timur"
             ],
             "respon": [
@@ -1168,7 +1168,7 @@
         },
         {
             "tag": "makanan khas dari Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Apa makanan khas dari Kalimantan Timur"
             ],
             "respon": [
@@ -1177,7 +1177,7 @@
         },
         {
             "tag": "objek wisata Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Apa saja objek wisata yang ada di Kalimantan Timur"
             ],
             "respon": [
@@ -1186,7 +1186,7 @@
         },
         {
             "tag": "Upacara adat Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Upacara adat apa yang ada di Kalimantan Timur"
             ],
             "respon": [
@@ -1195,7 +1195,7 @@
         },
         {
             "tag": "upacara adat Dahau",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan"
             ],
             "respon": [
@@ -1204,7 +1204,7 @@
         },
         {
             "tag": "kain khas Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
             "respon": [
@@ -1213,7 +1213,7 @@
         },
         {
             "tag": "senjata tradisional khas Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Apa nama senjata tradisional khas Kalimantan Timur"
             ],
             "respon": [
@@ -1222,7 +1222,7 @@
         },
         {
             "tag": "Kesenian Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Kesenian apa saja yang berasal dari Kalimantan Selatan"
             ],
             "respon": [
@@ -1231,7 +1231,7 @@
         },
         {
             "tag": "Sinoman Hadrah",
-            "input": [
+            "patterns": [
                 "Di daerah mana Sinoman Hadrah banyak dijumpai"
             ],
             "respon": [
@@ -1240,7 +1240,7 @@
         },
         {
             "tag": "Berasal Tari Baksa kembang",
-            "input": [
+            "patterns": [
                 "Berasal dari daerah mana Tari Baksa kembang"
             ],
             "respon": [
@@ -1249,7 +1249,7 @@
         },
         {
             "tag": "Tari Baksa kembang",
-            "input": [
+            "patterns": [
                 "Bagaimana tarian dari baksa kembang"
             ],
             "respon": [
@@ -1258,7 +1258,7 @@
         },
         {
             "tag": "Alat menampilkan Sinoman Hadrah",
-            "input": [
+            "patterns": [
                 "Alat apa saja yang digunakan dalam menampilkan Sinoman Hadrah"
             ],
             "respon": [
@@ -1267,7 +1267,7 @@
         },
         {
             "tag": "bahasa daerah Kalimantan selatan",
-            "input": [
+            "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Kalimantan selatan"
             ],
             "respon": [
@@ -1276,7 +1276,7 @@
         },
         {
             "tag": "Bahasa Banjar",
-            "input": [
+            "patterns": [
                 "Bahasa apa saja yang memengaruhi Bahasa Banjar"
             ],
             "respon": [
@@ -1285,7 +1285,7 @@
         },
         {
             "tag": " pakaian adat Kalimantan SelataN",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat dari Kalimantan Selatan"
             ],
             "respon": [
@@ -1294,7 +1294,7 @@
         },
         {
             "tag": "Untuk acara apa Sinoman Hadrah",
-            "input": [
+            "patterns": [
                 "Untuk acara apa Sinoman Hadrah dilakukan"
             ],
             "respon": [
@@ -1303,7 +1303,7 @@
         },
         {
             "tag": "Suku bangsa Kalimantan Selatan",
-            "input": [
+            "patterns": [
                 " Suku bangsa apa yang mendiami daerah Kalimantan Selatan"
             ],
             "respon": [
@@ -1312,7 +1312,7 @@
         },
         {
             "tag": "Rumah adat Kalimantan Selatan",
-            "input": [
+            "patterns": [
                 "Rumah adat apa yang berasal dari Kalimantan Selatan"
             ],
             "respon": [
@@ -1321,7 +1321,7 @@
         },
         {
             "tag": " alat musik khas Kalimantan SelataN",
-            "input": [
+            "patterns": [
                 " Apa saja alat musik khas Kalimantan SelataN"
             ],
             "respon": [
@@ -1330,7 +1330,7 @@
         },
         {
             "tag": "makanan khas dari Kalimantan Selatan",
-            "input": [
+            "patterns": [
                 "Apa makanan khas dari Kalimantan Selatan"
             ],
             "respon": [
@@ -1339,7 +1339,7 @@
         },
         {
             "tag": "objek wisata yang adandi",
-            "input": [
+            "patterns": [
                 "Apa saja objek wisata yang adandi Kalimantan Selatan?"
             ],
             "respon": [
@@ -1348,7 +1348,7 @@
         },
         {
             "tag": "aktivitas luar ruangan",
-            "input": [
+            "patterns": [
                 " Apa aktivitas luar ruangan terbaik di Kalimantan Selatan?"
             ],
             "respon": [
@@ -1357,7 +1357,7 @@
         },
         {
             "tag": "Upacara adat Kalimantan Selatan",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Kalimantan Selatan"
             ],
             "respon": [
@@ -1366,7 +1366,7 @@
         },
         {
             "tag": "adat Mappanretasi",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Mappanretasi dilakukan"
             ],
             "respon": [
@@ -1375,7 +1375,7 @@
         },
         {
             "tag": "kain khas Kalimantan Selatan",
-            "input": [
+            "patterns": [
                 "Apa kain khas yang berasal dari Kalimantan Selatan"
             ],
             "respon": [
@@ -1384,7 +1384,7 @@
         },
         {
             "tag": "senjata tradisional khas Kalimantan Selatan",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Kalimantan Selatan"
             ],
             "respon": [
@@ -1393,7 +1393,7 @@
         },
         {
             "tag": "Kesenian berasal dari Kalimantan Timur",
-            "input": [
+            "patterns": [
                 "Kesenian apa yang berasal dari Kalimantan Timur"
             ],
             "respon": [
@@ -1402,7 +1402,7 @@
         },
         {
             "tag": " Tari Lalatip",
-            "input": [
+            "patterns": [
                 "Berasal dari daerah mana Tari Lalatip"
             ],
             "respon": [
@@ -1411,7 +1411,7 @@
         },
         {
             "tag": "Kesenian Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Kesenian apa yang berasal dari Kalimantan Utara"
             ],
             "respon": [
@@ -1420,7 +1420,7 @@
         },
         {
             "tag": "Tari Lalatip",
-            "input": [
+            "patterns": [
                 "Bagaimana Tari Lalatip ditampilkan"
             ],
             "respon": [
@@ -1429,7 +1429,7 @@
         },
         {
             "tag": " judul lagu Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Apa judul lagu daerah dari Kalimantan Utara"
             ],
             "respon": [
@@ -1438,7 +1438,7 @@
         },
         {
             "tag": "ibukota  Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Dimana ibukota provinsi Kalimantan Utara"
             ],
             "respon": [
@@ -1447,7 +1447,7 @@
         },
         {
             "tag": "bahasa daerah Kalimantan Utara",
-            "input": [
+            "patterns": [
                 ". Apa bahasa daerah yang paling banyak digunakan di Kalimantan Utara"
             ],
             "respon": [
@@ -1456,7 +1456,7 @@
         },
         {
             "tag": "howami",
-            "input": [
+            "patterns": [
                 "Daerah mana Bahasa Bulungan banyak digunaka"
             ],
             "respon": [
@@ -1465,7 +1465,7 @@
         },
         {
             "tag": "pakaian adat Kalimantan Utara",
-            "input": [
+            "patterns": [
                 ". Apa nama pakaian adat dari Kalimantan Utara"
             ],
             "respon": [
@@ -1474,7 +1474,7 @@
         },
         {
             "tag": "Suku mendiami Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Suku bangsa apa yang mendiami daerah Kalimantan Utara"
             ],
             "respon": [
@@ -1483,7 +1483,7 @@
         },
         {
             "tag": "Suku Bulungan",
-            "input": [
+            "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Bulungan"
             ],
             "respon": [
@@ -1492,7 +1492,7 @@
         },
         {
             "tag": "Rumah adat Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Rumah adat apa yang berasal dari Kalimantan Utara"
             ],
             "respon": [
@@ -1501,7 +1501,7 @@
         },
         {
             "tag": "alat musik Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Apa saja alat musik khas Kalimantan Utara"
             ],
             "respon": [
@@ -1510,7 +1510,7 @@
         },
         {
             "tag": "makanan khas dari Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Apa makanan khas dari Kalimantan Utara"
             ],
             "respon": [
@@ -1519,7 +1519,7 @@
         },
         {
             "tag": "objek wisata Kalimantan Utara",
-            "input": [
+            "patterns": [
                 ". Apa saja objek wisata yang ada di Kalimantan Utara"
             ],
             "respon": [
@@ -1528,7 +1528,7 @@
         },
         {
             "tag": "Upacara adat Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Kalimantan Utara"
             ],
             "respon": [
@@ -1537,7 +1537,7 @@
         },
         {
             "tag": "pa upacara adat Biduk Bebandung",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Biduk Bebandung dilakukan"
             ],
             "respon": [
@@ -1546,7 +1546,7 @@
         },
         {
             "tag": "kain khas Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Apa kain khas yang berasal dari Kalimantan Utara"
             ],
             "respon": [
@@ -1555,7 +1555,7 @@
         },
         {
             "tag": "senjata khas Kalimantan Utara",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Kalimantan Utara"
             ],
             "respon": [
@@ -1564,7 +1564,7 @@
         },
         {
             "tag": "Kesenian Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Kesenian apa yang berasal dari Sulawesi Utara"
             ],
             "respon": [
@@ -1573,7 +1573,7 @@
         },
         {
             "tag": "Tari Lenso",
-            "input": [
+            "patterns": [
                 "Berasal dari daerah mana Tari Lenso"
             ],
             "respon": [
@@ -1582,7 +1582,7 @@
         },
         {
             "tag": "Tari Lenso diadakan",
-            "input": [
+            "patterns": [
                 "Untuk acara apa Tari Lenso diadakan"
             ],
             "respon": [
@@ -1591,7 +1591,7 @@
         },
         {
             "tag": "judul lagu Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa judul lagu daerah dari Sulawesi Utara"
             ],
             "respon": [
@@ -1600,7 +1600,7 @@
         },
         {
             "tag": "bahasa daerah Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Sulawesi Utara"
             ],
             "respon": [
@@ -1609,7 +1609,7 @@
         },
         {
             "tag": "Bahasa Kadaipang",
-            "input": [
+            "patterns": [
                 "Daerah mana Bahasa Kadaipang banyak digunakan"
             ],
             "respon": [
@@ -1618,7 +1618,7 @@
         },
         {
             "tag": "pakaian adat dari Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat dari Sulawesi Utara"
             ],
             "respon": [
@@ -1627,7 +1627,7 @@
         },
         {
             "tag": "baju adat Sulawesi Utara digunakan",
-            "input": [
+            "patterns": [
                 "Untuk acara apa baju adat Sulawesi Utara digunakan"
             ],
             "respon": [
@@ -1636,7 +1636,7 @@
         },
         {
             "tag": "Suku bangsa Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Suku bangsa apa yang mendiami daerah Sulawesi Utara"
             ],
             "respon": [
@@ -1645,7 +1645,7 @@
         },
         {
             "tag": "penduduk Suku Minahasa",
-            "input": [
+            "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Minahasa"
             ],
             "respon": [
@@ -1654,7 +1654,7 @@
         },
         {
             "tag": "penduduk Suku Bantik",
-            "input": [
+            "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Bantik"
             ],
             "respon": [
@@ -1663,7 +1663,7 @@
         },
         {
             "tag": "Rumah adat Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Rumah adat apa yang berasal dari Sulawesi Utara"
             ],
             "respon": [
@@ -1672,7 +1672,7 @@
         },
         {
             "tag": " alat musik khas Sulawesi Utara",
-            "input": [
+            "patterns": [
                 " Apa saja alat musik khas Sulawesi Utara"
             ],
             "respon": [
@@ -1681,7 +1681,7 @@
         },
         {
             "tag": "makanan khas dari Sulawesi Utara ",
-            "input": [
+            "patterns": [
                 "Apa makanan khas dari Sulawesi Utara "
             ],
             "respon": [
@@ -1690,7 +1690,7 @@
         },
         {
             "tag": "objek wisata Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa saja objek wisata yang ada di Sulawesi Utara"
             ],
             "respon": [
@@ -1699,7 +1699,7 @@
         },
         {
             "tag": "Upacara adat Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Utara"
             ],
             "respon": [
@@ -1708,7 +1708,7 @@
         },
         {
             "tag": "upacara adat Mekikuwa",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Mekikuwa dilakukan"
             ],
             "respon": [
@@ -1717,7 +1717,7 @@
         },
         {
             "tag": "senjata tradisional khas Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
             "respon": [
@@ -1726,7 +1726,7 @@
         },
         {
             "tag": "Upacara adat Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Upacara adat apa yang ada di Kalimantan Timur"
             ],
             "respon": [
@@ -1735,7 +1735,7 @@
         },
         {
             "tag": "adat Dahau",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan"
             ],
             "respon": [
@@ -1744,7 +1744,7 @@
         },
         {
             "tag": "kain khas Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
             "respon": [
@@ -1753,7 +1753,7 @@
         },
         {
             "tag": "senjata tradisional khas Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
             "respon": [
@@ -1762,7 +1762,7 @@
         },
         {
             "tag": "Kesenian Gorontalo",
-            "input": [
+            "patterns": [
                 "Kesenian apa yang berasal dari Gorontalo"
             ],
             "respon": [
@@ -1771,7 +1771,7 @@
         },
         {
             "tag": "Tari Dana",
-            "input": [
+            "patterns": [
                 "Untuk acara apa Tari Dana Dana diadakan"
             ],
             "respon": [
@@ -1780,7 +1780,7 @@
         },
         {
             "tag": " Tari Palopalo diadakan",
-            "input": [
+            "patterns": [
                 "Untuk acara apa Tari Palopalo diadakan"
             ],
             "respon": [
@@ -1789,7 +1789,7 @@
         },
         {
             "tag": "judul lagu Gorontalo",
-            "input": [
+            "patterns": [
                 "Apa judul lagu daerah dari Gorontalo"
             ],
             "respon": [
@@ -1798,7 +1798,7 @@
         },
         {
             "tag": "ibukota provinsi Gorontalo",
-            "input": [
+            "patterns": [
                 "Dimana ibukota provinsi Gorontalo"
             ],
             "respon": [
@@ -1807,7 +1807,7 @@
         },
         {
             "tag": " bahasa daerah di Gorontalo",
-            "input": [
+            "patterns": [
                 " Apa bahasa daerah yang paling banyak digunakan di Gorontalo"
             ],
             "respon": [
@@ -1816,7 +1816,7 @@
         },
         {
             "tag": "bahasa daerah Kalimantan selatan",
-            "input": [
+            "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Kalimantan selatan"
             ],
             "respon": [
@@ -1825,7 +1825,7 @@
         },
         {
             "tag": " pakaian adat dari Gorontalo",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat dari Gorontalo"
             ],
             "respon": [
@@ -1834,7 +1834,7 @@
         },
         {
             "tag": "Suku bangsa Gorontalo",
-            "input": [
+            "patterns": [
                 "Suku bangsa apa yang mendiami daerah Gorontalo"
             ],
             "respon": [
@@ -1843,7 +1843,7 @@
         },
         {
             "tag": "Suku Gorontalo",
-            "input": [
+            "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Gorontalo"
             ],
             "respon": [
@@ -1852,7 +1852,7 @@
         },
         {
             "tag": "Rumah adat Gorontalo",
-            "input": [
+            "patterns": [
                 "Rumah adat apa yang berasal dari Gorontalo"
             ],
             "respon": [
@@ -1861,7 +1861,7 @@
         },
         {
             "tag": "alat musik khas Gorontalo",
-            "input": [
+            "patterns": [
                 "Apa saja alat musik khas Gorontalo"
             ],
             "respon": [
@@ -1870,7 +1870,7 @@
         },
         {
             "tag": "makanan khas dari Gorontalo",
-            "input": [
+            "patterns": [
                 "Apa makanan khas dari Gorontalo"
             ],
             "respon": [
@@ -1879,7 +1879,7 @@
         },
         {
             "tag": "objek wisata yang ada di Gorontalo",
-            "input": [
+            "patterns": [
                 " Apa saja objek wisata yang ada di Gorontalo"
             ],
             "respon": [
@@ -1888,7 +1888,7 @@
         },
         {
             "tag": "Upacara adat Gorontalo",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Gorontalo"
             ],
             "respon": [
@@ -1897,7 +1897,7 @@
         },
         {
             "tag": "adat Mappanretasi",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Mappanretasi dilakukan"
             ],
             "respon": [
@@ -1906,7 +1906,7 @@
         },
         {
             "tag": " kain khas Gorontalo",
-            "input": [
+            "patterns": [
                 "Apa kain khas yang berasal dari Gorontalo"
             ],
             "respon": [
@@ -1915,7 +1915,7 @@
         },
         {
             "tag": "senjata tradisional khas Gorontalo",
-            "input": [
+            "patterns": [
                 " Apa nama senjata tradisional khas Gorontalo"
             ],
             "respon": [
@@ -1924,7 +1924,7 @@
         },
         {
             "tag": "Kesenian Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Kesenian apa yang berasal dari Sulawesi Tengah"
             ],
             "respon": [
@@ -1933,7 +1933,7 @@
         },
         {
             "tag": "Tari Dero",
-            "input": [
+            "patterns": [
                 "Berasal dari daerah mana Tari Dero"
             ],
             "respon": [
@@ -1942,7 +1942,7 @@
         },
         {
             "tag": "Tari Dero diadakan",
-            "input": [
+            "patterns": [
                 ". Untuk acara apa Tari Dero diadakan"
             ],
             "respon": [
@@ -1951,7 +1951,7 @@
         },
         {
             "tag": "judul lagu Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Apa judul lagu daerah dari Sulawesi Tengah"
             ],
             "respon": [
@@ -1960,7 +1960,7 @@
         },
         {
             "tag": "ibukota provinsi Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Dimana ibukota provinsi Sulawesi Tengah"
             ],
             "respon": [
@@ -1969,7 +1969,7 @@
         },
         {
             "tag": "bahasa daerah Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 ". Apa bahasa daerah yang paling banyak digunakan di Sulawesi Tengah"
             ],
             "respon": [
@@ -1978,7 +1978,7 @@
         },
         {
             "tag": "Bahasa Bada banyak digunakan",
-            "input": [
+            "patterns": [
                 "Daerah mana Bahasa Bada banyak digunakan"
             ],
             "respon": [
@@ -1987,7 +1987,7 @@
         },
         {
             "tag": "pakaian adat dari Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat dari Sulawesi Tengah"
             ],
             "respon": [
@@ -1996,7 +1996,7 @@
         },
         {
             "tag": "baju adat Sulawesi Tengah digunakan",
-            "input": [
+            "patterns": [
                 "Untuk acara apa baju adat Sulawesi Tengah digunakan"
             ],
             "respon": [
@@ -2005,7 +2005,7 @@
         },
         {
             "tag": "uku bangsa Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Suku bangsa apa yang mendiami daerah Sulawesi Tengah"
             ],
             "respon": [
@@ -2014,7 +2014,7 @@
         },
         {
             "tag": "penduduk Suku Bada",
-            "input": [
+            "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Bada"
             ],
             "respon": [
@@ -2023,7 +2023,7 @@
         },
         {
             "tag": "Rumah adat Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 " Rumah adat apa yang berasal dari Sulawesi Tengah"
             ],
             "respon": [
@@ -2032,7 +2032,7 @@
         },
         {
             "tag": "alat musik khas Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 " Apa saja alat musik khas Sulawesi Tengah"
             ],
             "respon": [
@@ -2041,7 +2041,7 @@
         },
         {
             "tag": "makanan khas dari Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Apa makanan khas dari Sulawesi Tengah"
             ],
             "respon": [
@@ -2050,7 +2050,7 @@
         },
         {
             "tag": "objek wisata Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Apa saja objek wisata yang ada di Sulawesi Tengah"
             ],
             "respon": [
@@ -2059,7 +2059,7 @@
         },
         {
             "tag": "Upacara adat Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Tengah"
             ],
             "respon": [
@@ -2068,7 +2068,7 @@
         },
         {
             "tag": "senjata tradisional khas Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Tengah"
             ],
             "respon": [
@@ -2077,7 +2077,7 @@
         },
         {
             "tag": "Kesenian Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Kesenian apa yang berasal dari Sulawesi Barat"
             ],
             "respon": [
@@ -2086,7 +2086,7 @@
         },
         {
             "tag": "Tari Ma’bundu",
-            "input": [
+            "patterns": [
                 "Berasal dari daerah mana Tari Ma’bundu"
             ],
             "respon": [
@@ -2095,7 +2095,7 @@
         },
         {
             "tag": "Tari Perang",
-            "input": [
+            "patterns": [
                 "Bagaimana Tari Perang ditampilkan"
             ],
             "respon": [
@@ -2104,7 +2104,7 @@
         },
         {
             "tag": "Tari Ma’bundu",
-            "input": [
+            "patterns": [
                 "Bagaimana Tari Ma’bundu ditampilkan"
             ],
             "respon": [
@@ -2113,7 +2113,7 @@
         },
         {
             "tag": "lagu daerah dari Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Apa judul lagu daerah dari Sulawesi Barat"
             ],
             "respon": [
@@ -2122,7 +2122,7 @@
         },
         {
             "tag": "ibukota provinsi Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Dimana ibukota provinsi Sulawesi Barat"
             ],
             "respon": [
@@ -2131,7 +2131,7 @@
         },
         {
             "tag": "bahasa daerah Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Apa bahasa daerah yang paling banyak digunakan di Sulawesi Barat"
             ],
             "respon": [
@@ -2140,7 +2140,7 @@
         },
         {
             "tag": "Bahasa Mamasa",
-            "input": [
+            "patterns": [
                 "Daerah mana Bahasa Mamasa banyak digunakan"
             ],
             "respon": [
@@ -2149,7 +2149,7 @@
         },
         {
             "tag": "pakaian adat dari Sulawesi Barat",
-            "input": [
+            "patterns": [
                 " Apa nama pakaian adat dari Sulawesi Barat"
             ],
             "respon": [
@@ -2158,7 +2158,7 @@
         },
         {
             "tag": "baju adat Sulawesi Barat digunakan",
-            "input": [
+            "patterns": [
                 "Untuk acara apa baju adat Sulawesi Barat digunakan"
             ],
             "respon": [
@@ -2167,7 +2167,7 @@
         },
         {
             "tag": "Suku bangsa mendiami daerah Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Suku bangsa apa yang mendiami daerah Sulawesi Barat"
             ],
             "respon": [
@@ -2176,7 +2176,7 @@
         },
         {
             "tag": "penduduk Suku Mandar",
-            "input": [
+            "patterns": [
                 " Di daerah mana kita banyak menjumpai penduduk Suku Mandar"
             ],
             "respon": [
@@ -2185,7 +2185,7 @@
         },
         {
             "tag": "Rumah adat ari Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Rumah adat apa yang berasal dari Sulawesi Barat"
             ],
             "respon": [
@@ -2194,7 +2194,7 @@
         },
         {
             "tag": "alat musik khas Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Apa saja alat musik khas Sulawesi Barat"
             ],
             "respon": [
@@ -2203,7 +2203,7 @@
         },
         {
             "tag": "makanan khas dari Sulawesi Barat",
-            "input": [
+            "patterns": [
                 ". Apa makanan khas dari Sulawesi Barat"
             ],
             "respon": [
@@ -2212,7 +2212,7 @@
         },
         {
             "tag": "objek wisata Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Apa saja objek wisata yang ada di Sulawesi Barat"
             ],
             "respon": [
@@ -2221,7 +2221,7 @@
         },
         {
             "tag": "Upacara adat Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Barat"
             ],
             "respon": [
@@ -2230,7 +2230,7 @@
         },
         {
             "tag": "upacara adat Mattamu Buah",
-            "input": [
+            "patterns": [
                 " Untuk apa upacara adat Mattamu Buah dilakukan"
             ],
             "respon": [
@@ -2239,7 +2239,7 @@
         },
         {
             "tag": "kain khas Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Apa kain khas yang berasal dari Sulawesi Barat"
             ],
             "respon": [
@@ -2248,7 +2248,7 @@
         },
         {
             "tag": "senjata tradisional khas Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Barat"
             ],
             "respon": [
@@ -2257,7 +2257,7 @@
         },
         {
             "tag": "Upacara adat Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Utara"
             ],
             "respon": [
@@ -2266,7 +2266,7 @@
         },
         {
             "tag": "adat Mekikuwa",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Mekikuwa dilakukan"
             ],
             "respon": [
@@ -2275,7 +2275,7 @@
         },
         {
             "tag": "senjata tradisional khas Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
             "respon": [
@@ -2284,7 +2284,7 @@
         },
         {
             "tag": "Upacara adat Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Upacara adat apa yang ada di Kalimantan Timur"
             ],
             "respon": [
@@ -2293,7 +2293,7 @@
         },
         {
             "tag": "adat Dahau dilakukan",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan"
             ],
             "respon": [
@@ -2302,7 +2302,7 @@
         },
         {
             "tag": "kain khas Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
             "respon": [
@@ -2311,7 +2311,7 @@
         },
         {
             "tag": "senjata tradisional khas Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Utara"
             ],
             "respon": [
@@ -2320,7 +2320,7 @@
         },
         {
             "tag": "Kesenian Gorontalo",
-            "input": [
+            "patterns": [
                 "Kesenian apa yang berasal dari Gorontalo"
             ],
             "respon": [
@@ -2329,7 +2329,7 @@
         },
         {
             "tag": " Tari Dana Dana",
-            "input": [
+            "patterns": [
                 "Untuk acara apa Tari Dana Dana diadakan"
             ],
             "respon": [
@@ -2338,7 +2338,7 @@
         },
         {
             "tag": "Tari Palopalo ",
-            "input": [
+            "patterns": [
                 "Untuk acara apa Tari Palopalo diadakan"
             ],
             "respon": [
@@ -2347,7 +2347,7 @@
         },
         {
             "tag": "test",
-            "input": [
+            "patterns": [
                 "Apa judul lagu daerah dari Gorontalo"
             ],
             "respon": [
@@ -2356,7 +2356,7 @@
         },
         {
             "tag": "ibukota provinsi Gorontalo",
-            "input": [
+            "patterns": [
                 "Dimana ibukota provinsi Gorontalo"
             ],
             "respon": [
@@ -2365,7 +2365,7 @@
         },
         {
             "tag": "Suku bangsa Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Bangka Belitung"
             ],
             "respon": [
@@ -2374,7 +2374,7 @@
         },
         {
             "tag": "Pakaian adat Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Pakaian adat apakah yang khas dengan Bangka Belitung"
             ],
             "respon": [
@@ -2383,7 +2383,7 @@
         },
         {
             "tag": "senjata daerah yang ada di Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan senjata daerah yang ada di Bangka Belitung"
             ],
             "respon": [
@@ -2392,7 +2392,7 @@
         },
         {
             "tag": "seni tari yang ada di Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Bangka Belitung"
             ],
             "respon": [
@@ -2401,7 +2401,7 @@
         },
         {
             "tag": "alat musik tradisional Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Bangka Belitung"
             ],
             "respon": [
@@ -2410,7 +2410,7 @@
         },
         {
             "tag": "hewan endemik  Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Bangka Belitung"
             ],
             "respon": [
@@ -2419,7 +2419,7 @@
         },
         {
             "tag": " bahasa Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Bangka Belitung"
             ],
             "respon": [
@@ -2428,7 +2428,7 @@
         },
         {
             "tag": "pahlawan Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan pahlawan yang berasal dari Bangka Belitung."
             ],
             "respon": [
@@ -2437,7 +2437,7 @@
         },
         {
             "tag": "lagu daerah Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Bangka Belitung"
             ],
             "respon": [
@@ -2446,7 +2446,7 @@
         },
         {
             "tag": "makanan khas dari Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Bangka Belitung"
             ],
             "respon": [
@@ -2455,7 +2455,7 @@
         },
         {
             "tag": "cerita rakyat  Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Bangka Belitung"
             ],
             "respon": [
@@ -2464,7 +2464,7 @@
         },
         {
             "tag": "penduduk Suku Minahasa",
-            "input": [
+            "patterns": [
                 "Di daerah mana kita banyak menjumpai penduduk Suku Minahasa"
             ],
             "respon": [
@@ -2473,7 +2473,7 @@
         },
         {
             "tag": "ciri khas dari Provinsi Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Bangka Belitung"
             ],
             "respon": [
@@ -2482,7 +2482,7 @@
         },
         {
             "tag": "tumbuhan endemik dari Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan tumbuhan endemik dari Bangka Belitung"
             ],
             "respon": [
@@ -2491,7 +2491,7 @@
         },
         {
             "tag": "Hasil bumi Bangka Belitung",
-            "input": [
+            "patterns": [
                 " Hasil bumi apakah yang dihasilkan di Bangka Belitung"
             ],
             "respon": [
@@ -2500,7 +2500,7 @@
         },
         {
             "tag": "upacara adat  Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan upacara adat yang ada di Bangka Belitung"
             ],
             "respon": [
@@ -2509,7 +2509,7 @@
         },
         {
             "tag": "taman nasional Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Bangka Belitung"
             ],
             "respon": [
@@ -2518,7 +2518,7 @@
         },
         {
             "tag": "tahun Provinsi Bangka Belitung di bentuk",
-            "input": [
+            "patterns": [
                 "Pada tahun berapakah Provinsi Bangka Belitung di bentuk"
             ],
             "respon": [
@@ -2527,7 +2527,7 @@
         },
         {
             "tag": " kain yang khas dari Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan kain yang khas dari Bangka Belitung"
             ],
             "respon": [
@@ -2536,7 +2536,7 @@
         },
         {
             "tag": "Bangka Belitung berada",
-            "input": [
+            "patterns": [
                 "Bangka Belitung berada pada pulau"
             ],
             "respon": [
@@ -2545,7 +2545,7 @@
         },
         {
             "tag": "tempat wisata yang paling terkenal di Provinsi Bangka Belitung",
-            "input": [
+            "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bangka Belitung"
             ],
             "respon": [
@@ -2554,7 +2554,7 @@
         },
         {
             "tag": "Suku bangsa menempati provinsi Bengkulu",
-            "input": [
+            "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Bengkulu"
             ],
             "respon": [
@@ -2563,7 +2563,7 @@
         },
         {
             "tag": "Pakaian adat Bengkulu",
-            "input": [
+            "patterns": [
                 "Pakaian adat apakah yang khas dengan Bengkulu"
             ],
             "respon": [
@@ -2572,7 +2572,7 @@
         },
         {
             "tag": " senjata daerah  Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan senjata daerah yang ada di Bengkulu"
             ],
             "respon": [
@@ -2581,7 +2581,7 @@
         },
         {
             "tag": "seni tari yang ada di Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Bengkulu"
             ],
             "respon": [
@@ -2590,7 +2590,7 @@
         },
         {
             "tag": "alat musik tradisional Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Bengkulu"
             ],
             "respon": [
@@ -2599,7 +2599,7 @@
         },
         {
             "tag": "hewan endemik yang berhabitat di Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Bengkulu"
             ],
             "respon": [
@@ -2608,7 +2608,7 @@
         },
         {
             "tag": " bahasa Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Bengkulu"
             ],
             "respon": [
@@ -2617,7 +2617,7 @@
         },
         {
             "tag": "pahlawan yang berasal dari Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan pahlawan yang berasal dari Bengkulu"
             ],
             "respon": [
@@ -2626,7 +2626,7 @@
         },
         {
             "tag": "lagu daerah dari Bengkulu",
-            "input": [
+            "patterns": [
                 " Sebutkan lagu daerah yang berasal dari Bengkulu"
             ],
             "respon": [
@@ -2635,7 +2635,7 @@
         },
         {
             "tag": "makanan khas dari Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Bengkulu"
             ],
             "respon": [
@@ -2644,7 +2644,7 @@
         },
         {
             "tag": "cerita rakyat yang berasal dari Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Bengkulu"
             ],
             "respon": [
@@ -2653,7 +2653,7 @@
         },
         {
             "tag": "Rumah adat khas dari Provinsi Bengkulu",
-            "input": [
+            "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Bengkulu"
             ],
             "respon": [
@@ -2662,7 +2662,7 @@
         },
         {
             "tag": "tumbuhan endemik dari Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan tumbuhan endemik dari Bengkulu"
             ],
             "respon": [
@@ -2671,7 +2671,7 @@
         },
         {
             "tag": "Rumah adat dari Gorontalo",
-            "input": [
+            "patterns": [
                 "Rumah adat apa yang berasal dari Gorontalo"
             ],
             "respon": [
@@ -2680,7 +2680,7 @@
         },
         {
             "tag": "Hasil bumi di Bengkulu",
-            "input": [
+            "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Bengkulu"
             ],
             "respon": [
@@ -2689,7 +2689,7 @@
         },
         {
             "tag": "upacara adat yang ada di Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan upacara adat yang ada di Bengkulu"
             ],
             "respon": [
@@ -2698,7 +2698,7 @@
         },
         {
             "tag": " taman nasional yang ada di Bengkulu",
-            "input": [
+            "patterns": [
                 " Sebutkan salah satu taman nasional yang ada di Bengkulu"
             ],
             "respon": [
@@ -2707,7 +2707,7 @@
         },
         {
             "tag": "tahun Bengkulu di bentuk",
-            "input": [
+            "patterns": [
                 "Pada tahun berapakah Provinsi Bengkulu di bentuk"
             ],
             "respon": [
@@ -2716,7 +2716,7 @@
         },
         {
             "tag": "kain yang khas dari Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan kain yang khas dari Bengkulu"
             ],
             "respon": [
@@ -2725,7 +2725,7 @@
         },
         {
             "tag": "Bengkulu berada",
-            "input": [
+            "patterns": [
                 "Bengkulu berada pada pulau"
             ],
             "respon": [
@@ -2734,7 +2734,7 @@
         },
         {
             "tag": "tempat wisata paling terkenal di Provinsi Bengkulu",
-            "input": [
+            "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bengkulu"
             ],
             "respon": [
@@ -2743,7 +2743,7 @@
         },
         {
             "tag": "Suku bangsa provinsi Lampung",
-            "input": [
+            "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Lampung"
             ],
             "respon": [
@@ -2752,7 +2752,7 @@
         },
         {
             "tag": "Pakaian adat  khas dengan Lampung",
-            "input": [
+            "patterns": [
                 "Pakaian adat apakah yang khas dengan Lampung"
             ],
             "respon": [
@@ -2761,7 +2761,7 @@
         },
         {
             "tag": "senjata daerah yang ada di Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan senjata daerah yang ada di Lampung"
             ],
             "respon": [
@@ -2770,7 +2770,7 @@
         },
         {
             "tag": "seni tari yang ada di Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Lampung"
             ],
             "respon": [
@@ -2779,7 +2779,7 @@
         },
         {
             "tag": "hewan endemik di Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Lampung"
             ],
             "respon": [
@@ -2788,7 +2788,7 @@
         },
         {
             "tag": "bahasa  masyarakat Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Lampung"
             ],
             "respon": [
@@ -2797,7 +2797,7 @@
         },
         {
             "tag": "pahlawan yang berasal dari Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan pahlawan yang berasal dari Lampung"
             ],
             "respon": [
@@ -2806,7 +2806,7 @@
         },
         {
             "tag": " lagu daerah Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Lampung"
             ],
             "respon": [
@@ -2815,7 +2815,7 @@
         },
         {
             "tag": "makanan khas dari Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Lampung"
             ],
             "respon": [
@@ -2824,7 +2824,7 @@
         },
         {
             "tag": "cerita rakyat dari Lampung",
-            "input": [
+            "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Lampung"
             ],
             "respon": [
@@ -2833,7 +2833,7 @@
         },
         {
             "tag": "Rumah adat khas dari Provinsi Lampung",
-            "input": [
+            "patterns": [
                 " Rumah adat apakah yang menjadi ciri khas dari Provinsi Lampung"
             ],
             "respon": [
@@ -2842,7 +2842,7 @@
         },
         {
             "tag": "tumbuhan endemic dari Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan tumbuhan endemic dari Lampung"
             ],
             "respon": [
@@ -2851,7 +2851,7 @@
         },
         {
             "tag": "Hasil bumi di Lampung",
-            "input": [
+            "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Lampung"
             ],
             "respon": [
@@ -2860,7 +2860,7 @@
         },
         {
             "tag": "upacara adat yang ada di Lampung",
-            "input": [
+            "patterns": [
                 " Sebutkan upacara adat yang ada di Lampung"
             ],
             "respon": [
@@ -2869,7 +2869,7 @@
         },
         {
             "tag": "salah satu taman nasional Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Lampung"
             ],
             "respon": [
@@ -2878,7 +2878,7 @@
         },
         {
             "tag": " senjata tradisional khas Sulawesi Tengah",
-            "input": [
+            "patterns": [
                 "Apa nama senjata tradisional khas Sulawesi Tengah"
             ],
             "respon": [
@@ -2887,7 +2887,7 @@
         },
         {
             "tag": "tahun berapakah Provinsi Lampung di bentuk",
-            "input": [
+            "patterns": [
                 "Pada tahun berapakah Provinsi Lampung di bentuk"
             ],
             "respon": [
@@ -2896,7 +2896,7 @@
         },
         {
             "tag": " kain yang khas dari Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan kain yang khas dari Lampung"
             ],
             "respon": [
@@ -2905,7 +2905,7 @@
         },
         {
             "tag": "Lampung berada",
-            "input": [
+            "patterns": [
                 "Lampung berada pada pulau"
             ],
             "respon": [
@@ -2914,7 +2914,7 @@
         },
         {
             "tag": "tempat wisata terkenal di Provinsi Lampung",
-            "input": [
+            "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Lampung"
             ],
             "respon": [
@@ -2923,7 +2923,7 @@
         },
         {
             "tag": "Suku bangsa  DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Suku bangsa apakah yang menempati provinsi DKI Jakarta"
             ],
             "respon": [
@@ -2932,7 +2932,7 @@
         },
         {
             "tag": "Pakaian adat DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Pakaian adat apakah yang khas dengan DKI Jakarta"
             ],
             "respon": [
@@ -2941,7 +2941,7 @@
         },
         {
             "tag": " senjata daerah yang ada di DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan senjata daerah yang ada di DKI Jakarta"
             ],
             "respon": [
@@ -2950,7 +2950,7 @@
         },
         {
             "tag": "seni tari yang ada di DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di DKI Jakarta"
             ],
             "respon": [
@@ -2959,7 +2959,7 @@
         },
         {
             "tag": "alat musik tradisional berasal dari DKI Jakart",
-            "input": [
+            "patterns": [
                 "Sebutkan alat musik tradisional berasal dari DKI Jakarta"
             ],
             "respon": [
@@ -2968,7 +2968,7 @@
         },
         {
             "tag": "hewan endemik DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di DKI Jakarta"
             ],
             "respon": [
@@ -2977,7 +2977,7 @@
         },
         {
             "tag": "bahasa DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat DKI Jakarta"
             ],
             "respon": [
@@ -2986,7 +2986,7 @@
         },
         {
             "tag": "pahlawan DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan pahlawan yang berasal dari DKI Jakarta"
             ],
             "respon": [
@@ -2995,7 +2995,7 @@
         },
         {
             "tag": "lagu daerah DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan lagu daerah yang berasal dari DKI Jakarta"
             ],
             "respon": [
@@ -3004,7 +3004,7 @@
         },
         {
             "tag": " makanan khas dari DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari DKI Jakarta"
             ],
             "respon": [
@@ -3013,7 +3013,7 @@
         },
         {
             "tag": "cerita rakyat DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari DKI Jakarta"
             ],
             "respon": [
@@ -3022,7 +3022,7 @@
         },
         {
             "tag": "Rumah adat Provinsi DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi DKI Jakarta"
             ],
             "respon": [
@@ -3031,7 +3031,7 @@
         },
         {
             "tag": "tumbuhan endemic DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan tumbuhan endemic dari DKI Jakarta"
             ],
             "respon": [
@@ -3040,7 +3040,7 @@
         },
         {
             "tag": "Hasil bumi DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Hasil bumi apakah yang dihasilkan di DKI Jakarta"
             ],
             "respon": [
@@ -3049,7 +3049,7 @@
         },
         {
             "tag": "upacara adat yang ada di DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan upacara adat yang ada di DKI Jakarta"
             ],
             "respon": [
@@ -3058,7 +3058,7 @@
         },
         {
             "tag": " taman nasional yang ada di DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di DKI Jakarta"
             ],
             "respon": [
@@ -3067,7 +3067,7 @@
         },
         {
             "tag": " tahun  DKI Jakarta di bentuk",
-            "input": [
+            "patterns": [
                 "Pada tahun berapakah Provinsi DKI Jakarta di bentuk"
             ],
             "respon": [
@@ -3076,7 +3076,7 @@
         },
         {
             "tag": "kain khas dari DKI Jakarta",
-            "input": [
+            "patterns": [
                 "Sebutkan kain yang khas dari DKI Jakarta"
             ],
             "respon": [
@@ -3085,7 +3085,7 @@
         },
         {
             "tag": "DKI Jakarta berada",
-            "input": [
+            "patterns": [
                 "DKI Jakarta berada pada pulau"
             ],
             "respon": [
@@ -3094,7 +3094,7 @@
         },
         {
             "tag": "tempat wisata Provinsi DKI Jakarta",
-            "input": [
+            "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi DKI Jakarta"
             ],
             "respon": [
@@ -3103,7 +3103,7 @@
         },
         {
             "tag": "Suku bangsa Banten",
-            "input": [
+            "patterns": [
                 " Suku bangsa apakah yang menempati provinsi Banten"
             ],
             "respon": [
@@ -3112,7 +3112,7 @@
         },
         {
             "tag": "Pakaian adat Pakaian adat",
-            "input": [
+            "patterns": [
                 "Pakaian adat apakah yang khas dengan Pakaian adat"
             ],
             "respon": [
@@ -3121,7 +3121,7 @@
         },
         {
             "tag": "seni tari yang ada di Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Banten"
             ],
             "respon": [
@@ -3130,7 +3130,7 @@
         },
         {
             "tag": "senjata daerah yang ada di Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan senjata daerah yang ada di Banten"
             ],
             "respon": [
@@ -3139,7 +3139,7 @@
         },
         {
             "tag": "alat musik tradisional berasal dari Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Banten"
             ],
             "respon": [
@@ -3148,7 +3148,7 @@
         },
         {
             "tag": "hewan endemik yang berhabitat di Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Banten"
             ],
             "respon": [
@@ -3157,7 +3157,7 @@
         },
         {
             "tag": "bahasa masyarakat Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Banten"
             ],
             "respon": [
@@ -3166,7 +3166,7 @@
         },
         {
             "tag": "pahlawan berasal dari Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan pahlawan yang berasal dari Banten"
             ],
             "respon": [
@@ -3175,7 +3175,7 @@
         },
         {
             "tag": "lagu daerah Banten",
-            "input": [
+            "patterns": [
                 " Sebutkan lagu daerah yang berasal dari Banten"
             ],
             "respon": [
@@ -3184,7 +3184,7 @@
         },
         {
             "tag": "makanan khas dari Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Banten"
             ],
             "respon": [
@@ -3193,7 +3193,7 @@
         },
         {
             "tag": "cerita rakyat yang berasal dari Banten",
-            "input": [
+            "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Banten"
             ],
             "respon": [
@@ -3202,7 +3202,7 @@
         },
         {
             "tag": "Rumah adat khas dari Provinsi Bante",
-            "input": [
+            "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Banten"
             ],
             "respon": [
@@ -3211,7 +3211,7 @@
         },
         {
             "tag": "tumbuhan endemic dari Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan tumbuhan endemic dari Banten"
             ],
             "respon": [
@@ -3220,7 +3220,7 @@
         },
         {
             "tag": " Hasil bumi di Banten",
-            "input": [
+            "patterns": [
                 " Hasil bumi apakah yang dihasilkan di Banten"
             ],
             "respon": [
@@ -3229,7 +3229,7 @@
         },
         {
             "tag": "upacara adat yang ada di Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan upacara adat yang ada di Banten"
             ],
             "respon": [
@@ -3238,7 +3238,7 @@
         },
         {
             "tag": "taman nasional yang ada di Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Banten"
             ],
             "respon": [
@@ -3247,7 +3247,7 @@
         },
         {
             "tag": "pahlawan dari Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Sebutkan pahlawan yang berasal dari Bangka Belitung"
             ],
             "respon": [
@@ -3256,7 +3256,7 @@
         },
         {
             "tag": "tahun Provinsi Banten di bentuk",
-            "input": [
+            "patterns": [
                 "Pada tahun berapakah Provinsi Banten di bentuk"
             ],
             "respon": [
@@ -3265,7 +3265,7 @@
         },
         {
             "tag": "kain khas dari Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan kain yang khas dari Banten"
             ],
             "respon": [
@@ -3274,7 +3274,7 @@
         },
         {
             "tag": "hBanten berada",
-            "input": [
+            "patterns": [
                 "Banten berada pada pulau"
             ],
             "respon": [
@@ -3283,7 +3283,7 @@
         },
         {
             "tag": " tempat wisata Provinsi Banten",
-            "input": [
+            "patterns": [
                 " sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Banten"
             ],
             "respon": [
@@ -3292,7 +3292,7 @@
         },
         {
             "tag": "Rumah adat khas dari Provinsi Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Bangka Belitung"
             ],
             "respon": [
@@ -3301,7 +3301,7 @@
         },
         {
             "tag": "Suku bangsa  provinsi Jawa Barat",
-            "input": [
+            "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Jawa Barat"
             ],
             "respon": [
@@ -3310,7 +3310,7 @@
         },
         {
             "tag": "Pakaian adat Jawa Barat",
-            "input": [
+            "patterns": [
                 " Pakaian adat apakah yang khas dengan Jawa Barat"
             ],
             "respon": [
@@ -3319,7 +3319,7 @@
         },
         {
             "tag": "seni tari Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Barat"
             ],
             "respon": [
@@ -3328,7 +3328,7 @@
         },
         {
             "tag": "alat musik tradisional Jawa Barat",
-            "input": [
+            "patterns": [
                 " Sebutkan alat musik tradisional berasal dari Jawa Barat"
             ],
             "respon": [
@@ -3337,7 +3337,7 @@
         },
         {
             "tag": " hewan endemik Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Jawa Barat"
             ],
             "respon": [
@@ -3346,7 +3346,7 @@
         },
         {
             "tag": "bahasa masyarakat Jawa Bara",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Barat"
             ],
             "respon": [
@@ -3355,7 +3355,7 @@
         },
         {
             "tag": "lagu daerah Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Jawa Barat"
             ],
             "respon": [
@@ -3364,7 +3364,7 @@
         },
         {
             "tag": "makanan khas dari Jawa Bara",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Barat"
             ],
             "respon": [
@@ -3373,7 +3373,7 @@
         },
         {
             "tag": "cerita rakyat dari Jawa Barat",
-            "input": [
+            "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Jawa Barat"
             ],
             "respon": [
@@ -3382,7 +3382,7 @@
         },
         {
             "tag": "Rumah adat Provinsi Jawa Barat",
-            "input": [
+            "patterns": [
                 " Rumah adat apakah yang menjadi ciri khas dari Provinsi Jawa Barat"
             ],
             "respon": [
@@ -3391,7 +3391,7 @@
         },
         {
             "tag": "tumbuhan endemic dari Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan tumbuhan endemic dari Jawa Barat"
             ],
             "respon": [
@@ -3400,7 +3400,7 @@
         },
         {
             "tag": "Hasil bumi Jawa Barat",
-            "input": [
+            "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Jawa Barat"
             ],
             "respon": [
@@ -3409,7 +3409,7 @@
         },
         {
             "tag": "upacara adat Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan upacara adat yang ada di Jawa Barat"
             ],
             "respon": [
@@ -3418,7 +3418,7 @@
         },
         {
             "tag": "taman nasional yang ada di Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Jawa Barat"
             ],
             "respon": [
@@ -3427,7 +3427,7 @@
         },
         {
             "tag": "tahun berapa Jawa Barat di bentuk",
-            "input": [
+            "patterns": [
                 "Pada tahun berapakah Provinsi Jawa Barat di bentuk"
             ],
             "respon": [
@@ -3436,7 +3436,7 @@
         },
         {
             "tag": "kain khas dari Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan kain yang khas dari Jawa Barat"
             ],
             "respon": [
@@ -3445,7 +3445,7 @@
         },
         {
             "tag": "Jawa Barat berada",
-            "input": [
+            "patterns": [
                 " Jawa Barat berada pada pulau"
             ],
             "respon": [
@@ -3454,7 +3454,7 @@
         },
         {
             "tag": "tempat wisata Provinsi Jawa Bara",
-            "input": [
+            "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Jawa Barat"
             ],
             "respon": [
@@ -3463,7 +3463,7 @@
         },
         {
             "tag": "Suku bangsa provinsi Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Jawa Tengah"
             ],
             "respon": [
@@ -3472,7 +3472,7 @@
         },
         {
             "tag": "Pakaian adat Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Pakaian adat apakah yang khas dengan Jawa Tengah"
             ],
             "respon": [
@@ -3481,7 +3481,7 @@
         },
         {
             "tag": " senjata daerah di Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan senjata daerah yang ada di Jawa Tengah"
             ],
             "respon": [
@@ -3490,7 +3490,7 @@
         },
         {
             "tag": "seni tari Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Tengah"
             ],
             "respon": [
@@ -3499,7 +3499,7 @@
         },
         {
             "tag": "alat musik tradisional Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan alat musik tradisional berasal dari Jawa Tengah"
             ],
             "respon": [
@@ -3508,7 +3508,7 @@
         },
         {
             "tag": " hewan endemik Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Jawa Tengah"
             ],
             "respon": [
@@ -3517,7 +3517,7 @@
         },
         {
             "tag": "bahasa Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Tengah"
             ],
             "respon": [
@@ -3526,7 +3526,7 @@
         },
         {
             "tag": "pahlawan Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan pahlawan yang berasal dari Jawa Tengah"
             ],
             "respon": [
@@ -3535,7 +3535,7 @@
         },
         {
             "tag": "lagu daerah Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Jawa Tengah"
             ],
             "respon": [
@@ -3544,7 +3544,7 @@
         },
         {
             "tag": " makanan  khas dari Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Tengah"
             ],
             "respon": [
@@ -3553,7 +3553,7 @@
         },
         {
             "tag": "cerita rakyat Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Jawa Tengah"
             ],
             "respon": [
@@ -3562,7 +3562,7 @@
         },
         {
             "tag": "Rumah adat khas dari Provinsi Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Rumah adat apakah yang menjadi ciri khas dari Provinsi Jawa Tengah"
             ],
             "respon": [
@@ -3571,7 +3571,7 @@
         },
         {
             "tag": "tumbuhan endemic dari Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan tumbuhan endemic dari Jawa Tengah"
             ],
             "respon": [
@@ -3580,7 +3580,7 @@
         },
         {
             "tag": "Hasil bumi di Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Hasil bumi apakah yang dihasilkan di Jawa Tengah"
             ],
             "respon": [
@@ -3589,7 +3589,7 @@
         },
         {
             "tag": "upacara adat Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan upacara adat yang ada di Jawa Tengah"
             ],
             "respon": [
@@ -3598,7 +3598,7 @@
         },
         {
             "tag": "taman nasional Jawa Tengah",
-            "input": [
+            "patterns": [
                 " Sebutkan salah satu taman nasional yang ada di Jawa Tengah"
             ],
             "respon": [
@@ -3607,7 +3607,7 @@
         },
         {
             "tag": " kain Jawa Tengah",
-            "input": [
+            "patterns": [
                 " Sebutkan kain yang khas dari Jawa Tengah"
             ],
             "respon": [
@@ -3616,7 +3616,7 @@
         },
         {
             "tag": "Jawa Tengah berada",
-            "input": [
+            "patterns": [
                 "Jawa Tengah berada pada pulau"
             ],
             "respon": [
@@ -3625,7 +3625,7 @@
         },
         {
             "tag": "tempat wisata  Bangka Belitung",
-            "input": [
+            "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bangka Belitung"
             ],
             "respon": [
@@ -3634,7 +3634,7 @@
         },
         {
             "tag": "Suku Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Suku apa saja yang ada di Sulawesi Selatan"
             ],
             "respon": [
@@ -3643,7 +3643,7 @@
         },
         {
             "tag": "adat istiadat Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa saja adat istiadat yang ada di Sulawesi Selatan"
             ],
             "respon": [
@@ -3652,7 +3652,7 @@
         },
         {
             "tag": "pakaian adat Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa saja pakaian adat Sulawesi Selatan"
             ],
             "respon": [
@@ -3661,7 +3661,7 @@
         },
         {
             "tag": "rumah adat di Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa nama rumah adat di Sulawesi Selatan"
             ],
             "respon": [
@@ -3670,7 +3670,7 @@
         },
         {
             "tag": "ciri-ciri rumah adat Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Sulawesi Selatan"
             ],
             "respon": [
@@ -3679,7 +3679,7 @@
         },
         {
             "tag": "tarian dari Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa nama tarian dari Sulawesi Selatan"
             ],
             "respon": [
@@ -3688,7 +3688,7 @@
         },
         {
             "tag": "makanan khas Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa saja makanan khas Sulawesi Selatan"
             ],
             "respon": [
@@ -3697,7 +3697,7 @@
         },
         {
             "tag": "oleh-oleh khas dari Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa oleh-oleh khas dari Sulawesi Selatan"
             ],
             "respon": [
@@ -3706,7 +3706,7 @@
         },
         {
             "tag": "Bahasa Daerah Provinsi Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa Bahasa Daerah Provinsi Sulawesi Selatan"
             ],
             "respon": [
@@ -3715,7 +3715,7 @@
         },
         {
             "tag": "Apa kabar bahasa Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa kabar dalam bahasa Sulawesi Selatan"
             ],
             "respon": [
@@ -3724,7 +3724,7 @@
         },
         {
             "tag": "Upacara Adat Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa nama Upacara Adat Sulawesi Selatan"
             ],
             "respon": [
@@ -3733,7 +3733,7 @@
         },
         {
             "tag": "senjata Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 " Apa saja senjata Sulawesi Selatan"
             ],
             "respon": [
@@ -3742,7 +3742,7 @@
         },
         {
             "tag": "Tradisi di Bone Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Tradisi apa yang diselenggarakan di Bone Sulawesi Selatan"
             ],
             "respon": [
@@ -3751,7 +3751,7 @@
         },
         {
             "tag": "adat istiadat di Tana Toraja",
-            "input": [
+            "patterns": [
                 "Apa kegiatan adat istiadat di Tana Toraja Sulawesi Selatan"
             ],
             "respon": [
@@ -3760,7 +3760,7 @@
         },
         {
             "tag": "Lagu Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Lagu daerah Sulawesi Selatan"
             ],
             "respon": [
@@ -3769,7 +3769,7 @@
         },
         {
             "tag": "tempat terbaik wisata alam & taman di Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
             "respon": [
@@ -3778,7 +3778,7 @@
         },
         {
             "tag": "keunikan dari baju adat Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa keunikan dari baju adat Sulawesi Tenggara"
             ],
             "respon": [
@@ -3787,7 +3787,7 @@
         },
         {
             "tag": "Suku apa saja  Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Suku apa saja yang ada di Sulawesi Tenggara"
             ],
             "respon": [
@@ -3796,7 +3796,7 @@
         },
         {
             "tag": "adat istiadat",
-            "input": [
+            "patterns": [
                 "Apa saja adat istiadat yang ada di Sulawesi Tenggara"
             ],
             "respon": [
@@ -3805,7 +3805,7 @@
         },
         {
             "tag": "pakaian adat Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa saja pakaian adat Sulawesi Tenggara"
             ],
             "respon": [
@@ -3814,7 +3814,7 @@
         },
         {
             "tag": "pakaian adat wanita Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat wanita Sulawesi Tenggara"
             ],
             "respon": [
@@ -3823,7 +3823,7 @@
         },
         {
             "tag": " pakaian adat pria Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat pria Sulawesi Tenggara"
             ],
             "respon": [
@@ -3832,7 +3832,7 @@
         },
         {
             "tag": "rumah adat di Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa nama rumah adat di Sulawesi Tenggara"
             ],
             "respon": [
@@ -3841,7 +3841,7 @@
         },
         {
             "tag": "ciri-ciri rumah adat Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Sulawesi Tenggara"
             ],
             "respon": [
@@ -3850,7 +3850,7 @@
         },
         {
             "tag": "tarian dari Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa nama tarian dari Sulawesi Tenggara"
             ],
             "respon": [
@@ -3859,7 +3859,7 @@
         },
         {
             "tag": "tarian khas dari Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apakah tarian khas dari Sulawesi Tenggara"
             ],
             "respon": [
@@ -3868,7 +3868,7 @@
         },
         {
             "tag": "makanan khas Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa saja makanan khas Sulawesi Tenggara"
             ],
             "respon": [
@@ -3877,7 +3877,7 @@
         },
         {
             "tag": "oleh-oleh khas dari Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa oleh-oleh khas dari Sulawesi Tenggara"
             ],
             "respon": [
@@ -3886,7 +3886,7 @@
         },
         {
             "tag": "Bahasa Daerah Provinsi Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa Bahasa Daerah Provinsi Sulawesi Tenggara"
             ],
             "respon": [
@@ -3895,7 +3895,7 @@
         },
         {
             "tag": " Apa kabar bahasa Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 " Apa kabar dalam bahasa Sulawesi Tenggara"
             ],
             "respon": [
@@ -3904,7 +3904,7 @@
         },
         {
             "tag": "Upacara Adat Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa nama Upacara Adat Sulawesi Tenggara "
             ],
             "respon": [
@@ -3913,7 +3913,7 @@
         },
         {
             "tag": "senjata Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa saja senjata Sulawesi Tenggara"
             ],
             "respon": [
@@ -3922,7 +3922,7 @@
         },
         {
             "tag": "Tradisi Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Tradisi apa yang diselenggarakan Sulawesi Tenggara"
             ],
             "respon": [
@@ -3931,7 +3931,7 @@
         },
         {
             "tag": "kegiatan adat istiadat di Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa kegiatan adat istiadat di Sulawesi Tenggara"
             ],
             "respon": [
@@ -3940,7 +3940,7 @@
         },
         {
             "tag": "Lagu Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Lagu daerah Sulawesi Tenggara"
             ],
             "respon": [
@@ -3949,7 +3949,7 @@
         },
         {
             "tag": " tempat terbaik untuk wisata alam & taman di Sulawesi Tenggara",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Tenggara"
             ],
             "respon": [
@@ -3958,7 +3958,7 @@
         },
         {
             "tag": "keunikan dari baju adat Maluku",
-            "input": [
+            "patterns": [
                 "Apa keunikan dari baju adat Maluku"
             ],
             "respon": [
@@ -3967,7 +3967,7 @@
         },
         {
             "tag": "Suku apa saja  Maluku",
-            "input": [
+            "patterns": [
                 "Suku apa saja yang ada di Maluku"
             ],
             "respon": [
@@ -3976,7 +3976,7 @@
         },
         {
             "tag": "adat istiadat di Maluku",
-            "input": [
+            "patterns": [
                 "Apa saja adat istiadat yang ada di Maluku"
             ],
             "respon": [
@@ -3985,7 +3985,7 @@
         },
         {
             "tag": "pakaian adat Maluku",
-            "input": [
+            "patterns": [
                 "Apa saja pakaian adat Maluku"
             ],
             "respon": [
@@ -3994,7 +3994,7 @@
         },
         {
             "tag": "pakaian adat wanita Maluku",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat wanita Maluku"
             ],
             "respon": [
@@ -4003,7 +4003,7 @@
         },
         {
             "tag": "pakaian adat pria Maluku",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat pria Maluku"
             ],
             "respon": [
@@ -4012,7 +4012,7 @@
         },
         {
             "tag": " rumah adat di Maluku",
-            "input": [
+            "patterns": [
                 "Apa nama rumah adat di Maluku"
             ],
             "respon": [
@@ -4021,7 +4021,7 @@
         },
         {
             "tag": "ciri-ciri rumah adat dari daerah Maluku",
-            "input": [
+            "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Maluku"
             ],
             "respon": [
@@ -4030,7 +4030,7 @@
         },
         {
             "tag": " apa saja tarian dari Maluku",
-            "input": [
+            "patterns": [
                 "Apa saja nama tarian dari Maluku"
             ],
             "respon": [
@@ -4039,7 +4039,7 @@
         },
         {
             "tag": "tarian khas dari Maluku",
-            "input": [
+            "patterns": [
                 "Apakah tarian khas dari Maluku"
             ],
             "respon": [
@@ -4048,7 +4048,7 @@
         },
         {
             "tag": "makanan khas Maluku",
-            "input": [
+            "patterns": [
                 "Apa saja makanan khas Maluku"
             ],
             "respon": [
@@ -4057,7 +4057,7 @@
         },
         {
             "tag": "oleh-oleh khas dari Maluku",
-            "input": [
+            "patterns": [
                 "Apa oleh-oleh khas dari Maluku"
             ],
             "respon": [
@@ -4066,7 +4066,7 @@
         },
         {
             "tag": "Bahasa Daerah Provinsi Maluku",
-            "input": [
+            "patterns": [
                 "Apa Bahasa Daerah Provinsi Maluku"
             ],
             "respon": [
@@ -4075,7 +4075,7 @@
         },
         {
             "tag": "Apa kabar bahasa Maluku",
-            "input": [
+            "patterns": [
                 "Apa kabar dalam bahasa Maluku"
             ],
             "respon": [
@@ -4084,7 +4084,7 @@
         },
         {
             "tag": "Upacara Adat Maluku",
-            "input": [
+            "patterns": [
                 "Apa nama Upacara Adat Maluku"
             ],
             "respon": [
@@ -4093,7 +4093,7 @@
         },
         {
             "tag": "senjata Maluku",
-            "input": [
+            "patterns": [
                 "Apa saja senjata Maluku"
             ],
             "respon": [
@@ -4102,7 +4102,7 @@
         },
         {
             "tag": "howami di Maluku",
-            "input": [
+            "patterns": [
                 "Tradisi apa yang diselenggarakan di Maluku"
             ],
             "respon": [
@@ -4111,7 +4111,7 @@
         },
         {
             "tag": "kegiatan adat istiadat di Maluku",
-            "input": [
+            "patterns": [
                 "Apa kegiatan adat istiadat di Maluku"
             ],
             "respon": [
@@ -4120,7 +4120,7 @@
         },
         {
             "tag": "Lagu Maluku",
-            "input": [
+            "patterns": [
                 "Lagu daerah Maluku"
             ],
             "respon": [
@@ -4129,7 +4129,7 @@
         },
         {
             "tag": "tempat terbaik untuk wisata alam & taman di Maluku",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Maluku"
             ],
             "respon": [
@@ -4138,7 +4138,7 @@
         },
         {
             "tag": "keunikan dari baju adat Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa keunikan dari baju adat Maluku Utara"
             ],
             "respon": [
@@ -4147,7 +4147,7 @@
         },
         {
             "tag": "Suku apa saja Maluku Utara",
-            "input": [
+            "patterns": [
                 "Suku apa saja yang ada di Maluku Utara"
             ],
             "respon": [
@@ -4156,7 +4156,7 @@
         },
         {
             "tag": "adat istiadat yang ada di Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa saja adat istiadat yang ada di Maluku Utara"
             ],
             "respon": [
@@ -4165,7 +4165,7 @@
         },
         {
             "tag": "pakaian adat Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa saja pakaian adat Maluku Utara"
             ],
             "respon": [
@@ -4174,7 +4174,7 @@
         },
         {
             "tag": "pakaian adat wanita Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat wanita Maluku Utara"
             ],
             "respon": [
@@ -4183,7 +4183,7 @@
         },
         {
             "tag": "ibukota provinsi Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Dimana ibukota provinsi Sulawesi Barat"
             ],
             "respon": [
@@ -4192,7 +4192,7 @@
         },
         {
             "tag": "pakaian adat pria Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat pria Maluku Utara"
             ],
             "respon": [
@@ -4201,7 +4201,7 @@
         },
         {
             "tag": "rumah adat di Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa nama rumah adat di Maluku Utara"
             ],
             "respon": [
@@ -4210,7 +4210,7 @@
         },
         {
             "tag": " ciri-ciri rumah adat dari daerah Maluku Utara",
-            "input": [
+            "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Maluku Utara"
             ],
             "respon": [
@@ -4219,7 +4219,7 @@
         },
         {
             "tag": "tarian dari Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa nama tarian dari Maluku Utara"
             ],
             "respon": [
@@ -4228,7 +4228,7 @@
         },
         {
             "tag": "tarian khas dari Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apakah tarian khas dari Maluku Utara"
             ],
             "respon": [
@@ -4237,7 +4237,7 @@
         },
         {
             "tag": "makanan khas Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa saja makanan khas Maluku Utara"
             ],
             "respon": [
@@ -4246,7 +4246,7 @@
         },
         {
             "tag": "oleh-oleh khas dari Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa oleh-oleh khas dari Maluku Utara"
             ],
             "respon": [
@@ -4255,7 +4255,7 @@
         },
         {
             "tag": "Bahasa Daerah Provinsi Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa Bahasa Daerah Provinsi Maluku Utara"
             ],
             "respon": [
@@ -4264,7 +4264,7 @@
         },
         {
             "tag": "alat musik khas Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Apa saja alat musik khas Sulawesi Barat"
             ],
             "respon": [
@@ -4273,7 +4273,7 @@
         },
         {
             "tag": "Apa kabar  Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa kabar dalam bahasa Maluku Utara"
             ],
             "respon": [
@@ -4282,7 +4282,7 @@
         },
         {
             "tag": " Upacara Adat Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa nama Upacara Adat Maluku Utara"
             ],
             "respon": [
@@ -4291,7 +4291,7 @@
         },
         {
             "tag": "Upacara adat Sulawesi Barat",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Barat"
             ],
             "respon": [
@@ -4300,7 +4300,7 @@
         },
         {
             "tag": "senjata Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa saja senjata Maluku Utara"
             ],
             "respon": [
@@ -4309,7 +4309,7 @@
         },
         {
             "tag": "Tradisi diselenggarakan di Maluku Utara",
-            "input": [
+            "patterns": [
                 "Tradisi apa yang diselenggarakan di Maluku Utara"
             ],
             "respon": [
@@ -4318,7 +4318,7 @@
         },
         {
             "tag": " kegiatan adat istiadat di Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa kegiatan adat istiadat di Maluku Utara"
             ],
             "respon": [
@@ -4327,7 +4327,7 @@
         },
         {
             "tag": "Upacara adat  Sulawesi Utara",
-            "input": [
+            "patterns": [
                 "Upacara adat apa yang ada di Sulawesi Utara"
             ],
             "respon": [
@@ -4336,7 +4336,7 @@
         },
         {
             "tag": "Lagu  Maluku Utara",
-            "input": [
+            "patterns": [
                 "Lagu daerah Maluku Utara"
             ],
             "respon": [
@@ -4345,7 +4345,7 @@
         },
         {
             "tag": "tempat terbaik untuk wisata alam & taman di Maluku Utara",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Maluku Utara"
             ],
             "respon": [
@@ -4354,7 +4354,7 @@
         },
         {
             "tag": "Upacara adat Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Upacara adat apa saja yang ada di Kalimantan Timur"
             ],
             "respon": [
@@ -4363,7 +4363,7 @@
         },
         {
             "tag": " upacara adat Dahau",
-            "input": [
+            "patterns": [
                 "Untuk apa upacara adat Dahau dilakukan Kalimantan Timur"
             ],
             "respon": [
@@ -4372,7 +4372,7 @@
         },
         {
             "tag": " kain khas Kalimantan Timur",
-            "input": [
+            "patterns": [
                 " Apa kain khas yang berasal dari Kalimantan Timur"
             ],
             "respon": [
@@ -4381,7 +4381,7 @@
         },
         {
             "tag": "Apa kabar bahasa Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa kabar dalam bahasa Sulawesi Selatan"
             ],
             "respon": [
@@ -4390,7 +4390,7 @@
         },
         {
             "tag": "nama Upacara Adat Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa nama Upacara Adat Sulawesi Selatan "
             ],
             "respon": [
@@ -4399,7 +4399,7 @@
         },
         {
             "tag": "senjata Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 " Apa saja senjata Sulawesi Selatan"
             ],
             "respon": [
@@ -4408,7 +4408,7 @@
         },
         {
             "tag": "Tradisi  di Bone Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Tradisi apa yang diselenggarakan di Bone Sulawesi Selatan"
             ],
             "respon": [
@@ -4417,7 +4417,7 @@
         },
         {
             "tag": "kegiatan adat istiadat Tana Toraja",
-            "input": [
+            "patterns": [
                 "Apa kegiatan adat istiadat di Tana Toraja Sulawesi Selatan "
             ],
             "respon": [
@@ -4426,7 +4426,7 @@
         },
         {
             "tag": "Lagu Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Lagu daerah Sulawesi Selatan"
             ],
             "respon": [
@@ -4435,7 +4435,7 @@
         },
         {
             "tag": "tempat terbaik Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
             "respon": [
@@ -4444,7 +4444,7 @@
         },
         {
             "tag": "keunikan dari baju adat Papua",
-            "input": [
+            "patterns": [
                 "Apa keunikan dari baju adat Papua"
             ],
             "respon": [
@@ -4453,7 +4453,7 @@
         },
         {
             "tag": "adat istiadat Papua",
-            "input": [
+            "patterns": [
                 "Apa saja adat istiadat yang ada di Papua"
             ],
             "respon": [
@@ -4462,7 +4462,7 @@
         },
         {
             "tag": "pakaian adat wanita Papua",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat wanita Papua"
             ],
             "respon": [
@@ -4471,7 +4471,7 @@
         },
         {
             "tag": "pakaian adat pria Papua",
-            "input": [
+            "patterns": [
                 "Apa nama pakaian adat pria Papua"
             ],
             "respon": [
@@ -4480,7 +4480,7 @@
         },
         {
             "tag": "rumah adat di Papua",
-            "input": [
+            "patterns": [
                 "Apa nama rumah adat di Papua"
             ],
             "respon": [
@@ -4489,7 +4489,7 @@
         },
         {
             "tag": "ciri-ciri rumah adat Papu",
-            "input": [
+            "patterns": [
                 "Bagaimana ciri-ciri rumah adat dari daerah Papua"
             ],
             "respon": [
@@ -4498,7 +4498,7 @@
         },
         {
             "tag": "Apa saja tarian dari Papua",
-            "input": [
+            "patterns": [
                 "Apa saja nama tarian dari Papua"
             ],
             "respon": [
@@ -4507,7 +4507,7 @@
         },
         {
             "tag": "tarian khas dari Papua",
-            "input": [
+            "patterns": [
                 "Apakah tarian khas dari Papua"
             ],
             "respon": [
@@ -4516,7 +4516,7 @@
         },
         {
             "tag": "makanan khas Papua",
-            "input": [
+            "patterns": [
                 "Apa saja makanan khas Papua"
             ],
             "respon": [
@@ -4525,7 +4525,7 @@
         },
         {
             "tag": "oleh-oleh khas dari Papua",
-            "input": [
+            "patterns": [
                 "Apa oleh-oleh khas dari Papua"
             ],
             "respon": [
@@ -4534,7 +4534,7 @@
         },
         {
             "tag": "macam Bahasa Daerah Provinsi Papau",
-            "input": [
+            "patterns": [
                 "barapa macam Bahasa Daerah Provinsi Papau "
             ],
             "respon": [
@@ -4543,7 +4543,7 @@
         },
         {
             "tag": "Bahasa Daerah  Papau Barat",
-            "input": [
+            "patterns": [
                 "Apa Bahasa Daerah Provinsi Papau Barat"
             ],
             "respon": [
@@ -4552,7 +4552,7 @@
         },
         {
             "tag": "kabar dalam bahasa Papua",
-            "input": [
+            "patterns": [
                 "Apa kabar dalam bahasa Papua"
             ],
             "respon": [
@@ -4561,7 +4561,7 @@
         },
         {
             "tag": "Upacara Adat Papua",
-            "input": [
+            "patterns": [
                 "Apa nama Upacara Adat Papua"
             ],
             "respon": [
@@ -4570,7 +4570,7 @@
         },
         {
             "tag": "senjata Papua",
-            "input": [
+            "patterns": [
                 "Apa saja senjata Papua"
             ],
             "respon": [
@@ -4579,7 +4579,7 @@
         },
         {
             "tag": "Tradisi Bakar Batu di Papua",
-            "input": [
+            "patterns": [
                 "Tradisi Bakar Batu apa yang diselenggarakan di Papua "
             ],
             "respon": [
@@ -4588,7 +4588,7 @@
         },
         {
             "tag": "kegiatan adat Papua",
-            "input": [
+            "patterns": [
                 "Apa kegiatan adat istiadat di Papua"
             ],
             "respon": [
@@ -4597,7 +4597,7 @@
         },
         {
             "tag": "Lagu Papua",
-            "input": [
+            "patterns": [
                 "Lagu daerah Papua"
             ],
             "respon": [
@@ -4606,7 +4606,7 @@
         },
         {
             "tag": "tempat terbaik Papua",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Papua"
             ],
             "respon": [
@@ -4615,7 +4615,7 @@
         },
         {
             "tag": "Tarian apa NTT",
-            "input": [
+            "patterns": [
                 "Tarian apa yang ada di Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4624,7 +4624,7 @@
         },
         {
             "tag": "banyak pemain Tari Cerana",
-            "input": [
+            "patterns": [
                 "Berapa banyak pemain Tari Cerana  tersebut"
             ],
             "respon": [
@@ -4633,7 +4633,7 @@
         },
         {
             "tag": "Tari Cerana",
-            "input": [
+            "patterns": [
                 "Seperti apa gerakan Tari Cerana Nusa Tenggara Timur  yang diperagakan"
             ],
             "respon": [
@@ -4642,7 +4642,7 @@
         },
         {
             "tag": "berapa Suku mendominasi NTT",
-            "input": [
+            "patterns": [
                 "Ada berapa Suku apa yang mendominasi di Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4651,7 +4651,7 @@
         },
         {
             "tag": "howami",
-            "input": [
+            "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4660,7 +4660,7 @@
         },
         {
             "tag": "Suku bangsa Jawa Barat",
-            "input": [
+            "patterns": [
                 "Suku bangsa apakah yang menempati provinsi Jawa Barat"
             ],
             "respon": [
@@ -4669,7 +4669,7 @@
         },
         {
             "tag": "Pakaian adat Jawa Barat",
-            "input": [
+            "patterns": [
                 " Pakaian adat apakah yang khas dengan Jawa Barat"
             ],
             "respon": [
@@ -4678,7 +4678,7 @@
         },
         {
             "tag": " seni tari  Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Barat"
             ],
             "respon": [
@@ -4687,7 +4687,7 @@
         },
         {
             "tag": "hewan endemik Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Jawa Barat"
             ],
             "respon": [
@@ -4696,7 +4696,7 @@
         },
         {
             "tag": "bahasa Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Barat"
             ],
             "respon": [
@@ -4705,7 +4705,7 @@
         },
         {
             "tag": "makanan ciri khas dari Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Barat"
             ],
             "respon": [
@@ -4714,7 +4714,7 @@
         },
         {
             "tag": "Rumah adat sering disinggahi di NTT",
-            "input": [
+            "patterns": [
                 "Rumah adat seperti apa yang sering disinggahi di NTT"
             ],
             "respon": [
@@ -4723,7 +4723,7 @@
         },
         {
             "tag": "keistimewaan tarian adat NTT",
-            "input": [
+            "patterns": [
                 "keistimewaan apa yang ada di tarian adat Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4732,7 +4732,7 @@
         },
         {
             "tag": "bahan pakai adat Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4741,7 +4741,7 @@
         },
         {
             "tag": "motif pada pakain adat Nusa Tenggara",
-            "input": [
+            "patterns": [
                 "Bagaimana motif pada pakain adat Nusa Tenggara Timur "
             ],
             "respon": [
@@ -4750,7 +4750,7 @@
         },
         {
             "tag": "kapan menggunakan Pakaian adat Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Nusa Tenggara Timur tersebut"
             ],
             "respon": [
@@ -4759,7 +4759,7 @@
         },
         {
             "tag": "Makanan khas Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 "Makanan khas apa yang ada di Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4768,7 +4768,7 @@
         },
         {
             "tag": "berapa macam makan khas Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 "Ada berapa macam makan khas didaerah Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4777,7 +4777,7 @@
         },
         {
             "tag": "Wisata mana Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 "Wisata mana yang sangat dicari di daerah Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4786,7 +4786,7 @@
         },
         {
             "tag": "macam wisata Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 "Ada beberapa macam wisata yang ada Nusa Tenggara Timur"
             ],
             "respon": [
@@ -4795,7 +4795,7 @@
         },
         {
             "tag": "Bahasa  Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Kalimantan Barat"
             ],
             "respon": [
@@ -4804,7 +4804,7 @@
         },
         {
             "tag": "Tarian apa Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Tarian apa yang ada di Kalimantan Barat"
             ],
             "respon": [
@@ -4813,7 +4813,7 @@
         },
         {
             "tag": "Tari Zapin",
-            "input": [
+            "patterns": [
                 "Berapa banyak pemain Tari Zapin tersebut"
             ],
             "respon": [
@@ -4822,7 +4822,7 @@
         },
         {
             "tag": "gerakan Tari Pingan",
-            "input": [
+            "patterns": [
                 "Seperti apa gerakan Tari Pingan Kalimantan Barat yang diperagakan"
             ],
             "respon": [
@@ -4831,7 +4831,7 @@
         },
         {
             "tag": "Suku mendominasi di Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Suku apa yang mendominasi di Kalimantan Barat"
             ],
             "respon": [
@@ -4840,7 +4840,7 @@
         },
         {
             "tag": "berapa macam Suku Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi Kalimantan Barat"
             ],
             "respon": [
@@ -4849,7 +4849,7 @@
         },
         {
             "tag": "lagu daerah Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan lagu daerah yang berasal dari Jawa Tengah"
             ],
             "respon": [
@@ -4858,7 +4858,7 @@
         },
         {
             "tag": "makanan khas dari Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Jawa Tengah"
             ],
             "respon": [
@@ -4867,7 +4867,7 @@
         },
         {
             "tag": "rumah adat apa Kalimantan",
-            "input": [
+            "patterns": [
                 "rumah adat apa yang ada di Provinsi Kalimantan Barat"
             ],
             "respon": [
@@ -4876,7 +4876,7 @@
         },
         {
             "tag": "Seperti apa rumah adat",
-            "input": [
+            "patterns": [
                 "Seperti apa rumah adat Kalimantan Barat tersebut ketika diperagakan"
             ],
             "respon": [
@@ -4885,7 +4885,7 @@
         },
         {
             "tag": "berapa macam rumah adat Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Ada berapa macam rumah adat yang ada Kalimantan Barat"
             ],
             "respon": [
@@ -4894,7 +4894,7 @@
         },
         {
             "tag": "Rumah adat sering disinggahi dikalimantan barat",
-            "input": [
+            "patterns": [
                 "Rumah adat seperti apa yang sering disinggahi dikalimantan barat"
             ],
             "respon": [
@@ -4903,7 +4903,7 @@
         },
         {
             "tag": "bentuk Rumah adat",
-            "input": [
+            "patterns": [
                 "bagaimana bentuk Rumah adat Kalimantan barat tersebut"
             ],
             "respon": [
@@ -4912,7 +4912,7 @@
         },
         {
             "tag": "keistimewaan tarian adat Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "keistimewaan apa yang ada di tarian adat Kalimantan Barat"
             ],
             "respon": [
@@ -4921,7 +4921,7 @@
         },
         {
             "tag": "bahan untuk membuat pakai adat",
-            "input": [
+            "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat"
             ],
             "respon": [
@@ -4930,7 +4930,7 @@
         },
         {
             "tag": "motif pakain adat Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Bagaimana motif pada pakain adat Kalimantan Barat"
             ],
             "respon": [
@@ -4939,7 +4939,7 @@
         },
         {
             "tag": " kapan ketika menggunakan Pakaian adat",
-            "input": [
+            "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Kalimantan Barat tersebut"
             ],
             "respon": [
@@ -4948,7 +4948,7 @@
         },
         {
             "tag": "Makanan khas Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Makanan khas apa yang ada di Kalimantan Barat"
             ],
             "respon": [
@@ -4957,7 +4957,7 @@
         },
         {
             "tag": "Wisata mana sangat dicariKalimantan Barat",
-            "input": [
+            "patterns": [
                 "Wisata mana yang sangat dicari di daerah Kalimantan Barat"
             ],
             "respon": [
@@ -4966,7 +4966,7 @@
         },
         {
             "tag": "Ada beberapa macam wisata",
-            "input": [
+            "patterns": [
                 "Ada beberapa macam wisata yang ada Kalimantan Barat"
             ],
             "respon": [
@@ -4975,7 +4975,7 @@
         },
         {
             "tag": "Bahasa apa berkomunikasi di provinsi Yogyakarta",
-            "input": [
+            "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Yogyakarta"
             ],
             "respon": [
@@ -4984,7 +4984,7 @@
         },
         {
             "tag": "Tarian apa saja Yogyakarta",
-            "input": [
+            "patterns": [
                 "Tarian apa saja yang ada di Provinsi Yogyakarta"
             ],
             "respon": [
@@ -4993,7 +4993,7 @@
         },
         {
             "tag": "Tari Kumbang",
-            "input": [
+            "patterns": [
                 "Berapa banyak pemain Tari Kumbang tersebut"
             ],
             "respon": [
@@ -5002,7 +5002,7 @@
         },
         {
             "tag": "gerakan Tari Srikandi",
-            "input": [
+            "patterns": [
                 "Seperti apa gerakan Tari Srikandi Suradewati Provinsi Yogyakarta  yang diperagakan"
             ],
             "respon": [
@@ -5011,7 +5011,7 @@
         },
         {
             "tag": "Suku mendominasi di Yogyakarta",
-            "input": [
+            "patterns": [
                 "Suku apa yang mendominasi di Yogyakarta"
             ],
             "respon": [
@@ -5020,7 +5020,7 @@
         },
         {
             "tag": "berapa macam Suku provinsi Yogyakarta",
-            "input": [
+            "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi Yogyakarta"
             ],
             "respon": [
@@ -5029,7 +5029,7 @@
         },
         {
             "tag": "Apa kabar Apa kabar",
-            "input": [
+            "patterns": [
                 "Apa kabar dalam Apa kabar"
             ],
             "respon": [
@@ -5038,7 +5038,7 @@
         },
         {
             "tag": "berapa macam adat Yogyakarta",
-            "input": [
+            "patterns": [
                 "Ada berapa macam rumah adat yang ada Yogyakarta"
             ],
             "respon": [
@@ -5047,7 +5047,7 @@
         },
         {
             "tag": "Rumah adat sering disinggahi",
-            "input": [
+            "patterns": [
                 "Rumah adat Yogyakarta  seperti apa yang sering disinggahi"
             ],
             "respon": [
@@ -5056,7 +5056,7 @@
         },
         {
             "tag": "Tradisi di Bone",
-            "input": [
+            "patterns": [
                 "Tradisi apa yang diselenggarakan di Bone Sulawesi Selatan"
             ],
             "respon": [
@@ -5065,7 +5065,7 @@
         },
         {
             "tag": "keistimewaan tarian adat Yogyakarta",
-            "input": [
+            "patterns": [
                 "keistimewaan apa yang ada di tarian adat Yogyakarta"
             ],
             "respon": [
@@ -5074,7 +5074,7 @@
         },
         {
             "tag": "bahan pakaian adat",
-            "input": [
+            "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakaian adat"
             ],
             "respon": [
@@ -5083,7 +5083,7 @@
         },
         {
             "tag": "tempat terbaik di Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
             "respon": [
@@ -5092,7 +5092,7 @@
         },
         {
             "tag": "motif pakain adat Yogyakarta",
-            "input": [
+            "patterns": [
                 "Bagaimana motif pada pakain adat Yogyakarta "
             ],
             "respon": [
@@ -5101,7 +5101,7 @@
         },
         {
             "tag": "Dipakai kapan menggunakan Pakaian",
-            "input": [
+            "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Yogyakarta  tersebut"
             ],
             "respon": [
@@ -5110,7 +5110,7 @@
         },
         {
             "tag": "Makanan khas Yogyakarta",
-            "input": [
+            "patterns": [
                 "Makanan khas apa yang ada di Yogyakarta"
             ],
             "respon": [
@@ -5119,7 +5119,7 @@
         },
         {
             "tag": "rasa makanan Yogyakart",
-            "input": [
+            "patterns": [
                 "Bagaimana rasa makanan bakpia khas Yogyakarta yang paling Dicari wisataan"
             ],
             "respon": [
@@ -5128,7 +5128,7 @@
         },
         {
             "tag": "yang sangat dicari",
-            "input": [
+            "patterns": [
                 "Wisata mana yang sangat dicari di daerah Yogyakarta"
             ],
             "respon": [
@@ -5137,7 +5137,7 @@
         },
         {
             "tag": "beberapa macam wisata Yogyakarta",
-            "input": [
+            "patterns": [
                 "Ada beberapa macam wisata yang ada Yogyakarta"
             ],
             "respon": [
@@ -5146,7 +5146,7 @@
         },
         {
             "tag": "ketika berwisata  ke Yogyakarta",
-            "input": [
+            "patterns": [
                 "berapa banyak pengunjung ketika berwisata  ke Yogyakarta tersebut"
             ],
             "respon": [
@@ -5155,7 +5155,7 @@
         },
         {
             "tag": "Bahasa untuk berkomunikasi",
-            "input": [
+            "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Jawa Timur"
             ],
             "respon": [
@@ -5164,7 +5164,7 @@
         },
         {
             "tag": "Tarian apa saja di Jawa Timur",
-            "input": [
+            "patterns": [
                 "Tarian apa saja yang ada di Jawa Timur"
             ],
             "respon": [
@@ -5173,7 +5173,7 @@
         },
         {
             "tag": "banyak pemain Tari Jejer",
-            "input": [
+            "patterns": [
                 " Berapa banyak pemain Tari Jejer Gandrung tersebut? "
             ],
             "respon": [
@@ -5182,7 +5182,7 @@
         },
         {
             "tag": "gerakan tarian Jawa Timur",
-            "input": [
+            "patterns": [
                 "Seperti apa gerakan tarian Jawa Timur yang akan diperagakan?"
             ],
             "respon": [
@@ -5191,7 +5191,7 @@
         },
         {
             "tag": "Suku mendominasi",
-            "input": [
+            "patterns": [
                 "Suku apa yang mendominasi di Jawa Timur"
             ],
             "respon": [
@@ -5200,7 +5200,7 @@
         },
         {
             "tag": "berapa macam Suku Jawa Timur",
-            "input": [
+            "patterns": [
                 "Ada berapa macam Suku yang ada di provinsi Jawa Timur"
             ],
             "respon": [
@@ -5209,7 +5209,7 @@
         },
         {
             "tag": "Hubungan suku Jawa Timur",
-            "input": [
+            "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di Jawa Timur"
             ],
             "respon": [
@@ -5218,7 +5218,7 @@
         },
         {
             "tag": "Apa kabar  Sulawesi",
-            "input": [
+            "patterns": [
                 " Apa kabar dalam bahasa Sulawesi Tenggara"
             ],
             "respon": [
@@ -5227,7 +5227,7 @@
         },
         {
             "tag": "adat Provinsi Jawa Timur",
-            "input": [
+            "patterns": [
                 "adat istiadat apa saja yang ada di Provinsi Jawa Timur"
             ],
             "respon": [
@@ -5236,7 +5236,7 @@
         },
         {
             "tag": "kapan adat Adat Dam ",
-            "input": [
+            "patterns": [
                 "kapan adat Adat Dam Bagong  tersebut dirayakan"
             ],
             "respon": [
@@ -5245,7 +5245,7 @@
         },
         {
             "tag": "apa adat Dam Bagong",
-            "input": [
+            "patterns": [
                 "Seperti apa adat Dam Bagong tersebut ketika diperagakan"
             ],
             "respon": [
@@ -5254,7 +5254,7 @@
         },
         {
             "tag": "berapa macam rumah adat ",
-            "input": [
+            "patterns": [
                 "Ada berapa macam rumah adat yang ada Jawa Timur"
             ],
             "respon": [
@@ -5263,7 +5263,7 @@
         },
         {
             "tag": "Rumah adat ering disinggahi",
-            "input": [
+            "patterns": [
                 "Rumah adat seperti apa yang sering disinggahi di Jawa Timur"
             ],
             "respon": [
@@ -5272,7 +5272,7 @@
         },
         {
             "tag": "bentuk Rumah adat",
-            "input": [
+            "patterns": [
                 "bagaimana bentuk Rumah adat Rumah Joglo Hageng tersebut"
             ],
             "respon": [
@@ -5281,7 +5281,7 @@
         },
         {
             "tag": "keistimewaan tarian adat",
-            "input": [
+            "patterns": [
                 "keistimewaan apa yang ada di tarian adat Jawa Timur"
             ],
             "respon": [
@@ -5290,7 +5290,7 @@
         },
         {
             "tag": "bahan pakai adat Provinsi Jawa Timur",
-            "input": [
+            "patterns": [
                 "bahan seperti apa yang digunakan untuk membuat pakai adat Provinsi Jawa Timur"
             ],
             "respon": [
@@ -5299,7 +5299,7 @@
         },
         {
             "tag": "motif pakain adat Jawa Timur",
-            "input": [
+            "patterns": [
                 "Bagaimana motif pada pakain adat Jawa Timur"
             ],
             "respon": [
@@ -5308,7 +5308,7 @@
         },
         {
             "tag": "kapan ketika enggunakan Pakaian",
-            "input": [
+            "patterns": [
                 "Dipakai kapan ketika menggunakan Pakaian adat Jawa Timur tersebut"
             ],
             "respon": [
@@ -5317,7 +5317,7 @@
         },
         {
             "tag": "Makanan khas Jawa Timur",
-            "input": [
+            "patterns": [
                 "Makanan khas apa yang ada di Jawa Timur"
             ],
             "respon": [
@@ -5326,7 +5326,7 @@
         },
         {
             "tag": "berapa macam makan khas",
-            "input": [
+            "patterns": [
                 "Ada berapa macam makan khas didaerah Jawa Timur"
             ],
             "respon": [
@@ -5335,7 +5335,7 @@
         },
         {
             "tag": "makanan Soto Lamongan",
-            "input": [
+            "patterns": [
                 "Bagaimana rasa makanan Soto Lamongan  yang paling Dicari wisataan"
             ],
             "respon": [
@@ -5344,7 +5344,7 @@
         },
         {
             "tag": "Wisata Jawa Timur",
-            "input": [
+            "patterns": [
                 "Wisata mana yang sangat dicari di daerah Jawa Timur"
             ],
             "respon": [
@@ -5353,7 +5353,7 @@
         },
         {
             "tag": " beberapa macam wisata",
-            "input": [
+            "patterns": [
                 "Ada beberapa macam wisata yang ada Jawa Timur"
             ],
             "respon": [
@@ -5362,7 +5362,7 @@
         },
         {
             "tag": "Berapa ketika berwisata",
-            "input": [
+            "patterns": [
                 "Berapa banyak pengunjung ketika berwisata tersebut"
             ],
             "respon": [
@@ -5371,7 +5371,7 @@
         },
         {
             "tag": "Bahasa Aceh",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Aceh"
             ],
             "respon": [
@@ -5380,7 +5380,7 @@
         },
         {
             "tag": "Bahasa Jamee",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Jamee"
             ],
             "respon": [
@@ -5389,7 +5389,7 @@
         },
         {
             "tag": "Bahasa Gayo",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Gayo"
             ],
             "respon": [
@@ -5398,7 +5398,7 @@
         },
         {
             "tag": "Tari Saman",
-            "input": [
+            "patterns": [
                 "Apa itu Tari Saman"
             ],
             "respon": [
@@ -5407,7 +5407,7 @@
         },
         {
             "tag": "tempat wisata Bangka Belitung",
-            "input": [
+            "patterns": [
                 "sebutkan salah satu tempat wisata yang paling terkenal di Provinsi Bangka Belitung"
             ],
             "respon": [
@@ -5416,7 +5416,7 @@
         },
         {
             "tag": " Tari Tarek Pukat",
-            "input": [
+            "patterns": [
                 "Apa itu Tari Tarek Pukat"
             ],
             "respon": [
@@ -5425,7 +5425,7 @@
         },
         {
             "tag": "Pakaian  Bengkulu",
-            "input": [
+            "patterns": [
                 "Pakaian adat apakah yang khas dengan Bengkulu"
             ],
             "respon": [
@@ -5434,7 +5434,7 @@
         },
         {
             "tag": "senjata Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan senjata daerah yang ada di Bengkulu"
             ],
             "respon": [
@@ -5443,7 +5443,7 @@
         },
         {
             "tag": "Rumoh Aceh",
-            "input": [
+            "patterns": [
                 "Apa itu Rumoh Aceh"
             ],
             "respon": [
@@ -5452,7 +5452,7 @@
         },
         {
             "tag": "Linto Baro",
-            "input": [
+            "patterns": [
                 "Apa itu pakaian Linto Baro"
             ],
             "respon": [
@@ -5461,7 +5461,7 @@
         },
         {
             "tag": "pakaian Daro",
-            "input": [
+            "patterns": [
                 "Apa itu pakaian Daro Baro"
             ],
             "respon": [
@@ -5470,7 +5470,7 @@
         },
         {
             "tag": "suku Nias",
-            "input": [
+            "patterns": [
                 "Apa itu suku Nias"
             ],
             "respon": [
@@ -5479,7 +5479,7 @@
         },
         {
             "tag": "suku Pakpak",
-            "input": [
+            "patterns": [
                 "Apa itu suku Pakpak"
             ],
             "respon": [
@@ -5488,7 +5488,7 @@
         },
         {
             "tag": "suku Gayo",
-            "input": [
+            "patterns": [
                 "Apa itu suku Gayo"
             ],
             "respon": [
@@ -5497,7 +5497,7 @@
         },
         {
             "tag": "makanan khas dari Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan yang menjadi ciri khas dari Bengkulu"
             ],
             "respon": [
@@ -5506,7 +5506,7 @@
         },
         {
             "tag": "cerita rakyat Bengkulu",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu cerita rakyat yang berasal dari Bengkulu"
             ],
             "respon": [
@@ -5515,7 +5515,7 @@
         },
         {
             "tag": "Tamiang",
-            "input": [
+            "patterns": [
                 "Apa itu suku Tamiang"
             ],
             "respon": [
@@ -5524,7 +5524,7 @@
         },
         {
             "tag": "Rencong",
-            "input": [
+            "patterns": [
                 "Apa itu Rencong"
             ],
             "respon": [
@@ -5533,7 +5533,7 @@
         },
         {
             "tag": "Siwah",
-            "input": [
+            "patterns": [
                 "Apa itu Siwah"
             ],
             "respon": [
@@ -5542,7 +5542,7 @@
         },
         {
             "tag": "Bahasa Pakpak",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Pakpak"
             ],
             "respon": [
@@ -5551,7 +5551,7 @@
         },
         {
             "tag": "upacara Bengkul",
-            "input": [
+            "patterns": [
                 "Sebutkan upacara adat yang ada di Bengkulu"
             ],
             "respon": [
@@ -5560,7 +5560,7 @@
         },
         {
             "tag": "Bahasa Leukon",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Leukon"
             ],
             "respon": [
@@ -5569,7 +5569,7 @@
         },
         {
             "tag": "Bahasa Nias",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Nias"
             ],
             "respon": [
@@ -5578,7 +5578,7 @@
         },
         {
             "tag": "Bahasa Minangkabau",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Minangkabau"
             ],
             "respon": [
@@ -5587,7 +5587,7 @@
         },
         {
             "tag": "Bahasa Batak",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Batak"
             ],
             "respon": [
@@ -5596,7 +5596,7 @@
         },
         {
             "tag": "suku Batak Toba",
-            "input": [
+            "patterns": [
                 "Apa itu suku Batak Toba"
             ],
             "respon": [
@@ -5605,7 +5605,7 @@
         },
         {
             "tag": "Batak Karo",
-            "input": [
+            "patterns": [
                 "Apa itu suku Batak Karo"
             ],
             "respon": [
@@ -5614,7 +5614,7 @@
         },
         {
             "tag": "suku Simalungun",
-            "input": [
+            "patterns": [
                 "Apa itu suku Simalungun"
             ],
             "respon": [
@@ -5623,7 +5623,7 @@
         },
         {
             "tag": "lagu Butet",
-            "input": [
+            "patterns": [
                 "Apa itu lagu Butet"
             ],
             "respon": [
@@ -5632,7 +5632,7 @@
         },
         {
             "tag": "seni tari Lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Lampung"
             ],
             "respon": [
@@ -5641,7 +5641,7 @@
         },
         {
             "tag": "Sinanggar",
-            "input": [
+            "patterns": [
                 "Apa itu lagu “Sinanggar Tulo”"
             ],
             "respon": [
@@ -5650,7 +5650,7 @@
         },
         {
             "tag": "hewan endemik",
-            "input": [
+            "patterns": [
                 "Sebutkan hewan endemik yang berhabitat di Lampung"
             ],
             "respon": [
@@ -5659,7 +5659,7 @@
         },
         {
             "tag": "Rumah Bolon",
-            "input": [
+            "patterns": [
                 "Apa itu Rumah Bolon"
             ],
             "respon": [
@@ -5668,7 +5668,7 @@
         },
         {
             "tag": " kain Ulos",
-            "input": [
+            "patterns": [
                 "Apa itu kain Ulos"
             ],
             "respon": [
@@ -5677,7 +5677,7 @@
         },
         {
             "tag": "Hiou Simalungun",
-            "input": [
+            "patterns": [
                 "Apa itu Hiou Simalungun"
             ],
             "respon": [
@@ -5686,7 +5686,7 @@
         },
         {
             "tag": "music Aramba",
-            "input": [
+            "patterns": [
                 "Apa itu alat music Aramba"
             ],
             "respon": [
@@ -5695,7 +5695,7 @@
         },
         {
             "tag": "cerita rakyat",
-            "input": [
+            "patterns": [
                 " Sebutkan salah satu cerita rakyat yang berasal dari Lampung"
             ],
             "respon": [
@@ -5704,7 +5704,7 @@
         },
         {
             "tag": "Tari Lilin",
-            "input": [
+            "patterns": [
                 "Apa itu Tari Lilin"
             ],
             "respon": [
@@ -5713,7 +5713,7 @@
         },
         {
             "tag": "Tari Piring",
-            "input": [
+            "patterns": [
                 "Apa itu Tari Piring"
             ],
             "respon": [
@@ -5722,7 +5722,7 @@
         },
         {
             "tag": "dindin badindin",
-            "input": [
+            "patterns": [
                 "Apa itu lagu “dindin badindin”"
             ],
             "respon": [
@@ -5731,7 +5731,7 @@
         },
         {
             "tag": "rumah Gadang",
-            "input": [
+            "patterns": [
                 "Apa itu rumah Gadang"
             ],
             "respon": [
@@ -5740,7 +5740,7 @@
         },
         {
             "tag": "suku Mentawai",
-            "input": [
+            "patterns": [
                 "Apa itu suku Mentawai"
             ],
             "respon": [
@@ -5749,7 +5749,7 @@
         },
         {
             "tag": "suku Kerinci",
-            "input": [
+            "patterns": [
                 "Apa itu suku Kerinci"
             ],
             "respon": [
@@ -5758,7 +5758,7 @@
         },
         {
             "tag": " pakaian pengantin",
-            "input": [
+            "patterns": [
                 "Apa pakaian pengantin provinsi sumatera barat"
             ],
             "respon": [
@@ -5767,7 +5767,7 @@
         },
         {
             "tag": "pakaian Limpapeh",
-            "input": [
+            "patterns": [
                 "Apa itu pakaian Limpapeh rumah nan gadang"
             ],
             "respon": [
@@ -5776,7 +5776,7 @@
         },
         {
             "tag": " Mentawai",
-            "input": [
+            "patterns": [
                 "Apa itu bahasa Mentawai"
             ],
             "respon": [
@@ -5785,7 +5785,7 @@
         },
         {
             "tag": "sipaku gelang",
-            "input": [
+            "patterns": [
                 "Apa itu lagu gelang sipaku gelang"
             ],
             "respon": [
@@ -5794,7 +5794,7 @@
         },
         {
             "tag": "music rabab",
-            "input": [
+            "patterns": [
                 "Apa itu alat music rabab"
             ],
             "respon": [
@@ -5803,7 +5803,7 @@
         },
         {
             "tag": "music talempong",
-            "input": [
+            "patterns": [
                 "Apa itu alat music talempong"
             ],
             "respon": [
@@ -5812,7 +5812,7 @@
         },
         {
             "tag": "kampuang nan",
-            "input": [
+            "patterns": [
                 "Apa itu lagu “kampuang nan jauh di mato”"
             ],
             "respon": [
@@ -5821,7 +5821,7 @@
         },
         {
             "tag": "adat Selaso",
-            "input": [
+            "patterns": [
                 "Apa itu rumah adat Selaso Jatuh Kembar"
             ],
             "respon": [
@@ -5830,7 +5830,7 @@
         },
         {
             "tag": "suku Akit",
-            "input": [
+            "patterns": [
                 "Apa itu suku Akit"
             ],
             "respon": [
@@ -5839,7 +5839,7 @@
         },
         {
             "tag": "Talang Mamak",
-            "input": [
+            "patterns": [
                 "Apa itu suku Talang Mamak"
             ],
             "respon": [
@@ -5848,7 +5848,7 @@
         },
         {
             "tag": "suku Sakai",
-            "input": [
+            "patterns": [
                 "Apa itu suku Sakai"
             ],
             "respon": [
@@ -5857,7 +5857,7 @@
         },
         {
             "tag": "pedang Jenawi",
-            "input": [
+            "patterns": [
                 "Apa itu pedang Jenawi"
             ],
             "respon": [
@@ -5866,7 +5866,7 @@
         },
         {
             "tag": "Tari Tandak",
-            "input": [
+            "patterns": [
                 "Apa itu Tari Tandak"
             ],
             "respon": [
@@ -5875,7 +5875,7 @@
         },
         {
             "tag": "Congklak",
-            "input": [
+            "patterns": [
                 "Apa itu Congklak"
             ],
             "respon": [
@@ -5884,7 +5884,7 @@
         },
         {
             "tag": "bahasa Bugis",
-            "input": [
+            "patterns": [
                 "Apa itu bahasa Bugis"
             ],
             "respon": [
@@ -5893,7 +5893,7 @@
         },
         {
             "tag": "melayu gunting",
-            "input": [
+            "patterns": [
                 "Apa itu baju melayu gunting cina"
             ],
             "respon": [
@@ -5902,7 +5902,7 @@
         },
         {
             "tag": "teluk belaga",
-            "input": [
+            "patterns": [
                 "Apa itu baju melayu teluk belaga"
             ],
             "respon": [
@@ -5911,7 +5911,7 @@
         },
         {
             "tag": "tari sekapur",
-            "input": [
+            "patterns": [
                 "Apa itu tari sekapur sirih"
             ],
             "respon": [
@@ -5920,7 +5920,7 @@
         },
         {
             "tag": "baju kurung",
-            "input": [
+            "patterns": [
                 "Apa itu baju kurung khas Riau"
             ],
             "respon": [
@@ -5929,7 +5929,7 @@
         },
         {
             "tag": "tari zapin",
-            "input": [
+            "patterns": [
                 "Apa itu tari zapin kepri"
             ],
             "respon": [
@@ -5938,7 +5938,7 @@
         },
         {
             "tag": "tari makyong",
-            "input": [
+            "patterns": [
                 "Apa itu tari makyong"
             ],
             "respon": [
@@ -5947,7 +5947,7 @@
         },
         {
             "tag": "tebus kipas",
-            "input": [
+            "patterns": [
                 "Apa itu tebus kipas"
             ],
             "respon": [
@@ -5956,7 +5956,7 @@
         },
         {
             "tag": " tari inai",
-            "input": [
+            "patterns": [
                 "Apa itu tari inai melayu"
             ],
             "respon": [
@@ -5965,7 +5965,7 @@
         },
         {
             "tag": "rumah belah bubung",
-            "input": [
+            "patterns": [
                 "Apa itu rumah belah bubung"
             ],
             "respon": [
@@ -5974,7 +5974,7 @@
         },
         {
             "tag": "suku hutan",
-            "input": [
+            "patterns": [
                 "Apa itu suku hutan"
             ],
             "respon": [
@@ -5983,7 +5983,7 @@
         },
         {
             "tag": "suku barok",
-            "input": [
+            "patterns": [
                 "Apa itu suku barok"
             ],
             "respon": [
@@ -5992,7 +5992,7 @@
         },
         {
             "tag": "suku laut",
-            "input": [
+            "patterns": [
                 "Apa itu suku laut"
             ],
             "respon": [
@@ -6001,7 +6001,7 @@
         },
         {
             "tag": "suku sakai",
-            "input": [
+            "patterns": [
                 "Apa itu suku sakai"
             ],
             "respon": [
@@ -6010,7 +6010,7 @@
         },
         {
             "tag": "bahasa melayu",
-            "input": [
+            "patterns": [
                 "Apa itu bahasa melayu"
             ],
             "respon": [
@@ -6019,7 +6019,7 @@
         },
         {
             "tag": "kebaya labuh",
-            "input": [
+            "patterns": [
                 "Apa itu kebaya labuh"
             ],
             "respon": [
@@ -6028,7 +6028,7 @@
         },
         {
             "tag": "teluk belanga",
-            "input": [
+            "patterns": [
                 "Apa itu teluk belanga"
             ],
             "respon": [
@@ -6037,7 +6037,7 @@
         },
         {
             "tag": "kurung tanggung",
-            "input": [
+            "patterns": [
                 "Apa itu pakaian kurung tanggung"
             ],
             "respon": [
@@ -6046,7 +6046,7 @@
         },
         {
             "tag": "Bajau Tungkal Satu",
-            "input": [
+            "patterns": [
                 "Apa itu Bahasa Bajau Tungkal Satu"
             ],
             "respon": [
@@ -6055,7 +6055,7 @@
         },
         {
             "tag": "rumah Kajang Lako",
-            "input": [
+            "patterns": [
                 "Apa itu rumah Kajang Lako"
             ],
             "respon": [
@@ -6064,7 +6064,7 @@
         },
         {
             "tag": "Tari selampit",
-            "input": [
+            "patterns": [
                 "Tari selampit delapan"
             ],
             "respon": [
@@ -6073,7 +6073,7 @@
         },
         {
             "tag": "hadrah",
-            "input": [
+            "patterns": [
                 "Apa itu hadrah"
             ],
             "respon": [
@@ -6082,7 +6082,7 @@
         },
         {
             "tag": "lagu Injit-Injit Semut",
-            "input": [
+            "patterns": [
                 "Apa itu lagu “Injit-Injit Semut”"
             ],
             "respon": [
@@ -6091,7 +6091,7 @@
         },
         {
             "tag": "music kelintang kayu",
-            "input": [
+            "patterns": [
                 "Apa itu alat music kelintang kayu"
             ],
             "respon": [
@@ -6100,7 +6100,7 @@
         },
         {
             "tag": "taman nasional Banten",
-            "input": [
+            "patterns": [
                 "Sebutkan salah satu taman nasional yang ada di Banten"
             ],
             "respon": [
@@ -6109,7 +6109,7 @@
         },
         {
             "tag": "suku bangsa kubu",
-            "input": [
+            "patterns": [
                 "Apa itu suku bangsa kubu"
             ],
             "respon": [
@@ -6118,7 +6118,7 @@
         },
         {
             "tag": "suku batin",
-            "input": [
+            "patterns": [
                 "Apa itu suku batin"
             ],
             "respon": [
@@ -6127,7 +6127,7 @@
         },
         {
             "tag": "suku duano",
-            "input": [
+            "patterns": [
                 "Apa itu suku duano di tanjung solok"
             ],
             "respon": [
@@ -6136,7 +6136,7 @@
         },
         {
             "tag": "batin Sembilan",
-            "input": [
+            "patterns": [
                 "Apa itu suku anak dalam batin Sembilan"
             ],
             "respon": [
@@ -6145,7 +6145,7 @@
         },
         {
             "tag": "tari Iyo-Iyo",
-            "input": [
+            "patterns": [
                 "Apa itu tari Iyo-Iyo"
             ],
             "respon": [
@@ -6154,7 +6154,7 @@
         },
         {
             "tag": "adat aesan gede",
-            "input": [
+            "patterns": [
                 "Apa itu pakaian adat aesan gede"
             ],
             "respon": [
@@ -6163,7 +6163,7 @@
         },
         {
             "tag": "adat aesan paksangko",
-            "input": [
+            "patterns": [
                 "Apa itu pakaian adat aesan paksangko"
             ],
             "respon": [
@@ -6172,7 +6172,7 @@
         },
         {
             "tag": "bahasa musi",
-            "input": [
+            "patterns": [
                 "Apa itu bahasa musi"
             ],
             "respon": [
@@ -6181,7 +6181,7 @@
         },
         {
             "tag": "bahasa Komering",
-            "input": [
+            "patterns": [
                 "Apa itu bahasa Komering"
             ],
             "respon": [
@@ -6190,7 +6190,7 @@
         },
         {
             "tag": "bahasa Besemah",
-            "input": [
+            "patterns": [
                 "Apa itu bahasa Besemah"
             ],
             "respon": [
@@ -6199,7 +6199,7 @@
         },
         {
             "tag": "suku rawas",
-            "input": [
+            "patterns": [
                 " Apa itu suku rawas"
             ],
             "respon": [
@@ -6208,7 +6208,7 @@
         },
         {
             "tag": "rumah limas",
-            "input": [
+            "patterns": [
                 "Apa itu rumah limas"
             ],
             "respon": [
@@ -6217,7 +6217,7 @@
         },
         {
             "tag": "bahasa digunakan masyarakat Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa yang digunakan oleh masyarakat Jawa Barat"
             ],
             "respon": [
@@ -6226,7 +6226,7 @@
         },
         {
             "tag": "suku komering",
-            "input": [
+            "patterns": [
                 "Apa itu suku komering"
             ],
             "respon": [
@@ -6235,7 +6235,7 @@
         },
         {
             "tag": "suku lintang",
-            "input": [
+            "patterns": [
                 "Apa itu suku lintang"
             ],
             "respon": [
@@ -6244,7 +6244,7 @@
         },
         {
             "tag": "suku pasemah",
-            "input": [
+            "patterns": [
                 "Apa itu suku pasemah"
             ],
             "respon": [
@@ -6253,7 +6253,7 @@
         },
         {
             "tag": "alat music gambus",
-            "input": [
+            "patterns": [
                 "Apa itu alat music gambus"
             ],
             "respon": [
@@ -6262,7 +6262,7 @@
         },
         {
             "tag": "alat music genggong",
-            "input": [
+            "patterns": [
                 "Apa itu alat music genggong"
             ],
             "respon": [
@@ -6271,7 +6271,7 @@
         },
         {
             "tag": "kain tenun?",
-            "input": [
+            "patterns": [
                 "Apa itu kain tenun"
             ],
             "respon": [
@@ -6280,7 +6280,7 @@
         },
         {
             "tag": "tari gending sriwijaya",
-            "input": [
+            "patterns": [
                 "Apa itu tari gending sriwijaya"
             ],
             "respon": [
@@ -6289,7 +6289,7 @@
         },
         {
             "tag": "lagu kabile bile",
-            "input": [
+            "patterns": [
                 "Apa itu lagu kabile bile"
             ],
             "respon": [
@@ -6298,7 +6298,7 @@
         },
         {
             "tag": "tari tenun songket",
-            "input": [
+            "patterns": [
                 "Apa itu tari tenun songket"
             ],
             "respon": [
@@ -6307,7 +6307,7 @@
         },
         {
             "tag": "Tempat wisata NTB",
-            "input": [
+            "patterns": [
                 "Tempat wisata apa saja yang terindah di NTB."
             ],
             "respon": [
@@ -6316,7 +6316,7 @@
         },
         {
             "tag": " Pantai Lasiana",
-            "input": [
+            "patterns": [
                 "Daerah mana yang terdapat wisata Pantai Lasiana itu berada"
             ],
             "respon": [
@@ -6325,7 +6325,7 @@
         },
         {
             "tag": "nama-nama tempat NTT",
-            "input": [
+            "patterns": [
                 "sebutkan nama-nama tempat wisata bahari di NTT"
             ],
             "respon": [
@@ -6334,7 +6334,7 @@
         },
         {
             "tag": "wisata bahari",
-            "input": [
+            "patterns": [
                 "Sebutkan 3 wisata bahari yang ada di Kota Kupang"
             ],
             "respon": [
@@ -6343,7 +6343,7 @@
         },
         {
             "tag": "Suku mendominasi Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 " ada berapa Suku apa yang mendominasi di Nusa Tenggara Timur"
             ],
             "respon": [
@@ -6352,7 +6352,7 @@
         },
         {
             "tag": "Hubungan di Nusa Tenggara Timur",
-            "input": [
+            "patterns": [
                 "Hubungan seperti apa sesama suku yang ada di Nusa Tenggara Timur?"
             ],
             "respon": [
@@ -6361,7 +6361,7 @@
         },
         {
             "tag": "Makanan Riau",
-            "input": [
+            "patterns": [
                 "Makanan apa saja yang ada di provinsi Riau"
             ],
             "respon": [
@@ -6370,7 +6370,7 @@
         },
         {
             "tag": "Mi Lendir",
-            "input": [
+            "patterns": [
                 "Apa itu makanan Mi Lendir"
             ],
             "respon": [
@@ -6379,7 +6379,7 @@
         },
         {
             "tag": "gulai Belacan",
-            "input": [
+            "patterns": [
                 "Ciri khas seperti apa makanan gulai Belacan"
             ],
             "respon": [
@@ -6388,7 +6388,7 @@
         },
         {
             "tag": "seni tari Jawa Barat",
-            "input": [
+            "patterns": [
                 "Sebutkan seni tari yang ada di Jawa Barat"
             ],
             "respon": [
@@ -6397,7 +6397,7 @@
         },
         {
             "tag": "mie sagu",
-            "input": [
+            "patterns": [
                 "Apa itu mie sagu"
             ],
             "respon": [
@@ -6406,7 +6406,7 @@
         },
         {
             "tag": "makanan betawi",
-            "input": [
+            "patterns": [
                 "ada berapa macam makanan yang berasal dari betawi"
             ],
             "respon": [
@@ -6415,7 +6415,7 @@
         },
         {
             "tag": "makanan betawi",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan apa saja yang ada di betawi"
             ],
             "respon": [
@@ -6424,7 +6424,7 @@
         },
         {
             "tag": "kerak telor",
-            "input": [
+            "patterns": [
                 "apa itu makanan kerak telor"
             ],
             "respon": [
@@ -6433,7 +6433,7 @@
         },
         {
             "tag": "soto betawi",
-            "input": [
+            "patterns": [
                 " Apa itu soto betawi"
             ],
             "respon": [
@@ -6442,7 +6442,7 @@
         },
         {
             "tag": "makanan soto betawi",
-            "input": [
+            "patterns": [
                 "Campuran apa saja yang dimasukkan ke makanan soto betawi "
             ],
             "respon": [
@@ -6451,7 +6451,7 @@
         },
         {
             "tag": "roti buaya",
-            "input": [
+            "patterns": [
                 "Bagaimana rasanya roti buaya"
             ],
             "respon": [
@@ -6460,7 +6460,7 @@
         },
         {
             "tag": "suku Mandailing",
-            "input": [
+            "patterns": [
                 "Apa itu suku Mandailing"
             ],
             "respon": [
@@ -6469,7 +6469,7 @@
         },
         {
             "tag": "rumah adat suku minang",
-            "input": [
+            "patterns": [
                 "Sebutan apa yang berasal dari bentuk khas rumah adat suku minang"
             ],
             "respon": [
@@ -6478,7 +6478,7 @@
         },
         {
             "tag": "rumah suku minang",
-            "input": [
+            "patterns": [
                 "Pada atap rumah suku minang terbuat apa"
             ],
             "respon": [
@@ -6487,7 +6487,7 @@
         },
         {
             "tag": "test",
-            "input": [
+            "patterns": [
                 "Makanan khas apa pada suku minang"
             ],
             "respon": [
@@ -6496,7 +6496,7 @@
         },
         {
             "tag": "Makanan khas suku minang",
-            "input": [
+            "patterns": [
                 "Makanan khas apa yang ada di Nusa Tenggara Timur"
             ],
             "respon": [
@@ -6505,7 +6505,7 @@
         },
         {
             "tag": "makanan rendang",
-            "input": [
+            "patterns": [
                 "Bagaimana rasa pada makanan rendang"
             ],
             "respon": [
@@ -6514,7 +6514,7 @@
         },
         {
             "tag": "wisata Minang",
-            "input": [
+            "patterns": [
                 "Ada berapa macam wisata yang ada di Minang"
             ],
             "respon": [
@@ -6523,7 +6523,7 @@
         },
         {
             "tag": " wisata daerah minang",
-            "input": [
+            "patterns": [
                 "Sebutkan wisata mana saja yang sering dikunjungi di daerah minang"
             ],
             "respon": [
@@ -6532,7 +6532,7 @@
         },
         {
             "tag": "pantai padang",
-            "input": [
+            "patterns": [
                 "Apa itu pantai padang"
             ],
             "respon": [
@@ -6541,7 +6541,7 @@
         },
         {
             "tag": "Aktivitas Pasir Jambak",
-            "input": [
+            "patterns": [
                 "Aktivitas apa saja yang ada diPantai Pasir Jambak"
             ],
             "respon": [
@@ -6550,7 +6550,7 @@
         },
         {
             "tag": "Bahasa  berkomunikasi Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Bahasa apa yang digunkan untuk berkomunikasi di provinsi Kalimantan Barat"
             ],
             "respon": [
@@ -6559,7 +6559,7 @@
         },
         {
             "tag": "Tarian Kalimantan Barat",
-            "input": [
+            "patterns": [
                 "Tarian apa yang ada di Kalimantan Barat"
             ],
             "respon": [
@@ -6568,7 +6568,7 @@
         },
         {
             "tag": "Pulau Sikuai",
-            "input": [
+            "patterns": [
                 "Dibagian mana Pulau Sikuai itu berada"
             ],
             "respon": [
@@ -6577,7 +6577,7 @@
         },
         {
             "tag": "Tari Pingan",
-            "input": [
+            "patterns": [
                 "Seperti apa gerakan Tari Pingan Kalimantan Barat yang diperagakan?"
             ],
             "respon": [
@@ -6586,7 +6586,7 @@
         },
         {
             "tag": "pulau sirandah",
-            "input": [
+            "patterns": [
                 "Apa itu pulau sirandah"
             ],
             "respon": [
@@ -6595,7 +6595,7 @@
         },
         {
             "tag": "Air Terjun Lubuk Hitam",
-            "input": [
+            "patterns": [
                 "Apa itu Air Terjun Lubuk Hitam"
             ],
             "respon": [
@@ -6604,7 +6604,7 @@
         },
         {
             "tag": "Lubuk Paraku",
-            "input": [
+            "patterns": [
                 "Lubuk Paraku terletak pada daerah mana"
             ],
             "respon": [
@@ -6613,7 +6613,7 @@
         },
         {
             "tag": "Pakaian adat Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Pakaian ada apa saja yang ada di Jawa Tengah"
             ],
             "respon": [
@@ -6622,7 +6622,7 @@
         },
         {
             "tag": "pakaian batik",
-            "input": [
+            "patterns": [
                 "Apa itu pakaian batik Jawa Tengah"
             ],
             "respon": [
@@ -6631,7 +6631,7 @@
         },
         {
             "tag": "motif pakaian batik",
-            "input": [
+            "patterns": [
                 "Bagaimana motif pada pakaian batik Jawa Tengah"
             ],
             "respon": [
@@ -6640,7 +6640,7 @@
         },
         {
             "tag": "pakaian kanigaran",
-            "input": [
+            "patterns": [
                 "dipakai kapan saat menggunakan pakaian kanigaran"
             ],
             "respon": [
@@ -6649,7 +6649,7 @@
         },
         {
             "tag": "Ciri khas pakaian Kanigaran",
-            "input": [
+            "patterns": [
                 "Ciri khas pakaian Kanigaran yang dikenakan pria"
             ],
             "respon": [
@@ -6658,7 +6658,7 @@
         },
         {
             "tag": "Terbuat pakaian kanigaran ",
-            "input": [
+            "patterns": [
                 "Terbuat dari apa pakaian kanigaran tersebut"
             ],
             "respon": [
@@ -6667,7 +6667,7 @@
         },
         {
             "tag": "pakaian adat beskap",
-            "input": [
+            "patterns": [
                 " Apa itu pakaian adat beskap"
             ],
             "respon": [
@@ -6676,7 +6676,7 @@
         },
         {
             "tag": "Keunikan pakaian adat beskap",
-            "input": [
+            "patterns": [
                 "Keunikan apa yang terdapat pada pakaian adat beskap"
             ],
             "respon": [
@@ -6685,7 +6685,7 @@
         },
         {
             "tag": "pakaian jarik",
-            "input": [
+            "patterns": [
                 " Apa itu pakaian jarik"
             ],
             "respon": [
@@ -6694,7 +6694,7 @@
         },
         {
             "tag": "stagen",
-            "input": [
+            "patterns": [
                 "Apa itu stagen"
             ],
             "respon": [
@@ -6703,7 +6703,7 @@
         },
         {
             "tag": "Fungsi pakaian stagen",
-            "input": [
+            "patterns": [
                 "Fungsi apa yang terdapat pakaian stagen.?"
             ],
             "respon": [
@@ -6712,7 +6712,7 @@
         },
         {
             "tag": "blangkon",
-            "input": [
+            "patterns": [
                 "Apa itu blangkon"
             ],
             "respon": [
@@ -6721,7 +6721,7 @@
         },
         {
             "tag": "Corak blangkon",
-            "input": [
+            "patterns": [
                 "Corak lain pada blangkon"
             ],
             "respon": [
@@ -6730,7 +6730,7 @@
         },
         {
             "tag": "Ciri blangkon",
-            "input": [
+            "patterns": [
                 "Ciri khas apa yang terdapat pada blangkon.?  "
             ],
             "respon": [
@@ -6739,7 +6739,7 @@
         },
         {
             "tag": "dua ikat pada blangkon",
-            "input": [
+            "patterns": [
                 " Apa makna pada dua ikat pada blangkon "
             ],
             "respon": [
@@ -6748,7 +6748,7 @@
         },
         {
             "tag": "kuluk",
-            "input": [
+            "patterns": [
                 "Apa itu kuluk"
             ],
             "respon": [
@@ -6757,7 +6757,7 @@
         },
         {
             "tag": " kapankuluk digunakan",
-            "input": [
+            "patterns": [
                 " Dipakai kapan pakain kuluk digunakan"
             ],
             "respon": [
@@ -6766,7 +6766,7 @@
         },
         {
             "tag": "wisata provinsi Jambi",
-            "input": [
+            "patterns": [
                 "Ada berapa macam wisata yang terdapat pada provinsi Jambi.? "
             ],
             "respon": [
@@ -6775,7 +6775,7 @@
         },
         {
             "tag": "wisata jambi",
-            "input": [
+            "patterns": [
                 "Sebutkan wisata jambi yang sering dikunjungi"
             ],
             "respon": [
@@ -6784,7 +6784,7 @@
         },
         {
             "tag": "GeoPark Merangin",
-            "input": [
+            "patterns": [
                 "Apa itu GeoPark Merangin "
             ],
             "respon": [
@@ -6793,7 +6793,7 @@
         },
         {
             "tag": "Keunikan wisata GeoPark Merangin",
-            "input": [
+            "patterns": [
                 "Keunikan apa yang dimiliki wisata GeoPark Merangin"
             ],
             "respon": [
@@ -6802,7 +6802,7 @@
         },
         {
             "tag": "tugu Pers",
-            "input": [
+            "patterns": [
                 "Apa itu wisata tugu Pers"
             ],
             "respon": [
@@ -6811,7 +6811,7 @@
         },
         {
             "tag": "gentala arasy",
-            "input": [
+            "patterns": [
                 "Apa itu wisata gentala arasy"
             ],
             "respon": [
@@ -6820,7 +6820,7 @@
         },
         {
             "tag": "Ciri khas Gentala Arasy",
-            "input": [
+            "patterns": [
                 "Ciri khas apa yang dimiliki pada Menara Gentala Arasy"
             ],
             "respon": [
@@ -6829,7 +6829,7 @@
         },
         {
             "tag": "tarif wisata Gentala Arasy",
-            "input": [
+            "patterns": [
                 "Berapa tarif pada masuk di wisata Gentala Arasy"
             ],
             "respon": [
@@ -6838,7 +6838,7 @@
         },
         {
             "tag": "Wisata terdapat daerah papua",
-            "input": [
+            "patterns": [
                 "Wisata apa saja yang terdapat pada daerah papua"
             ],
             "respon": [
@@ -6847,7 +6847,7 @@
         },
         {
             "tag": "danau paniai",
-            "input": [
+            "patterns": [
                 "Apa itu danau paniai"
             ],
             "respon": [
@@ -6856,7 +6856,7 @@
         },
         {
             "tag": "Terletak Paniai",
-            "input": [
+            "patterns": [
                 "Terletak dimana danau Paniai"
             ],
             "respon": [
@@ -6865,7 +6865,7 @@
         },
         {
             "tag": "lembah baliem",
-            "input": [
+            "patterns": [
                 " Apa itu lembah baliem"
             ],
             "respon": [
@@ -6874,7 +6874,7 @@
         },
         {
             "tag": " tempat terbaik Sulawesi Selatan",
-            "input": [
+            "patterns": [
                 "Apa saja tempat terbaik untuk wisata alam & taman di Sulawesi Selatan"
             ],
             "respon": [
@@ -6883,7 +6883,7 @@
         },
         {
             "tag": "Dimana lembah Baliem",
-            "input": [
+            "patterns": [
                 "Dimana keberadaan lembah Baliem"
             ],
             "respon": [
@@ -6892,7 +6892,7 @@
         },
         {
             "tag": "Acara Festival Lembah Baliem",
-            "input": [
+            "patterns": [
                 " Acara apa saja pada Festival Lembah Baliem"
             ],
             "respon": [
@@ -6901,7 +6901,7 @@
         },
         {
             "tag": "Berapa lama Lembah Baliem",
-            "input": [
+            "patterns": [
                 "Berapa lama Festival Lembah Baliem diadakan"
             ],
             "respon": [
@@ -6910,7 +6910,7 @@
         },
         {
             "tag": "Atraksi masyarakat Lembah Baliem",
-            "input": [
+            "patterns": [
                 "Atraksi bagaimana yang bermakna positif bagi masyarakat Lembah Baliem"
             ],
             "respon": [
@@ -6919,7 +6919,7 @@
         },
         {
             "tag": "Pesta bakar batu",
-            "input": [
+            "patterns": [
                 "Apa itu Pesta bakar batu menjadi bukti kerukunan warga di Lembah Baliem"
             ],
             "respon": [
@@ -6928,7 +6928,7 @@
         },
         {
             "tag": "raja ampat",
-            "input": [
+            "patterns": [
                 "Apa itu kepulauan raja ampat"
             ],
             "respon": [
@@ -6937,7 +6937,7 @@
         },
         {
             "tag": "letak kepulauan raja ampat",
-            "input": [
+            "patterns": [
                 "Dimana letak kepulauan raja ampat"
             ],
             "respon": [
@@ -6946,7 +6946,7 @@
         },
         {
             "tag": "macam makanan daerah papua",
-            "input": [
+            "patterns": [
                 " Ada berapa macam makanan khas pada daerah papua"
             ],
             "respon": [
@@ -6955,7 +6955,7 @@
         },
         {
             "tag": "makanan khas papua",
-            "input": [
+            "patterns": [
                 "Sebutkan makanan khas yang sering dicari ketika di papua"
             ],
             "respon": [
@@ -6964,7 +6964,7 @@
         },
         {
             "tag": "Ikan Bakar Manokwari",
-            "input": [
+            "patterns": [
                 "Apa itu Ikan Bakar Manokwari"
             ],
             "respon": [
@@ -6973,7 +6973,7 @@
         },
         {
             "tag": "rasa khas  Manokwari Manokwari",
-            "input": [
+            "patterns": [
                 "Bagaimana rasa khas pada Masakan Khas makanan Manokwari Manokwari "
             ],
             "respon": [
@@ -6982,7 +6982,7 @@
         },
         {
             "tag": " ulat Sagu",
-            "input": [
+            "patterns": [
                 "Apa makanan ulat Sagu"
             ],
             "respon": [
@@ -6991,7 +6991,7 @@
         },
         {
             "tag": "mie aceh",
-            "input": [
+            "patterns": [
                 "Apa itu mie aceh"
             ],
             "respon": [
@@ -7000,7 +7000,7 @@
         },
         {
             "tag": "kanji rumbia",
-            "input": [
+            "patterns": [
                 "Apa itu kanji rumbia"
             ],
             "respon": [
@@ -7009,7 +7009,7 @@
         },
         {
             "tag": "kopi gayo",
-            "input": [
+            "patterns": [
                 "Apa itu kopi gayo"
             ],
             "respon": [
@@ -7018,7 +7018,7 @@
         },
         {
             "tag": " dali ni",
-            "input": [
+            "patterns": [
                 "Apa itu dali ni horbo"
             ],
             "respon": [
@@ -7027,7 +7027,7 @@
         },
         {
             "tag": "bika ambon",
-            "input": [
+            "patterns": [
                 "Apa itu bika ambon"
             ],
             "respon": [
@@ -7036,7 +7036,7 @@
         },
         {
             "tag": "mie gomak",
-            "input": [
+            "patterns": [
                 "Apa itu mie gomak"
             ],
             "respon": [
@@ -7045,7 +7045,7 @@
         },
         {
             "tag": "rendang",
-            "input": [
+            "patterns": [
                 "Apa itu rendang"
             ],
             "respon": [
@@ -7054,7 +7054,7 @@
         },
         {
             "tag": "sate padang",
-            "input": [
+            "patterns": [
                 "Apa itu sate padang"
             ],
             "respon": [
@@ -7063,7 +7063,7 @@
         },
         {
             "tag": "nama-nama tempat NTT",
-            "input": [
+            "patterns": [
                 "sebutkan nama-nama tempat wisata bahari di NTT"
             ],
             "respon": [
@@ -7072,7 +7072,7 @@
         },
         {
             "tag": "dendeng balado",
-            "input": [
+            "patterns": [
                 "Apa itu dendeng balado"
             ],
             "respon": [
@@ -7081,7 +7081,7 @@
         },
         {
             "tag": "mie celor",
-            "input": [
+            "patterns": [
                 "Apa itu mie celor"
             ],
             "respon": [
@@ -7090,7 +7090,7 @@
         },
         {
             "tag": "pempek",
-            "input": [
+            "patterns": [
                 "Apa itu pempek"
             ],
             "respon": [
@@ -7099,7 +7099,7 @@
         },
         {
             "tag": "tempoyak",
-            "input": [
+            "patterns": [
                 "Apa itu tempoyak"
             ],
             "respon": [
@@ -7108,7 +7108,7 @@
         },
         {
             "tag": "kue padamaran",
-            "input": [
+            "patterns": [
                 "Apa itu kue padamaran"
             ],
             "respon": [
@@ -7117,7 +7117,7 @@
         },
         {
             "tag": " kue putri kandis",
-            "input": [
+            "patterns": [
                 "Apa itu kue putri kandis"
             ],
             "respon": [
@@ -7126,7 +7126,7 @@
         },
         {
             "tag": "seni tari Jawa Barat",
-            "input": [
+            "patterns": [
                 "Apa itu gulai ikan patin"
             ],
             "respon": [
@@ -7135,7 +7135,7 @@
         },
         {
             "tag": "mie sagu",
-            "input": [
+            "patterns": [
                 "Apa itu mie sagu"
             ],
             "respon": [
@@ -7144,7 +7144,7 @@
         },
         {
             "tag": "makanan ikan cuka",
-            "input": [
+            "patterns": [
                 "Apa itu ikan cuka"
             ],
             "respon": [
@@ -7153,7 +7153,7 @@
         },
         {
             "tag": "Lakse Kuah Kari",
-            "input": [
+            "patterns": [
                 "Apa itu Lakse Kuah Kari Ikan Khas Melayu Kepri"
             ],
             "respon": [
@@ -7162,7 +7162,7 @@
         },
         {
             "tag": "kerak telor",
-            "input": [
+            "patterns": [
                 "Apa itu kue putu piring"
             ],
             "respon": [
@@ -7171,7 +7171,7 @@
         },
         {
             "tag": "mie lendir",
-            "input": [
+            "patterns": [
                 "Apa itu mie lendir"
             ],
             "respon": [
@@ -7180,7 +7180,7 @@
         },
         {
             "tag": "ibu kota Lampung",
-            "input": [
+            "patterns": [
                 "Apa nama ibu kota dari provinsi Lampung "
             ],
             "respon": [
@@ -7189,7 +7189,7 @@
         },
         {
             "tag": "bahasa daerah lampung",
-            "input": [
+            "patterns": [
                 "Sebutkan bahasa daerah yang digunakan oleh masyarakat lampung"
             ],
             "respon": [
@@ -7198,7 +7198,7 @@
         },
         {
             "tag": "Senjata tradisional Lampung",
-            "input": [
+            "patterns": [
                 "Senjata tradisional khas provinsi Lampung adalah"
             ],
             "respon": [
@@ -7207,7 +7207,7 @@
         },
         {
             "tag": "Bahasa daerah Jawa Tengah adalah",
-            "input": [
+            "patterns": [
                 "Bahasa daerah yang digunakan oleh masyarakat provinsi Jawa Tengah adalah"
             ],
             "respon": [
@@ -7216,7 +7216,7 @@
         },
         {
             "tag": "Rumah adat ciri khas Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Rumah adat yang menjadi ciri khas dari provinsi Jawa Tengah  adalah"
             ],
             "respon": [
@@ -7225,7 +7225,7 @@
         },
         {
             "tag": "Lagu daerah Jawa Tengah",
-            "input": [
+            "patterns": [
                 "Sebutkan Lagu daerah yang berasal dari Jawa Tengah"
             ],
             "respon": [
@@ -7234,7 +7234,7 @@
         },
         {
             "tag": "Ibu Kota Bangka Belitung",
-            "input": [
+            "patterns": [
                 "Ibu Kota dari Provinsi Bangka Belitung adalah"
             ],
             "respon": [
@@ -7243,7 +7243,7 @@
         },
         {
             "tag": "Alat musik ciri khas  Bangka Belitung ",
-            "input": [
+            "patterns": [
                 "Alat musik yang menjadi ciri khas dari provinsi Bangka Belitung adalah"
             ],
             "respon": [
@@ -7252,7 +7252,7 @@
         },
         {
             "tag": "Sebutkan Tari Tradisional Bangka Belitun",
-            "input": [
+            "patterns": [
                 "Sebutkan Tari Tradisional yang menjadi ikon di provinsi Bangka Belitung adalah"
             ],
             "respon": [
@@ -7261,7 +7261,7 @@
         },
         {
             "tag": "ikon yang paling terkenal di Indonesia",
-            "input": [
+            "patterns": [
                 "Monas menjadi ikon yang paling terkenal di Indonesia yang berada di Provinsi"
             ],
             "respon": [
@@ -7270,7 +7270,7 @@
         },
         {
             "tag": "meseum paling terkenal",
-            "input": [
+            "patterns": [
                 "DKI Jakarta memiliki banyak latar belakang sejarah yang banyak, salah satu meseum paling terkenal  adalah"
             ],
             "respon": [
@@ -7279,7 +7279,7 @@
         },
         {
             "tag": "Julukan kota tertuju kota Bandung",
-            "input": [
+            "patterns": [
                 "Julukan kota kembang tertuju kota Bandung yang menjadi Ibu kota dari provinsi"
             ],
             "respon": [
@@ -7288,7 +7288,7 @@
         },
         {
             "tag": "Tari tradisional Jawa Barat",
-            "input": [
+            "patterns": [
                 "Tari tradisional yang berasal Jawa Barat"
             ],
             "respon": [
@@ -7297,7 +7297,7 @@
         },
         {
             "tag": "taman Nasional hewan yang dilindungi",
-            "input": [
+            "patterns": [
                 "Salah satu taman Nasional terkenal karena terdapat hewan yang dilindungi yaitu, Badak jawa berada di provinsi"
             ],
             "respon": [
@@ -7306,7 +7306,7 @@
         },
         {
             "tag": "tarian daerah Banten",
-            "input": [
+            "patterns": [
                 "Salah satu tarian daerah yang menjadi cirri khas masyrakat Banten adalah"
             ],
             "respon": [
@@ -7315,7 +7315,7 @@
         },
         {
             "tag": "Tanaman endemik",
-            "input": [
+            "patterns": [
                 "Tanaman endemik karna bentuknya besar dan hanya ada di provinsi Bengkulu adalah "
             ],
             "respon": [
@@ -7324,7 +7324,7 @@
         },
         {
             "tag": "Senjata tradisional Bengkulu",
-            "input": [
+            "patterns": [
                 "Senjata tradisional yang menjadi kebanggan masyarakat Bengkulu adalah"
             ],
             "respon": [
@@ -7333,7 +7333,7 @@
         },
         {
             "tag": "Suku bangsa  Bengkulu",
-            "input": [
+            "patterns": [
                 "Suku bangsa yang menempati provinsi Bengkulu adalah"
             ],
             "respon": [
