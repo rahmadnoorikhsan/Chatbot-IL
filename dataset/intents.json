@@ -1,6 +1,50 @@
 {
     "intents": [
         {
+          "tag": "hello",
+          "patterns": [
+            "Halo",
+            "Hai",
+            "Selamat pagi",
+            "Selamat siang",
+            "Selamat sore",
+            "Apa kabar?",
+            "Hai ILO",
+            "Halo ILO",
+            "Pagi ILO",
+            "ILO, hai!"
+          ],
+          "responses": [
+            "Halo! Selamat datang di Infinite Learning. Ada yang bisa ILO bantu?",
+            "Hai! Senang bertemu denganmu. ILO siap membantu kamu!",
+            "Selamat datang! Silakan tanyakan apa pun tentang Infinite Learning.",
+            "Halo juga! ILO di sini untuk bantu kamu mengenal Infinite Learning lebih jauh.",
+            "Halo! Semoga harimu menyenangkan. Yuk, mulai percakapannya!"
+          ]
+        },
+        {
+          "tag": "goodbye",
+          "patterns": [
+            "Terima kasih",
+            "Sampai jumpa",
+            "Dadah",
+            "Saya pamit",
+            "Selamat tinggal",
+            "Makasih ya ILO",
+            "Thank you",
+            "Bye ILO",
+            "Itu saja, terima kasih",
+            "Udahan dulu ya"
+          ],
+          "responses": [
+            "Sama-sama! Jangan ragu untuk kembali jika ada pertanyaan lain.",
+            "Sampai jumpa! Semoga harimu menyenangkan.",
+            "Terima kasih telah berbicara dengan ILO. Sampai bertemu lagi!",
+            "Senang bisa membantu! Sampai jumpa di lain waktu.",
+            "Terima kasih! Semoga sukses selalu dalam perjalanan belajarmu bersama Infinite Learning."
+          ]
+        },
+        {
             "tag": "infinite_learning",
             "patterns": [
                 "Apa itu Infinite Learning?",
