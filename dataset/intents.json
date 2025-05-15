@@ -1,48 +1,48 @@
 {
     "intents": [
         {
-          "tag": "hello",
-          "patterns": [
-            "Selamat datang",
-            "Salam kenal",
-            "Halo, siapa di sana?",
-            "Permisi, ada yang bisa bantu?",
-            "Selamat pagi, ada yang bisa saya bantu?",
-            "Hi, saya butuh info",
-            "Hai, ada yang bisa dijelaskan?",
-            "Hello, ILO siap membantu?",
-            "Saya mau tanya sesuatu",
-            "Selamat siang, bantuan dong"
-          ],
-          "responses": [
-            "Halo! Selamat datang di Infinite Learning. Ada yang bisa ILO bantu?",
-            "Hai! Senang bertemu denganmu. ILO siap membantu kamu!",
-            "Selamat datang! Silakan tanyakan apa pun tentang Infinite Learning.",
-            "Halo juga! ILO di sini untuk bantu kamu mengenal Infinite Learning lebih jauh.",
-            "Halo! Semoga harimu menyenangkan. Yuk, mulai percakapannya!"
-          ]
+            "tag": "hello",
+            "patterns": [
+                "Selamat datang",
+                "Salam kenal",
+                "Halo, siapa di sana?",
+                "Permisi, ada yang bisa bantu?",
+                "Selamat pagi, ada yang bisa saya bantu?",
+                "Hi, saya butuh info",
+                "Hai, ada yang bisa dijelaskan?",
+                "Hello, ILO siap membantu?",
+                "Saya mau tanya sesuatu",
+                "Selamat siang, bantuan dong"
+            ],
+            "responses": [
+                "Halo! Selamat datang di Infinite Learning. Ada yang bisa ILO bantu?",
+                "Hai! Senang bertemu denganmu. ILO siap membantu kamu!",
+                "Selamat datang! Silakan tanyakan apa pun tentang Infinite Learning.",
+                "Halo juga! ILO di sini untuk bantu kamu mengenal Infinite Learning lebih jauh.",
+                "Halo! Semoga harimu menyenangkan. Yuk, mulai percakapannya!"
+            ]
         },
         {
-          "tag": "goodbye",
-          "patterns": [
-            "Saya pamit dulu ya",
-            "Terima kasih banyak",
-            "Sampai ketemu lagi",
-            "Sekian dulu, makasih",
-            "Selamat tinggal semuanya",
-            "Bye, sampai jumpa lagi",
-            "Saya keluar dulu",
-            "Terima kasih atas bantuannya",
-            "Udahan dulu ya, makasih",
-            "Salam perpisahan"
-          ],
-          "responses": [
-            "Sama-sama! Jangan ragu untuk kembali jika ada pertanyaan lain.",
-            "Sampai jumpa! Semoga harimu menyenangkan.",
-            "Terima kasih telah berbicara dengan ILO. Sampai bertemu lagi!",
-            "Senang bisa membantu! Sampai jumpa di lain waktu.",
-            "Terima kasih! Semoga sukses selalu dalam perjalanan belajarmu bersama Infinite Learning."
-          ]
+            "tag": "goodbye",
+            "patterns": [
+                "Saya pamit dulu ya",
+                "Terima kasih banyak",
+                "Sampai ketemu lagi",
+                "Sekian dulu, makasih",
+                "Selamat tinggal semuanya",
+                "Bye, sampai jumpa lagi",
+                "Saya keluar dulu",
+                "Terima kasih atas bantuannya",
+                "Udahan dulu ya, makasih",
+                "Salam perpisahan"
+            ],
+            "responses": [
+                "Sama-sama! Jangan ragu untuk kembali jika ada pertanyaan lain.",
+                "Sampai jumpa! Semoga harimu menyenangkan.",
+                "Terima kasih telah berbicara dengan ILO. Sampai bertemu lagi!",
+                "Senang bisa membantu! Sampai jumpa di lain waktu.",
+                "Terima kasih! Semoga sukses selalu dalam perjalanan belajarmu bersama Infinite Learning."
+            ]
         },
         {
             "tag": "infinite_learning",
@@ -932,11 +932,11 @@
             ]
         },
         {
-          "tag": "fallback",
-          "patterns": [],
-          "responses": [
+            "tag": "fallback",
+            "patterns": [],
+            "responses": [
                 "Maaf, ILO belum mengerti pertanyaan itu. Bisa coba ditanyakan dengan cara lain?"
-          ]
+            ]
         }
     ]
 }
