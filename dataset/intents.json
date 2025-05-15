@@ -3,16 +3,16 @@
         {
           "tag": "hello",
           "patterns": [
-            "Halo",
-            "Hai",
-            "Selamat pagi",
-            "Selamat siang",
-            "Selamat sore",
-            "Apa kabar?",
-            "Hai ILO",
-            "Halo ILO",
-            "Pagi ILO",
-            "ILO, hai!"
+            "Selamat datang",
+            "Salam kenal",
+            "Halo, siapa di sana?",
+            "Permisi, ada yang bisa bantu?",
+            "Selamat pagi, ada yang bisa saya bantu?",
+            "Hi, saya butuh info",
+            "Hai, ada yang bisa dijelaskan?",
+            "Hello, ILO siap membantu?",
+            "Saya mau tanya sesuatu",
+            "Selamat siang, bantuan dong"
           ],
           "responses": [
             "Halo! Selamat datang di Infinite Learning. Ada yang bisa ILO bantu?",
@@ -25,16 +25,16 @@
         {
           "tag": "goodbye",
           "patterns": [
-            "Terima kasih",
-            "Sampai jumpa",
-            "Dadah",
-            "Saya pamit",
-            "Selamat tinggal",
-            "Makasih ya ILO",
-            "Thank you",
-            "Bye ILO",
-            "Itu saja, terima kasih",
-            "Udahan dulu ya"
+            "Saya pamit dulu ya",
+            "Terima kasih banyak",
+            "Sampai ketemu lagi",
+            "Sekian dulu, makasih",
+            "Selamat tinggal semuanya",
+            "Bye, sampai jumpa lagi",
+            "Saya keluar dulu",
+            "Terima kasih atas bantuannya",
+            "Udahan dulu ya, makasih",
+            "Salam perpisahan"
           ],
           "responses": [
             "Sama-sama! Jangan ragu untuk kembali jika ada pertanyaan lain.",
@@ -47,16 +47,16 @@
         {
             "tag": "infinite_learning",
             "patterns": [
-                "Apa itu Infinite Learning?",
-                "Jelaskan tentang Infinite Learning",
-                "Apa sih Infinite Learning?",
-                "Infinite Learning tuh apa?",
-                "Apa yang kamu ketahui tentang Infinite Learning?",
-                "Bisa jelaskan mengenai Infinite Learning?",
+                "Ceritakan tentang Infinite Learning",
                 "Apa yang dimaksud dengan Infinite Learning?",
-                "Bagaimana Infinite Learning dapat membantu pengembangan karir?",
-                "Apa yang membuat Infinite Learning berbeda dari lembaga pelatihan lainnya?",
-                "Apa visi dan misi dari Infinite Learning?"
+                "Informasi tentang Infinite Learning, please",
+                "Jelaskan visi misi Infinite Learning",
+                "Apa keunggulan Infinite Learning?",
+                "Apa layanan yang disediakan Infinite Learning?",
+                "Kenapa harus pilih Infinite Learning?",
+                "Seperti apa program di Infinite Learning?",
+                "Apa perbedaan Infinite Learning dengan yang lain?",
+                "Detail tentang Infinite Learning, dong"
             ],
             "responses": [
                 "Infinite Learning, merupakan salah satu divisi dari PT Kinema Systrans multimedia (anak perusahaan dari Infinite Studios), berpusat pada pengembangan kursus pelatihan kejuruan yang relevan dengan kegiatan Infinite Studios dan permintaan yang terus meningkat akan bakat-bakat terampil di ekosistem Nongsa Digital Park. Dengan visi visi Menjadi penyedia solusi terdepan di bidang teknologi, penelitian dan pengembangan, serta inovasi melalui pelatihan dan pendidikan. Kami bertujuan untuk meningkatkan jumlah talenta digital yang kreatif dan inovatif, yang tidak hanya mandiri tetapi juga diakui oleh industri baik di Indonesia maupun dunia. Dan Misi Bekerja sama dengan semua lembaga pemerintah, lembaga penelitian nasional, serta institusi pendidikan/pelatihan baik di dalam maupun luar negeri untuk mengembangkan standar kurikulum, berkolaborasi dalam penelitian dan pengembangan, serta menyediakan pendanaan inovatif.",
@@ -74,16 +74,16 @@
         {
             "tag": "studi_independen",
             "patterns": [
-                "Jelaskan tentang program Studi Independen di Infinite Learning",
-                "Apa saja program Studi Independen di Infinite Learning?",
-                "Studi Independen di Infinite Learning ada program apa aja sih?",
-                "Program Studi Independen apa saja yang ditawarkan oleh Infinite Learning?",
-                "Apa yang bisa dipelajari dalam program Studi Independen di Infinite Learning?",
-                "Bagaimana cara mengikuti program Studi Independen di Infinite Learning?",
-                "Apa saja learning path di Studi Independen Infinite Learning?",
-                "Apa saja bidang yang tersedia dalam program Studi Independen di Infinite Learning?",
-                "Apa yang dipelajari dalam Studi Independen Infinite Learning?",
-                "Program Studi Independen apa yang paling populer di Infinite Learning?"
+                "Program Studi Independen itu apa?",
+                "Apa saja yang dipelajari di Studi Independen?",
+                "Ceritakan tentang Studi Independen di Infinite Learning",
+                "Bagaimana sistem Studi Independen di Infinite Learning?",
+                "Bidang apa yang tersedia di Studi Independen?",
+                "Apa tujuan dari Studi Independen?",
+                "Apa saja jalur pembelajaran Studi Independen?",
+                "Bagaimana cara kerja Studi Independen di Infinite Learning?",
+                "Apa keistimewaan program Studi Independen?",
+                "Informasi lengkap Studi Independen, tolong"
             ],
             "responses": [
                 "Program Studi Independen adalah program pembelajaran intensif berdurasi satu semester (setara 20 SKS). Program ini didesain bersama praktisi industri dan menggunakan pendekatan project-based learning dengan 30% teori dan 70% praktik. Terdapat 5 Learning Path pada program Studi Independen di Infinite Learning, yaitu Android Mobile Development & UIUX Designer, Web Development & UIUX Design, Game Development, Linux System Administration, dan Artificial Intelegent",
@@ -101,16 +101,16 @@
         {
             "tag": "program_benefits",
             "patterns": [
-                "Apa keuntungan mengikuti Studi Independen di Infinite Learning?",
-                "Manfaat apa yang didapat dari program Studi Independen?",
-                "Benefit mengikuti Studi Independen di Infinite Learning apa aja sih?",
-                "Mengapa saya harus mengikuti program Studi Independen?",
-                "Apa saja keunggulan program Studi Independen ini?",
-                "Apa manfaat utama dari Studi Independen?",
-                "Keuntungan apa yang ditawarkan oleh Studi Independen?",
-                "Apakah ada manfaat khusus dari program ini?",
-                "Bagaimana program ini dapat meningkatkan karir saya?",
-                "Apa nilai tambah dari mengikuti Studi Independen di sini?"
+                "Apa manfaat ikut Studi Independen?",
+                "Kenapa harus mengikuti Studi Independen?",
+                "Apa keuntungan program Studi Independen?",
+                "Manfaat apa yang saya dapat dari Studi Independen?",
+                "Apa nilai tambah ikut program ini?",
+                "Apa benefit yang bisa diperoleh dari Studi Independen?",
+                "Keunggulan Studi Independen apa saja?",
+                "Apa dampak positif ikut program ini?",
+                "Apa yang membuat Studi Independen bermanfaat?",
+                "Manfaat utama Studi Independen di Infinite Learning?"
             ],
             "responses": [
                 "Keuntungan mengikuti program ini termasuk konversi 20 SKS, 2 Sertifikat berupa Sertifikat Studi Independen dan Magang, portfolio project, dan networking.",
@@ -128,16 +128,16 @@
         {
             "tag": "registration_process",
             "patterns": [
-                "Bagaimana cara mendaftar program Studi Independen?",
-                "Apa tahapan pendaftaran Studi Independen?",
-                "Gimana sih cara daftarnya?",
-                "Aku ingin ikut Studi Independen, apa yang perlu saya lakukan?",
-                "Langkah apa saja yang diperlukan untuk mendaftar Studi Independen?",
-                "Bagaimana proses pendaftaran Studi Independen dilakukan?",
-                "Apa yang harus saya siapkan untuk mendaftar Studi Independen?",
-                "Apakah pendaftaran Studi Independen bisa dilakukan secara online?",
-                "Adakah panduan khusus untuk mendaftar Studi Independen?",
-                "Apa yang perlu saya ketahui sebelum mendaftar Studi Independen?"
+                "Bagaimana cara daftar Studi Independen?",
+                "Proses pendaftaran Studi Independen gimana?",
+                "Apa langkah-langkah mendaftar Studi Independen?",
+                "Saya mau daftar Studi Independen, caranya?",
+                "Apa syarat pendaftaran Studi Independen?",
+                "Di mana saya bisa mendaftar Studi Independen?",
+                "Pendaftaran Studi Independen bisa online?",
+                "Apa yang harus disiapkan untuk daftar Studi Independen?",
+                "Panduan daftar Studi Independen, tolong",
+                "Langkah pendaftaran program Studi Independen apa saja?"
             ],
             "responses": [
                 "Jika kamu ingin mendaftar melalui program Kampus Merdeka, Silahkan Buka situs Kampus Merdeka, klik Program Studi Independen, cari \"Infinite Learning\" dan pilih program yang Kamu minati, kemudian unggah dokumen yang diperlukan di situs Kampus Merdeka, dan tunggu pengumuman final melalui email/WhatsApp. Jika ingin mendaftar melalui Kampus Merdeka Mandiri, kamu bisa mengunjungi link berikut : https://course.infinitelearning.id/course-category/kamdek-mandiri/",
@@ -155,14 +155,16 @@
         {
             "tag": "learning_schedule",
             "patterns": [
-                "Bagaimana jadwal belajar di Studi Independen?",
-                "Kapan sesi belajar diadakan?",
-                "Apakah jadwal belajar di Studi Independen fleksibel?",
-                "Apa saja kegiatan dalam jadwal pembelajaran?",
-                "Berapa jam sehari sesi pembelajaran berlangsung?",
-                "Kapan waktu untuk pembelajaran diadakan?",
-                "Berapa lama durasi program Studi Independen setiap hari?",
-                "Bagaimana sesi pembelajaran dilakukan?"
+                "Kapan jadwal belajar Studi Independen?",
+                "Bagaimana waktu belajar di program ini?",
+                "Jadwal sesi pembelajaran seperti apa?",
+                "Apakah jadwal belajar fleksibel?",
+                "Berapa jam pembelajaran setiap hari?",
+                "Apa saja kegiatan belajar dalam program?",
+                "Bagaimana cara pembelajaran dilakukan?",
+                "Kapan waktu sesi online diadakan?",
+                "Durasi belajar per hari berapa lama?",
+                "Jadwal kelas Studi Independen seperti apa?"
             ],
             "responses": [
                 "Pembelajaran akan berlangsung Senin-Jumat, Sesi online dibagi menjadi 2 sesi yaitu pada pukul 09.00-12.00 WIB dan pada pukul 14.00-17.00 WIB. Pada hari Senin-Kamis pembelajaran terdiri dari Soft Skill & Hard Skill session, hands-on practice, mentoring, dan project work. Dan di hari Jumat diadakan Culture Week dan English Day.",
@@ -930,6 +932,13 @@
                 "Setelah program selesai, kamu tidak akan bisa lagi masuk ke LMS. Jadi manfaatkan kesempatan ini untuk belajar semaksimal mungkin!",
                 "LMS hanya dapat diakses selama program berlangsung. Jadi pastikan kamu sudah belajar dengan baik dan menyimpan materi penting sebelum program selesai!"
             ]
+        },
+        {
+          "tag": "fallback",
+          "patterns": [],
+          "responses": [
+                "Maaf, ILO belum mengerti pertanyaan itu. Bisa coba ditanyakan dengan cara lain?"
+          ]
         }
     ]
 }
