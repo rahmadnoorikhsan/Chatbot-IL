@@ -12,14 +12,39 @@
                 "Hai, ada yang bisa dijelaskan?",
                 "Hello, ILO siap membantu?",
                 "Saya mau tanya sesuatu",
-                "Selamat siang, bantuan dong"
+                "Selamat siang, bantuan dong",
+                "Hai, saya baru di sini",
+                "Halo, saya ingin bertanya",
+                "Permisi, saya butuh bantuan",
+                "Hi, ini tentang Infinite Learning ya?",
+                "Ada yang bisa saya konsultasikan?",
+                "Apa ini layanan informasi Infinite Learning?",
+                "Boleh minta info tentang program di sini?",
+                "Halo kak, Infinite Learning ya?",
+                "Saya ingin tahu lebih lanjut, bisa bantu?",
+                "Boleh ngobrol soal pelatihan di sini?"
             ],
             "responses": [
                 "Halo! Selamat datang di Infinite Learning. Ada yang bisa ILO bantu?",
                 "Hai! Senang bertemu denganmu. ILO siap membantu kamu!",
                 "Selamat datang! Silakan tanyakan apa pun tentang Infinite Learning.",
                 "Halo juga! ILO di sini untuk bantu kamu mengenal Infinite Learning lebih jauh.",
-                "Halo! Semoga harimu menyenangkan. Yuk, mulai percakapannya!"
+                "Halo! Semoga harimu menyenangkan. Yuk, mulai percakapannya!",
+                "Halo! Selamat datang di Infinite Learning. Ada yang bisa ILO bantu?",
+                "Hai! Senang bertemu denganmu. ILO siap membantu kamu!",
+                "Selamat datang! Silakan tanyakan apa pun tentang Infinite Learning.",
+                "Halo juga! ILO di sini untuk bantu kamu mengenal Infinite Learning lebih jauh.",
+                "Halo! Semoga harimu menyenangkan. Yuk, mulai percakapannya!",
+                "Hai! Selamat datang di Infinite Learning, kamu bisa tanya apa saja di sini!",
+                "Halo! Senang kamu mampir. Ada info yang kamu butuhkan?",
+                "Hai, ILO siap bantu kamu cari tahu soal Infinite Learning.",
+                "Selamat datang! Silakan ajukan pertanyaanmu kapan saja.",
+                "Halo juga! Kami senang membantu menjawab kebutuhanmu.",
+                "ILO di sini untuk membantu kamu mengenal program-program Infinite Learning.",
+                "Hai! Silakan, kamu bisa mulai dengan pertanyaan yang kamu punya.",
+                "Senang bisa ngobrol denganmu! Ada yang ingin kamu ketahui?",
+                "Halo, yuk kita bahas apa pun yang ingin kamu tahu seputar Infinite Learning.",
+                "Hai! Terima kasih sudah menghubungi ILO. Siap bantu jawab pertanyaanmu!"
             ]
         },
         {
@@ -34,14 +59,39 @@
                 "Saya keluar dulu",
                 "Terima kasih atas bantuannya",
                 "Udahan dulu ya, makasih",
-                "Salam perpisahan"
+                "Salam perpisahan",
+                "Makasih ya, sampai nanti!",
+                "Saya izin pamit dulu",
+                "Terima kasih, saya sudah cukup jelas",
+                "Sampai jumpa, ILO!",
+                "Udah dulu ya, makasih infonya",
+                "Saya tinggal dulu, terima kasih bantuannya",
+                "Terima kasih, infonya sangat membantu!",
+                "Oke, saya pamit, sampai lain waktu",
+                "Nanti saya balik lagi kalau ada pertanyaan",
+                "Makasih banyak ya, sampai ketemu!"
             ],
             "responses": [
                 "Sama-sama! Jangan ragu untuk kembali jika ada pertanyaan lain.",
                 "Sampai jumpa! Semoga harimu menyenangkan.",
                 "Terima kasih telah berbicara dengan ILO. Sampai bertemu lagi!",
                 "Senang bisa membantu! Sampai jumpa di lain waktu.",
-                "Terima kasih! Semoga sukses selalu dalam perjalanan belajarmu bersama Infinite Learning."
+                "Terima kasih! Semoga sukses selalu dalam perjalanan belajarmu bersama Infinite Learning.",
+                "Sama-sama! Jangan ragu untuk kembali jika ada pertanyaan lain.",
+                "Sampai jumpa! Semoga harimu menyenangkan.",
+                "Terima kasih telah berbicara dengan ILO. Sampai bertemu lagi!",
+                "Senang bisa membantu! Sampai jumpa di lain waktu.",
+                "Terima kasih! Semoga sukses selalu dalam perjalanan belajarmu bersama Infinite Learning.",
+                "Senang bisa membantu! Jangan sungkan kembali kapan pun.",
+                "Terima kasih juga! Semoga harimu menyenangkan.",
+                "Sampai jumpa! ILO selalu siap bantu kamu kapan saja.",
+                "Jangan ragu untuk kembali ya kalau butuh info lainnya.",
+                "Terima kasih sudah ngobrol dengan ILO. Sukses selalu!",
+                "Bye! Semoga informasi tadi bermanfaat untuk kamu.",
+                "Sampai ketemu lagi ya! Tetap semangat belajar.",
+                "Terima kasih atas waktumu. ILO siap menyambut kamu lagi kapan pun.",
+                "Salam hangat dari Infinite Learning! Sampai nanti.",
+                "Kapan pun kamu butuh bantuan, ILO siap menemani!"
             ]
         },
         {
@@ -56,7 +106,17 @@
                 "Apa yang dimaksud dengan Infinite Learning?",
                 "Bagaimana Infinite Learning dapat membantu pengembangan karir?",
                 "Apa yang membuat Infinite Learning berbeda dari lembaga pelatihan lainnya?",
-                "Apa visi dan misi dari Infinite Learning?"
+                "Apa visi dan misi dari Infinite Learning?",
+                "Infinite Learning itu bagian dari perusahaan apa?",
+                "Fokus program di Infinite Learning itu apa aja?",
+                "Infinite Learning punya kerja sama dengan siapa?",
+                "Apa tujuan utama dari Infinite Learning?",
+                "Bagaimana cara Infinite Learning mendukung perkembangan karir?",
+                "Apa keunggulan Infinite Learning dibanding tempat lain?",
+                "Apakah Infinite Learning punya sertifikasi?",
+                "Program di Infinite Learning cocok untuk siapa?",
+                "Gimana sih metode belajar di Infinite Learning?",
+                "Apakah Infinite Learning hanya untuk mahasiswa?"
             ],
             "responses": [
                 "Infinite Learning, merupakan salah satu divisi dari PT Kinema Systrans multimedia (anak perusahaan dari Infinite Studios), berpusat pada pengembangan kursus pelatihan kejuruan yang relevan dengan kegiatan Infinite Studios dan permintaan yang terus meningkat akan bakat-bakat terampil di ekosistem Nongsa Digital Park. Dengan visi visi Menjadi penyedia solusi terdepan di bidang teknologi, penelitian dan pengembangan, serta inovasi melalui pelatihan dan pendidikan. Kami bertujuan untuk meningkatkan jumlah talenta digital yang kreatif dan inovatif, yang tidak hanya mandiri tetapi juga diakui oleh industri baik di Indonesia maupun dunia. Dan Misi Bekerja sama dengan semua lembaga pemerintah, lembaga penelitian nasional, serta institusi pendidikan/pelatihan baik di dalam maupun luar negeri untuk mengembangkan standar kurikulum, berkolaborasi dalam penelitian dan pengembangan, serta menyediakan pendanaan inovatif.",
@@ -68,7 +128,17 @@
                 "Sebagai bagian dari PT Kinema Systrans Multimedia, Infinite Learning mendukung pengembangan sumber daya manusia di bidang teknologi melalui kursus pelatihan yang disesuaikan dengan kebutuhan industri dan perkembangan global.",
                 "Dengan tujuan untuk menciptakan talenta digital yang diakui, Infinite Learning bekerja sama dengan berbagai lembaga nasional dan internasional untuk memajukan pendidikan dan inovasi teknologi.",
                 "Infinite Learning berfokus pada pengembangan bakat-bakat terampil dalam teknologi, penelitian, dan pengembangan untuk menghasilkan individu-individu yang mampu berkontribusi di industri digital global.",
-                "Misi utama Infinite Learning adalah untuk meningkatkan kualitas pendidikan dan pelatihan melalui kolaborasi dengan institusi pendidikan dan lembaga penelitian, guna menyediakan solusi inovatif dalam pengembangan talenta digital."
+                "Misi utama Infinite Learning adalah untuk meningkatkan kualitas pendidikan dan pelatihan melalui kolaborasi dengan institusi pendidikan dan lembaga penelitian, guna menyediakan solusi inovatif dalam pengembangan talenta digital.",
+                "Infinite Learning adalah divisi dari PT Kinema Systrans Multimedia yang berfokus pada pelatihan talenta digital di ekosistem Nongsa Digital Park.",
+                "Kami menyediakan pelatihan vokasional yang sesuai kebutuhan industri digital, khususnya yang berkembang di Infinite Studios.",
+                "Infinite Learning berkolaborasi dengan pemerintah, institusi pendidikan, dan lembaga riset untuk mengembangkan pendidikan berbasis industri.",
+                "Visi kami adalah mencetak talenta digital yang inovatif dan siap bersaing di level global.",
+                "Kami membantu peserta berkembang lewat kurikulum yang relevan dengan permintaan industri saat ini.",
+                "Infinite Learning unggul dalam pengalaman industri langsung dan pengembangan kurikulum berbasis kebutuhan nyata di lapangan.",
+                "Kami menyediakan pelatihan bersertifikat dengan materi terkini yang diakui di sektor digital.",
+                "Program kami terbuka untuk mahasiswa, fresh graduate, maupun profesional muda yang ingin upskill.",
+                "Pembelajaran kami berbasis proyek, kolaboratif, dan berorientasi pada tantangan nyata dunia kerja.",
+                "Dengan semangat kolaborasi dan inovasi, Infinite Learning mencetak lulusan yang mandiri dan diakui industri."
             ]
         },
         {
@@ -83,7 +153,17 @@
                 "Apa kelebihan mengikuti program Studi Independen di Infinite Learning?",
                 "Apa saja bidang yang tersedia dalam program Studi Independen di Infinite Learning?",
                 "Apa manfaat mengikuti program Studi Independen di Infinite Learning?",
-                "Program Studi Independen apa yang paling populer di Infinite Learning?"
+                "Program Studi Independen apa yang paling populer di Infinite Learning?",
+                "Apa itu program Studi Independen?",
+                "Jelaskan tentang Studi Independen.",
+                "Studi Independen itu apa sih?",
+                "Bisa dijelaskan Studi Independen itu gimana?",
+                "Saya ingin tahu apa itu Studi Independen.",
+                "Studi Independen termasuk program apa?",
+                "Apakah kamu tahu tentang Studi Independen?",
+                "Gimana konsep Studi Independen?",
+                "Studi Independen itu maksudnya apa?",
+                "Program Studi Independen itu untuk apa?"
             ],
             "responses": [
                 "Program Studi Independen adalah program pembelajaran intensif berdurasi satu semester (setara 20 SKS). Program ini didesain bersama praktisi industri dan menggunakan pendekatan project-based learning dengan 30% teori dan 70% praktik. Terdapat 5 Learning Path pada program Studi Independen di Infinite Learning, yaitu Android Mobile Development & UIUX Designer, Web Development & UIUX Design, Game Development, Linux System Administration, dan Artificial Intelegent",
@@ -95,7 +175,17 @@
                 "Program Studi Independen di Infinite Learning difokuskan pada pengembangan keterampilan praktis dengan menggunakan metode pembelajaran berbasis proyek. Ada 5 Learning Path yang bisa dipilih, yaitu Android Mobile Development, Web Development, Game Development, Linux System Administration, dan Artificial Intelegent.",
                 "Di dalam program Studi Independen, peserta akan mempelajari keterampilan praktis yang langsung dapat diterapkan di dunia industri. Program ini terdiri dari 5 Learning Path, yaitu Android Mobile Development, Web Development, Game Development, Linux System Administration, dan Artificial Intelegent.",
                 "Program Studi Independen di Infinite Learning menggunakan pendekatan project-based learning dengan pembagian 30% teori dan 70% praktik. Ada 5 Learning Path yang dapat dipilih, yaitu Android Mobile Development, Web Development, Game Development, Linux System Administration, dan Artificial Intelegent.",
-                "Tersedia 5 Learning Path di program Studi Independen Infinite Learning yang mencakup Android Mobile Development & UIUX Designer, Web Development & UIUX Design, Game Development, Linux System Administration, dan Artificial Intelegent. Setiap path dirancang untuk memberikan keterampilan praktis yang dibutuhkan industri."
+                "Tersedia 5 Learning Path di program Studi Independen Infinite Learning yang mencakup Android Mobile Development & UIUX Designer, Web Development & UIUX Design, Game Development, Linux System Administration, dan Artificial Intelegent. Setiap path dirancang untuk memberikan keterampilan praktis yang dibutuhkan industri.",
+                "Studi Independen adalah program Kampus Merdeka yang memberikan kesempatan mahasiswa belajar langsung dari industri.",
+                "Program ini memungkinkan kamu belajar secara praktikal di perusahaan mitra.",
+                "Studi Independen memberikan pengalaman nyata yang tidak didapat dari kuliah biasa.",
+                "Kamu akan dibimbing oleh mentor profesional dari industri selama beberapa bulan.",
+                "Peserta Studi Independen bekerja dalam proyek yang merepresentasikan kebutuhan nyata di dunia kerja.",
+                "Studi Independen menjadi jembatan antara teori di kampus dan praktik di industri.",
+                "Program ini sangat cocok bagi mahasiswa yang ingin memperluas skill dan portofolio.",
+                "Melalui Studi Independen, kamu bisa terhubung dengan praktisi dan jejaring profesional.",
+                "Studi Independen berlangsung selama satu semester dan diakui sebagai bagian dari SKS.",
+                "Ini adalah cara bagus untuk menjelajahi karier sebelum lulus kuliah."
             ]
         },
         {
@@ -110,7 +200,17 @@
                 "Keuntungan apa yang ditawarkan oleh Studi Independen?",
                 "Apakah ada manfaat khusus dari program ini?",
                 "Bagaimana program ini dapat meningkatkan karir saya?",
-                "Apa nilai tambah dari mengikuti Studi Independen di sini?"
+                "Apa nilai tambah dari mengikuti Studi Independen di sini?",
+                "Apa keuntungan ikut program ini?",
+                "Apa saja manfaat dari program ini?",
+                "Program ini berguna untuk apa?",
+                "Apa yang akan saya dapat dari ikut program?",
+                "Program ini memberikan keuntungan apa?",
+                "Apa saja hal positif dari program ini?",
+                "Kenapa saya harus ikut program ini?",
+                "Program ini bermanfaat dalam hal apa?",
+                "Apa nilai tambah dari ikut program ini?",
+                "Apa saja keunggulan ikut program ini?"
             ],
             "responses": [
                 "Keuntungan mengikuti program ini termasuk konversi 20 SKS, 2 Sertifikat berupa Sertifikat Studi Independen dan Magang, portfolio project, dan networking.",
@@ -122,7 +222,17 @@
                 "Keikutsertaan dalam program ini memberi peserta konversi 20 SKS, dua sertifikat yang mengakui pencapaian di Studi Independen dan Magang, serta kesempatan untuk bekerja di perusahaan ternama dan membangun portfolio.",
                 "Program ini memberi peserta keuntungan seperti konversi 20 SKS, dua sertifikat (Studi Independen dan Magang), pengalaman magang di perusahaan besar, serta kesempatan membangun portfolio melalui proyek nyata.",
                 "Keuntungan mengikuti program Studi Independen adalah konversi 20 SKS, dua sertifikat, kesempatan magang di perusahaan besar, serta membangun portfolio yang relevan dengan industri.",
-                "Dengan mengikuti program ini, peserta akan mendapatkan konversi 20 SKS, dua sertifikat (Sertifikat Studi Independen dan Magang), pengalaman magang di perusahaan multinasional, serta kesempatan untuk membangun portofolio yang dapat dipublikasikan."
+                "Dengan mengikuti program ini, peserta akan mendapatkan konversi 20 SKS, dua sertifikat (Sertifikat Studi Independen dan Magang), pengalaman magang di perusahaan multinasional, serta kesempatan untuk membangun portofolio yang dapat dipublikasikan.",
+                "Kamu bisa memperluas koneksi dan relasi profesional di bidangmu.",
+                "Program ini menambah pengalaman praktikal yang bernilai di dunia kerja.",
+                "Kamu akan mendapatkan sertifikat resmi dari mitra industri.",
+                "Ada kesempatan untuk direkrut langsung oleh perusahaan mitra.",
+                "Kamu akan belajar teknologi dan tools yang digunakan secara nyata di industri.",
+                "Program ini membangun soft skill seperti komunikasi, kolaborasi, dan leadership.",
+                "Portofolio yang kamu bangun bisa digunakan untuk melamar kerja setelah lulus.",
+                "Kamu bisa mengubah cara berpikir dari akademik ke industri.",
+                "Program ini membuka wawasan karier dan bidang-bidang pekerjaan di masa depan.",
+                "Banyak peserta merasakan peningkatan kepercayaan diri dan kompetensi setelah mengikuti program ini."
             ]
         },
         {
@@ -137,7 +247,17 @@
                 "Apa yang harus saya siapkan untuk mendaftar Studi Independen?",
                 "Apakah pendaftaran Studi Independen bisa dilakukan secara online?",
                 "Adakah panduan khusus untuk mendaftar Studi Independen?",
-                "Apa yang perlu saya ketahui sebelum mendaftar Studi Independen?"
+                "Apa yang perlu saya ketahui sebelum mendaftar Studi Independen?",
+                "Kamu harus terdaftar sebagai mahasiswa aktif saat mendaftar.",
+                "Biasanya program ini terbuka untuk mahasiswa minimal semester 5.",
+                "Beberapa program meminta IPK minimal 2.75 atau 3.0.",
+                "Kamu perlu menyiapkan CV dan surat rekomendasi (jika diminta).",
+                "Pendaftaran dilakukan melalui platform Kampus Merdeka.",
+                "Kamu wajib membuat akun dan melengkapi profilmu di platform.",
+                "Pastikan tidak sedang mengambil program Kampus Merdeka lain di semester yang sama.",
+                "Beberapa program meminta kemampuan dasar tertentu, seperti coding atau desain.",
+                "Motivasi dan komitmen sangat penting dalam proses seleksi.",
+                "Periksa syarat tiap mitra program karena bisa berbeda-beda."
             ],
             "responses": [
                 "Jika kamu ingin mendaftar melalui program Kampus Merdeka, Silahkan Buka situs Kampus Merdeka, klik Program Studi Independen, cari \"Infinite Learning\" dan pilih program yang Kamu minati, kemudian unggah dokumen yang diperlukan di situs Kampus Merdeka, dan tunggu pengumuman final melalui email/WhatsApp. Jika ingin mendaftar melalui Kampus Merdeka Mandiri, kamu bisa mengunjungi link berikut : https://course.infinitelearning.id/course-category/kamdek-mandiri/",
@@ -149,7 +269,17 @@
                 "Untuk pendaftaran Kampus Merdeka, buka situs Kampus Merdeka, pilih Program Studi Independen, cari \"Infinite Learning\", pilih program yang kamu inginkan, unggah dokumen yang dibutuhkan, dan nantikan pengumuman final melalui email atau WhatsApp. Jika pendaftaran mandiri, akses link berikut: https://course.infinitelearning.id/course-category/kamdek-mandiri/",
                 "Buka situs Kampus Merdeka untuk mendaftar melalui Program Studi Independen, pilih \"Infinite Learning\", pilih program yang diminati, unggah dokumen yang diperlukan, dan tunggu pengumuman final via email atau WhatsApp. Jika mendaftar mandiri, gunakan link berikut: https://course.infinitelearning.id/course-category/kamdek-mandiri/",
                 "Untuk mengikuti program Kampus Merdeka, buka situs Kampus Merdeka, klik Program Studi Independen, cari \"Infinite Learning\", pilih program yang diinginkan, unggah dokumen yang diperlukan, dan nantikan pengumuman final via email/WhatsApp. Jika melalui Kampus Merdeka Mandiri, kunjungi link ini: https://course.infinitelearning.id/course-category/kamdek-mandiri/",
-                "Jika mendaftar melalui Kampus Merdeka, buka situs Kampus Merdeka, pilih Program Studi Independen, cari \"Infinite Learning\", pilih program yang diminati, unggah dokumen yang diperlukan, dan tunggu pengumuman final lewat email/WhatsApp. Untuk pendaftaran mandiri, klik link berikut: https://course.infinitelearning.id/course-category/kamdek-mandiri/"
+                "Jika mendaftar melalui Kampus Merdeka, buka situs Kampus Merdeka, pilih Program Studi Independen, cari \"Infinite Learning\", pilih program yang diminati, unggah dokumen yang diperlukan, dan tunggu pengumuman final lewat email/WhatsApp. Untuk pendaftaran mandiri, klik link berikut: https://course.infinitelearning.id/course-category/kamdek-mandiri/",
+                "Kamu harus terdaftar sebagai mahasiswa aktif saat mendaftar.",
+                "Biasanya program ini terbuka untuk mahasiswa minimal semester 5.",
+                "Beberapa program meminta IPK minimal 2.75 atau 3.0.",
+                "Kamu perlu menyiapkan CV dan surat rekomendasi (jika diminta).",
+                "Pendaftaran dilakukan melalui platform Kampus Merdeka.",
+                "Kamu wajib membuat akun dan melengkapi profilmu di platform.",
+                "Pastikan tidak sedang mengambil program Kampus Merdeka lain di semester yang sama.",
+                "Beberapa program meminta kemampuan dasar tertentu, seperti coding atau desain.",
+                "Motivasi dan komitmen sangat penting dalam proses seleksi.",
+                "Periksa syarat tiap mitra program karena bisa berbeda-beda."
             ]
         },
         {
@@ -162,7 +292,17 @@
                 "Berapa jam sehari sesi pembelajaran berlangsung?",
                 "Kapan waktu untuk pembelajaran diadakan?",
                 "Berapa lama durasi program Studi Independen setiap hari?",
-                "Bagaimana sesi pembelajaran dilakukan?"
+                "Bagaimana sesi pembelajaran dilakukan?",
+                "Apa saja fasilitas yang didapat dalam program ini?",
+                "Fasilitas apa yang tersedia selama program?",
+                "Apa saya akan dapat laptop atau tools lainnya?",
+                "Apakah ada akses ke software profesional?",
+                "Fasilitas apa saja yang disediakan untuk peserta?",
+                "Apakah dapat bimbingan mentor di program ini?",
+                "Apa saya akan dapat modul atau materi belajar?",
+                "Apakah semua peserta dapat sertifikat?",
+                "Apakah program ini memberikan uang saku?",
+                "Fasilitas pendukung apa saja yang bisa saya gunakan?"
             ],
             "responses": [
                 "Pembelajaran akan berlangsung Senin-Jumat, Sesi online dibagi menjadi 2 sesi yaitu pada pukul 09.00-12.00 WIB dan pada pukul 14.00-17.00 WIB. Pada hari Senin-Kamis pembelajaran terdiri dari Soft Skill & Hard Skill session, hands-on practice, mentoring, dan project work. Dan di hari Jumat diadakan Culture Week dan English Day.",
@@ -174,7 +314,17 @@
                 "Pembelajaran program ini dilaksanakan Senin sampai Jumat dengan dua sesi online: pukul 09.00-12.00 WIB dan 14.00-17.00 WIB. Pada hari Senin hingga Kamis, peserta mengikuti Soft Skill & Hard Skill session, hands-on practice, mentoring, dan project work. Hari Jumat khusus untuk Culture Week dan English Day.",
                 "Program pembelajaran berlangsung dari Senin hingga Jumat, dengan dua sesi online yaitu pukul 09.00-12.00 WIB dan 14.00-17.00 WIB. Senin sampai Kamis diisi dengan Soft Skill & Hard Skill session, hands-on practice, mentoring, dan project work. Pada hari Jumat, peserta akan mengikuti Culture Week dan English Day.",
                 "Pembelajaran dilaksanakan setiap Senin sampai Jumat, dengan dua sesi online: pukul 09.00-12.00 WIB dan 14.00-17.00 WIB. Pada hari Senin hingga Kamis, kegiatan meliputi Soft Skill & Hard Skill session, hands-on practice, mentoring, dan project work. Di hari Jumat, ada kegiatan Culture Week dan English Day.",
-                "Setiap minggu, pembelajaran berlangsung Senin hingga Jumat, dengan sesi online yang dibagi menjadi dua: pukul 09.00-12.00 WIB dan 14.00-17.00 WIB. Pada Senin hingga Kamis, peserta akan mengikuti Soft Skill & Hard Skill session, hands-on practice, mentoring, dan project work. Hari Jumat dikhususkan untuk Culture Week dan English Day."
+                "Setiap minggu, pembelajaran berlangsung Senin hingga Jumat, dengan sesi online yang dibagi menjadi dua: pukul 09.00-12.00 WIB dan 14.00-17.00 WIB. Pada Senin hingga Kamis, peserta akan mengikuti Soft Skill & Hard Skill session, hands-on practice, mentoring, dan project work. Hari Jumat dikhususkan untuk Culture Week dan English Day.",
+                "Kamu akan mendapatkan akses ke tools dan software profesional yang digunakan industri.",
+                "Peserta akan mendapatkan mentoring rutin dari praktisi berpengalaman.",
+                "Modul dan materi pembelajaran akan diberikan selama program berlangsung.",
+                "Beberapa program menyediakan uang saku atau insentif bagi peserta aktif.",
+                "Kamu bisa mengakses LMS untuk belajar secara mandiri.",
+                "Ada sesi konsultasi karier dan pengembangan diri selama program.",
+                "Kamu akan mendapat kesempatan ikut seminar dan workshop eksklusif.",
+                "Fasilitas project showcase akan membantumu memamerkan hasil kerja.",
+                "Kamu juga akan mendapat sertifikat kelulusan dari mitra program.",
+                "Beberapa program memberi fasilitas tambahan seperti akses workspace atau laptop (jika diperlukan)."
             ]
         },
         {
@@ -189,7 +339,17 @@
                 "Seperti apa pembagian materi di kelas Web Development?",
                 "Apa saja teknik yang dipelajari dalam kursus Web Development?",
                 "Apa yang akan dipelajari oleh peserta yang mengikuti program Web Development ini?",
-                "Bagaimana rincian materi yang diajarkan dalam pelatihan Web Development?"
+                "Bagaimana rincian materi yang diajarkan dalam pelatihan Web Development?",
+                "Kurikulum apa yang ditawarkan dalam program Web Development?",
+                "Apa saja pelajaran utama dalam Web Development?",
+                "Program Web Development membahas topik apa saja?",
+                "Hal apa saja yang diajarkan dalam kelas Web Development?",
+                "Apa keterampilan utama yang dikembangkan dalam program Web Development?",
+                "Apa isi materi dalam program Web Development ini?",
+                "Web Development mengajarkan apa saja?",
+                "Bagian apa saja yang ada dalam kurikulum Web Development?",
+                "Topik apa saja yang dibahas selama kelas Web Development?",
+                "Materi apa yang menjadi fokus dalam pelatihan Web Development?"
             ],
             "responses": [
                 "Kurikulum Web Development mencakup pembelajaran Hard Skill dan Soft Skill. Pada Hard Skill akan mempelajari Product Research, User Interface (UI) Design, Pengenalan Front End Development, Pengenalan Back End Development, Cloud Computing dan Cyber Security. Sedangkan untuk Soft Skill, terdapat Keterampilan Profesional Colaboratif, Communication, dan Adaptation, Project Management, dan Career Coaching",
@@ -201,7 +361,17 @@
                 "Dalam kelas Web Development, peserta mempelajari berbagai keterampilan teknis seperti Product Research, UI Design, dan pengembangan Front End dan Back End, serta keterampilan Soft Skill yang mencakup komunikasi, kolaborasi, adaptasi, manajemen proyek, dan pengembangan karir.",
                 "Program pelatihan Web Development meliputi Hard Skill dalam bidang Front End dan Back End Development, UI Design, Cloud Computing, dan Cyber Security, serta Soft Skill untuk membangun keterampilan dalam komunikasi, kolaborasi, adaptasi, manajemen proyek, dan coaching karir.",
                 "Kurikulum Web Development berfokus pada penguasaan Hard Skill seperti Product Research, Front End dan Back End Development, UI Design, serta Cloud Computing dan Cyber Security. Di samping itu, peserta juga akan mengembangkan Soft Skill dalam komunikasi, kolaborasi, adaptasi, manajemen proyek, dan persiapan karir.",
-                "Di program Web Development, peserta akan mempelajari materi Hard Skill yang meliputi UI Design, Front End dan Back End Development, serta Cloud Computing dan Cyber Security, serta Soft Skill yang akan membantu meningkatkan kemampuan komunikasi, kolaborasi, adaptasi, manajemen proyek, dan coaching karir."
+                "Di program Web Development, peserta akan mempelajari materi Hard Skill yang meliputi UI Design, Front End dan Back End Development, serta Cloud Computing dan Cyber Security, serta Soft Skill yang akan membantu meningkatkan kemampuan komunikasi, kolaborasi, adaptasi, manajemen proyek, dan coaching karir.",
+                "Pelatihan Web Development membekali peserta dengan kemampuan teknis seperti pengembangan antarmuka pengguna dan arsitektur backend serta keterampilan profesional yang relevan di dunia kerja.",
+                "Materi dalam Web Development terdiri dari pengenalan pemrograman sisi klien dan server, desain UI, serta penggunaan layanan cloud dan keamanan digital.",
+                "Program ini juga mengajarkan bagaimana mengelola proyek secara kolaboratif dan efektif menggunakan prinsip Agile serta kemampuan beradaptasi di dunia kerja digital.",
+                "Selain keterampilan teknis, peserta juga akan memahami bagaimana menyampaikan ide dengan baik dan membangun citra profesional dalam dunia teknologi.",
+                "Web Development mengintegrasikan pemahaman desain produk dengan implementasi teknologi front-end dan back-end modern.",
+                "Kurikulum ini mempersiapkan peserta untuk memahami siklus hidup pengembangan web dari riset produk hingga pengujian dan peluncuran.",
+                "Fokus pembelajaran juga mencakup penerapan praktik keamanan dasar dalam pengembangan aplikasi web.",
+                "Peserta akan mempelajari alur kerja pengembangan web secara kolaboratif dalam tim lintas disiplin.",
+                "Materi UI Design dan Cloud Computing menjadi penunjang utama dalam membangun aplikasi web yang skalabel dan user-friendly.",
+                "Pembelajaran Soft Skill dirancang agar peserta mampu menghadapi tantangan industri melalui komunikasi yang efektif dan adaptasi terhadap perubahan."
             ]
         },
         {
@@ -216,7 +386,17 @@
                 "Apa saja yang diperlukan untuk mendaftar program Web Development?",
                 "Persyaratan apa yang harus dipenuhi untuk mengikuti program Web Development?",
                 "Apa saja syarat teknis untuk program Web Development?",
-                "Apakah saya memenuhi syarat untuk Studi Independen Web Development?"
+                "Apakah saya memenuhi syarat untuk Studi Independen Web Development?",
+                "Apa saja syarat untuk belajar web development?",
+                "Saya butuh apa saja untuk mulai belajar web?",
+                "Apa kualifikasi minimal untuk masuk web development?",
+                "Apakah saya harus bisa HTML dulu?",
+                "Kalau belum pernah ngoding, boleh ikut track web?",
+                "Apakah harus menguasai JavaScript sebelum belajar web?",
+                "Syarat mengikuti kelas web apa aja?",
+                "Saya harus tahu front-end dulu ya?",
+                "Kalau background non-IT bisa ikut track web?",
+                "Apa tools yang perlu disiapkan untuk web development?"
             ],
             "responses": [
                 "Mahasiswa aktif minimal semester 4 untuk Program S1 atau semester 2 untuk Program D3/D4 dari semua jurusan (diutamakan jurusan IT, Desain Komunikasi Visual, dan Manajemen Bisnis), merupakan Warga Negara Indonesia yang sehat jasmani dan rohani, serta memiliki peralatan pendukung seperti laptop dengan spesifikasi minimum: OS 64-bit (Windows 8/10, MacOS 10.14 atau lebih tinggi, atau distribusi Linux 64-bit), prosesor x86_64 (Intel Core generasi ke-2 atau lebih baru atau AMD dengan dukungan virtualisasi), RAM 8 GB, dan penyimpanan minimal 8 GB (disarankan SSD).",
@@ -228,7 +408,17 @@
                 "Peserta harus mahasiswa aktif dari semua jurusan, dengan prioritas pada jurusan teknologi informasi atau desain, dan memiliki laptop dengan RAM minimal 8 GB dan penyimpanan minimal 8 GB (disarankan SSD).",
                 "Program Web Development mengharuskan mahasiswa aktif yang sehat secara jasmani dan rohani, dengan perangkat laptop ber-OS 64-bit dan prosesor x86_64 generasi terbaru.",
                 "Untuk memenuhi syarat, mahasiswa perlu memiliki laptop dengan spesifikasi minimum (OS Windows 8/10 atau MacOS 10.14, RAM 8 GB, penyimpanan 8 GB), serta status aktif di perguruan tinggi.",
-                "Mahasiswa aktif yang memenuhi kualifikasi ini juga harus memiliki perangkat Android untuk mendukung kegiatan belajar mengajar program Web Development."
+                "Mahasiswa aktif yang memenuhi kualifikasi ini juga harus memiliki perangkat Android untuk mendukung kegiatan belajar mengajar program Web Development.",
+                "Untuk mengikuti track Web Development, disarankan memahami dasar HTML, CSS, dan JavaScript.",
+                "Track Web dapat diikuti siapa saja, namun lebih baik jika kamu memiliki logika pemrograman dasar.",
+                "Kamu tidak wajib mahir, tapi pemahaman dasar HTML dan CSS akan sangat membantu.",
+                "Track ini cocok untuk pemula yang ingin mendalami dunia website.",
+                "Kamu bisa mulai meskipun belum punya pengalaman kerja di bidang IT.",
+                "Pastikan kamu punya semangat belajar dan komitmen ya!",
+                "Kami menyarankan kamu mencoba latihan dasar di platform seperti freeCodeCamp.",
+                "Tidak ada syarat formal, tapi kemampuan logika dasar sangat membantu.",
+                "Boleh banget dari jurusan non-IT, yang penting mau belajar dan eksplorasi.",
+                "Kamu butuh laptop, koneksi internet, dan semangat pantang menyerah!"
             ]
         },
         {
@@ -243,7 +433,17 @@
                 "Pelajaran apa yang akan didapatkan di kelas Mobile Development?",
                 "Apa kurikulum utama untuk program Mobile Development?",
                 "Kurikulum Mobile Development berisi topik apa saja?",
-                "Mobile Development mempelajari apa saja?"
+                "Mobile Development mempelajari apa saja?",
+                "Apa isi kurikulum untuk mobile development?",
+                "Apa aja yang diajarkan di track mobile?",
+                "Saya akan belajar apa saja di mobile track?",
+                "Apakah kurikulumnya pakai Kotlin atau Java?",
+                "Mobile development ngajarin Flutter gak?",
+                "Kurikulum mobile itu full Android atau ada iOS juga?",
+                "Apakah akan belajar membuat aplikasi dari nol?",
+                "Berapa lama belajar mobile di program ini?",
+                "Apakah ada project akhir di mobile track?",
+                "Materi mobile-nya update dengan tren terbaru gak?"
             ],
             "responses": [
                 "Kurikulum Mobile Development mencakup pembelajaran Hard Skill dan Soft Skill. Pada Hard Skill akan mempelajari Product Research, User Interface (UI) Design, Pemrograman Kotlin, Pemrograman Android, Advance Android Features, Cloud Computing dan Cyber Security. Sedangkan untuk Soft Skill, terdapat Keterampilan Profesional Colaboratif, Communication, dan Adaptation, Project Management, dan Career Coaching",
@@ -255,7 +455,17 @@
                 "Mobile Development mengajarkan Hard Skill seperti Product Research, UI Design, Kotlin Programming, Pemrograman Android, Advanced Android Features, serta dasar-dasar Cloud Computing dan Cyber Security. Untuk Soft Skill, peserta akan mempelajari manajemen proyek dan coaching karier.",
                 "Materi Mobile Development mencakup pembelajaran tentang Product Research, UI Design, Kotlin Programming, Android Development, Advanced Android Features, serta Cloud Computing dan Cyber Security. Soft Skill yang dilatih adalah keterampilan kolaborasi, adaptasi, dan komunikasi.",
                 "Kurikulum Mobile Development fokus pada Hard Skill seperti Product Research, UI Design, Pemrograman Kotlin dan Android, fitur Android tingkat lanjut, serta Cloud Computing dan Cyber Security. Soft Skill meliputi keterampilan profesional dalam kolaborasi, komunikasi, dan adaptasi.",
-                "Program ini mengajarkan Product Research, UI Design, Pemrograman Kotlin, Android Development, Advance Android Features, Cloud Computing, dan Cyber Security. Selain itu, peserta juga dilatih Soft Skill seperti kolaborasi, komunikasi, adaptasi, dan manajemen proyek."
+                "Program ini mengajarkan Product Research, UI Design, Pemrograman Kotlin, Android Development, Advance Android Features, Cloud Computing, dan Cyber Security. Selain itu, peserta juga dilatih Soft Skill seperti kolaborasi, komunikasi, adaptasi, dan manajemen proyek.",
+                "Kurikulum Mobile Development mencakup dasar Android dengan Kotlin, UI/UX, dan backend integration.",
+                "Kamu akan belajar membuat aplikasi Android dari nol hingga deploy ke Play Store.",
+                "Track ini fokus pada Android Native menggunakan Kotlin.",
+                "Di akhir program, kamu akan membuat capstone project berupa aplikasi nyata.",
+                "Kamu juga belajar penggunaan API, Firebase, dan arsitektur MVVM.",
+                "Materinya dirancang langsung oleh praktisi industri dan update dengan kebutuhan pasar.",
+                "Selain teknis, kamu juga akan diasah kemampuan soft skills dan kerja tim.",
+                "Program ini berlangsung selama 16 minggu dengan sesi intensif.",
+                "Kamu juga akan diberi simulasi kerja tim seperti di startup nyata.",
+                "Tidak hanya coding, kamu juga belajar debugging, testing, dan optimasi performa."
             ]
         },
         {
@@ -270,7 +480,17 @@
                 "Apa saja yang diperlukan untuk mendaftar program Mobile Development?",
                 "Persyaratan apa yang harus dipenuhi untuk mengikuti program Mobile Development?",
                 "Apa saja syarat teknis untuk program Mobile Development?",
-                "Apakah saya memenuhi syarat untuk Studi Independen Mobile Development?"
+                "Apakah saya memenuhi syarat untuk Studi Independen Mobile Development?",
+                "Syarat ikut track Mobile Development apa aja?",
+                "Harus bisa Kotlin dulu ya?",
+                "Kalau belum pernah ngoding, bisa ikut mobile?",
+                "Apa tools yang perlu disiapkan untuk track mobile?",
+                "Saya pakai laptop spek rendah, bisa ikut track mobile?",
+                "Kalau belum tahu Android Studio, boleh daftar?",
+                "Apakah harus punya pengalaman bikin aplikasi sebelumnya?",
+                "Track ini cocok untuk pemula atau yang udah expert?",
+                "Apakah iPhone bisa digunakan untuk track mobile?",
+                "Apakah harus tahu dasar Java juga?"
             ],
             "responses": [
                 "Mahasiswa aktif minimal semester 4 untuk Program S1 atau semester 2 untuk Program D3/D4 dari semua jurusan (diutamakan jurusan IT, Desain Komunikasi Visual, dan Manajemen Bisnis), merupakan Warga Negara Indonesia yang sehat jasmani dan rohani, memiliki smartphone berbasis Android, serta dilengkapi peralatan pendukung seperti laptop dengan spesifikasi minimum: OS 64-bit (Windows 8/10, MacOS 10.14 ke atas, atau distribusi Linux 64-bit), prosesor arsitektur x86_64 (Intel Core generasi ke-2 atau lebih baru, atau AMD dengan dukungan virtualisasi), RAM 8 GB (16 GB direkomendasikan), dan penyimpanan minimal 12 GB (SSD direkomendasikan).",
@@ -282,7 +502,17 @@
                 "Program ini membutuhkan peserta yang merupakan mahasiswa aktif (S1 minimal semester 4 atau D3/D4 minimal semester 2), WNI, sehat jasmani dan rohani, memiliki smartphone Android, serta laptop dengan spesifikasi yang mendukung kebutuhan pembelajaran.",
                 "Syarat utama untuk mengikuti Studi Independen Mobile Development meliputi status mahasiswa aktif (S1 semester 4 atau lebih tinggi, D3/D4 minimal semester 2), WNI, sehat jasmani dan rohani, serta memiliki perangkat seperti smartphone Android dan laptop dengan spesifikasi tertentu.",
                 "Peserta program harus mahasiswa aktif dengan minimal semester 4 untuk S1 atau semester 2 untuk D3/D4, WNI yang sehat jasmani dan rohani, memiliki perangkat Android, dan laptop dengan OS 64-bit, RAM 8 GB (direkomendasikan 16 GB), serta penyimpanan minimal 12 GB.",
-                "Mahasiswa dari semua jurusan dapat mendaftar, dengan prioritas pada IT, Desain Komunikasi Visual, dan Manajemen Bisnis. Selain itu, peserta harus memenuhi syarat kesehatan, memiliki perangkat Android, dan laptop dengan spesifikasi teknis tertentu yang mendukung pembelajaran."
+                "Mahasiswa dari semua jurusan dapat mendaftar, dengan prioritas pada IT, Desain Komunikasi Visual, dan Manajemen Bisnis. Selain itu, peserta harus memenuhi syarat kesehatan, memiliki perangkat Android, dan laptop dengan spesifikasi teknis tertentu yang mendukung pembelajaran.",
+                "Untuk track Mobile, disarankan familiar dengan dasar pemrograman.",
+                "Tidak wajib bisa Kotlin dulu, tapi logika pemrograman penting.",
+                "Kalau belum pernah ngoding, disarankan belajar logika dasar dulu.",
+                "Kamu perlu laptop dengan spesifikasi cukup untuk menjalankan Android Studio.",
+                "Android Studio cukup berat, pastikan RAM minimal 8GB jika memungkinkan.",
+                "Tidak harus expert, track ini cocok juga untuk kamu yang ingin belajar dari awal.",
+                "Jika kamu punya semangat dan mau belajar, kamu bisa ikut!",
+                "Tools utama yang digunakan adalah Android Studio dan emulator Android.",
+                "Kamu tidak wajib tahu Java, karena fokus utama di Kotlin.",
+                "Program ini cocok untuk mahasiswa yang ingin masuk ke dunia mobile app."
             ]
         },
         {
@@ -297,7 +527,17 @@
                 "Bagaimana Career Coaching membantu karir peserta?",
                 "Materi apa saja yang dipelajari di Career Coaching?",
                 "Apa tujuan dari Career Coaching?",
-                "Bagaimana proses Career Coaching dilakukan?"
+                "Bagaimana proses Career Coaching dilakukan?",
+                "Apa itu sesi career coaching?",
+                "Apakah saya akan dibantu cari kerja?",
+                "Apa manfaat career coaching?",
+                "Coach-nya siapa aja?",
+                "Apakah career coaching hanya untuk lulusan?",
+                "Kapan sesi coaching dilakukan?",
+                "Apakah saya bisa tanya soal CV di career coaching?",
+                "Career coaching membantu interview juga gak?",
+                "Apakah saya dapat konsultasi pribadi?",
+                "Apa bedanya career coaching dan mentoring?"
             ],
             "responses": [
                 "Peserta akan mempelajari teknik dan keterampilan wawancara, cara merancang CV yang efektif, serta membangun personal branding untuk mempersiapkan diri menuju jenjang karir. Dalam topik ini, peserta akan mendalami materi tentang CV & Interview dan Personal Branding. Sebagai bagian dari metode asesmen, peserta secara individu atau berkelompok akan membuat sebuah eksistensi digital melalui media sosial.",
@@ -309,7 +549,17 @@
                 "Peserta Career Coaching akan diberikan panduan untuk membuat CV yang menarik, mengasah kemampuan komunikasi saat wawancara, dan membangun kehadiran profesional di platform digital.",
                 "Career Coaching mencakup latihan untuk menciptakan personal branding yang sesuai dengan aspirasi karir peserta, didukung dengan asesmen melalui media sosial.",
                 "Dalam sesi Career Coaching, peserta akan belajar strategi untuk membedakan diri mereka di pasar kerja melalui personal branding dan wawancara yang terencana.",
-                "Proses Career Coaching melibatkan pembelajaran teknik wawancara, pembuatan CV, dan pengembangan citra profesional peserta melalui media sosial dan platform digital lainnya."
+                "Proses Career Coaching melibatkan pembelajaran teknik wawancara, pembuatan CV, dan pengembangan citra profesional peserta melalui media sosial dan platform digital lainnya.",
+                "Career coaching adalah sesi di mana kamu dibimbing mempersiapkan karier profesional.",
+                "Kamu akan mendapatkan arahan dari coach profesional dalam menyusun CV dan portofolio.",
+                "Sesi ini juga membantu kamu memahami posisi dan bidang yang cocok untukmu.",
+                "Kamu bisa bertanya soal interview, tips HRD, dan personal branding.",
+                "Coach-nya berasal dari industri dan sudah berpengalaman dalam rekrutmen.",
+                "Kamu akan belajar bagaimana membangun LinkedIn yang menarik HRD.",
+                "Ada sesi latihan interview langsung juga loh!",
+                "Career coaching terbuka bagi semua peserta, tidak hanya untuk lulusan.",
+                "Sesi dilakukan secara berkala selama program berlangsung.",
+                "Career coaching fokus ke arah persiapan kerja, berbeda dari mentoring yang fokus ke skill teknis."
             ]
         },
         {
@@ -324,7 +574,17 @@
                 "Bagaimana cara meningkatkan keterampilan kolaborasi, komunikasi, dan adaptasi?",
                 "Apa saja topik yang dipelajari dalam pengembangan keterampilan kolaborasi, komunikasi, dan adaptasi?",
                 "Apa tujuan utama dari pembelajaran keterampilan kolaborasi, komunikasi, dan adaptasi?",
-                "Metode apa yang digunakan untuk mengukur kemampuan Communication, Collaboration, dan Adaptation?"
+                "Metode apa yang digunakan untuk mengukur kemampuan Communication, Collaboration, dan Adaptation?",
+                "Kenapa penting menguasai skill komunikasi, kolaborasi, dan adaptasi di dunia kerja?",
+                "Keterampilan kolaborasi itu meliputi apa saja ya?",
+                "Apa bedanya komunikasi dan kolaborasi dalam kerja tim?",
+                "Keterampilan adaptasi itu diajarkan lewat materi apa?",
+                "Apa hubungan antara storytelling dan komunikasi yang efektif?",
+                "Gimana cara mengasah kemampuan public speaking dan pitching?",
+                "Topik apa yang biasanya dilatih dalam komunikasi profesional?",
+                "Keterampilan komunikasi yang diajarkan, apakah melibatkan feedback?",
+                "Bagaimana penerapan Developer Festival dalam latihan komunikasi dan kolaborasi?",
+                "Apakah semua peserta wajib presentasi dalam setiap modul pembelajaran ini?"
             ],
             "responses": [
                 "Pembelajaran ini bertujuan untuk mengembangkan keterampilan partisipan dalam berkomunikasi, berkolaborasi, dan beradaptasi dengan dinamika proyek di lapangan. Partisipan akan mempelajari topik seperti Introduction to CCA (Communication, Collaboration, Adaptive skills), Public Speaking, Presentation Skills, Presentation through Storytelling, Question Techniques, Pitching, serta berpartisipasi dalam Developer Festival. Sebagai bagian dari metode asesmen, setiap peserta, baik secara individu maupun berkelompok, akan menyampaikan presentasi pada setiap modul melalui pembuatan proyek.",
@@ -336,7 +596,17 @@
                 "Pengembangan keterampilan kolaborasi, komunikasi, dan adaptasi membantu partisipan untuk menjadi lebih fleksibel dan profesional dalam menghadapi tantangan di dunia kerja.",
                 "Tujuan pembelajaran ini adalah membekali partisipan dengan kemampuan untuk berkolaborasi secara produktif, berkomunikasi secara efektif, dan beradaptasi dengan cepat dalam dinamika proyek yang terus berubah.",
                 "Keterampilan Communication, Collaboration, dan Adaptation yang diajarkan melalui modul ini mencakup latihan praktis dan proyek yang meningkatkan profesionalisme partisipan.",
-                "Metode asesmen melibatkan presentasi pada setiap modul, di mana peserta membuat proyek yang menunjukkan kemampuan mereka dalam berkomunikasi, berkolaborasi, dan beradaptasi secara efektif."
+                "Metode asesmen melibatkan presentasi pada setiap modul, di mana peserta membuat proyek yang menunjukkan kemampuan mereka dalam berkomunikasi, berkolaborasi, dan beradaptasi secara efektif.",
+                "Kompetensi komunikasi dan kolaborasi yang diajarkan sangat berguna saat bekerja dalam tim lintas fungsi dan menghadapi perubahan target.",
+                "Sesi pitching dan storytelling melatih peserta untuk menyampaikan ide secara persuasif dan terstruktur di depan audiens.",
+                "Kegiatan presentasi rutin membuat peserta terbiasa tampil percaya diri dan menyampaikan informasi dengan jelas.",
+                "Dalam modul ini, peserta belajar mendengarkan secara aktif dan memberikan feedback membangun dalam diskusi tim.",
+                "Presentasi kelompok memberi pengalaman nyata dalam menyelaraskan peran, tanggung jawab, dan ide dari tiap anggota tim.",
+                "Public speaking dilatih secara intensif untuk membangun keberanian dan keterampilan menyampaikan gagasan secara profesional.",
+                "Melalui Developer Festival, peserta diuji untuk menunjukkan hasil kolaborasi dan komunikasi mereka ke publik.",
+                "Materi Question Techniques membantu peserta dalam berinteraksi secara efektif, termasuk saat bertanya dan menjawab.",
+                "Adaptasi dalam program ini juga dilatih melalui perubahan konteks studi kasus yang diberikan selama proses belajar.",
+                "Kemampuan menyampaikan ide melalui visualisasi dan bahasa yang jelas juga menjadi fokus dalam latihan komunikasi."
             ]
         },
         {
@@ -351,7 +621,17 @@
                 "Bagaimana metode asesmen dalam pembelajaran Project Management?",
                 "Apa manfaat mempelajari Project Management?",
                 "Apakah manajemen proyek mencakup leadership?",
-                "Bagaimana penerapan Agile (SCRUM) dalam program ini?"
+                "Bagaimana penerapan Agile (SCRUM) dalam program ini?",
+                "Apa keuntungan belajar manajemen proyek?",
+                "Bagaimana manajemen proyek membantu dalam dunia kerja?",
+                "Apa saja prinsip dasar dalam manajemen proyek?",
+                "Apa yang dimaksud dengan time management dalam proyek?",
+                "Bagaimana mengelola risiko dalam proyek?",
+                "Apa itu peran SCRUM Master dalam tim proyek?",
+                "Apakah ada simulasi proyek dalam pembelajaran ini?",
+                "Bagaimana hubungan antara leadership dan project management?",
+                "Bisakah kamu jelaskan pentingnya perencanaan dalam manajemen proyek?",
+                "Apakah program ini mengajarkan kolaborasi tim dalam proyek?"
             ],
             "responses": [
                 "Pembelajaran ini bertujuan untuk mengembangkan keterampilan peserta dalam memahami konsep dasar manajemen proyek menggunakan framework Agile (SCRUM), merencanakan proyek sederhana, mengantisipasi permasalahan yang sering muncul dalam implementasi proyek, serta membuat presentasi dan jadwal manajemen proyek secara sederhana. Peserta akan mempelajari topik seperti Project Management, Konsep Dasar Manajemen Proyek (SCRUM), Leadership, dan Perencanaan Tim & Proyek. Sebagai metode asesmen, peserta akan mempresentasikan sistem manajemen proyek mereka selama menyelesaikan setiap Project, dengan presentasi yang dilakukan saat Application Review.",
@@ -363,7 +643,17 @@
                 "Metode asesmen dilakukan dengan cara peserta mempresentasikan sistem manajemen proyek yang mereka rancang selama menyelesaikan setiap tantangan.",
                 "Manfaat mempelajari Project Management mencakup kemampuan mengelola proyek secara efektif, meningkatkan keterampilan leadership, dan memahami cara kerja tim.",
                 "Pembelajaran ini mencakup topik leadership yang bertujuan untuk meningkatkan kemampuan peserta dalam memimpin tim dan mengelola proyek.",
-                "Peserta akan belajar menerapkan Agile (SCRUM) dalam pengelolaan proyek untuk mencapai hasil yang lebih efisien dan responsif terhadap perubahan."
+                "Peserta akan belajar menerapkan Agile (SCRUM) dalam pengelolaan proyek untuk mencapai hasil yang lebih efisien dan responsif terhadap perubahan.",
+                "Manajemen proyek memberikan pemahaman tentang cara merencanakan, mengorganisasi, dan mengeksekusi proyek secara efisien menggunakan pendekatan yang terstruktur.",
+                "Peserta akan mempelajari teknik time management, pengelolaan risiko, dan komunikasi efektif dalam tim untuk memastikan proyek berjalan lancar.",
+                "Pembelajaran ini juga menekankan pentingnya peran SCRUM Master dalam menjaga ritme kerja tim dan menghilangkan hambatan selama siklus proyek.",
+                "Simulasi proyek akan diberikan untuk melatih peserta mengaplikasikan teori manajemen proyek ke dalam situasi nyata.",
+                "Leadership dalam project management berperan penting dalam mengarahkan tim dan memastikan semua anggota bekerja menuju tujuan bersama.",
+                "Materi perencanaan proyek mencakup penyusunan timeline, pembagian tugas, dan monitoring progres menggunakan tools seperti Gantt chart atau Trello.",
+                "Framework Agile (SCRUM) tidak hanya diajarkan, tetapi juga dipraktikkan langsung dalam proyek untuk membentuk keterampilan manajerial yang adaptif.",
+                "Peserta juga akan diajarkan bagaimana menyusun laporan kemajuan proyek dan mempresentasikan hasilnya kepada stakeholder.",
+                "Pembelajaran ini bertujuan membentuk pemimpin proyek yang tidak hanya paham teori, tetapi juga bisa memimpin tim secara praktis.",
+                "Melalui latihan berkelompok, peserta akan merasakan langsung dinamika kerja tim dan kolaborasi dalam menyelesaikan tantangan proyek."
             ]
         },
         {
@@ -378,7 +668,17 @@
                 "Apa itu Market Research dalam Product Research?",
                 "Mengapa Product Research penting untuk inovasi?",
                 "Bagaimana Product Research mendukung pengembangan solusi?",
-                "Apa metode asesmen dalam pembelajaran Product Research?"
+                "Apa metode asesmen dalam pembelajaran Product Research?",
+                "Apa peran riset produk dalam pengembangan bisnis?",
+                "Apa itu Unique Selling Point dalam Product Research?",
+                "Bagaimana cara menyusun analisis SWOT dalam riset produk?",
+                "Apa hubungan antara riset pasar dan kebutuhan pelanggan?",
+                "Bagaimana product research mendukung keputusan bisnis?",
+                "Apa tujuan dari membuat USP dalam strategi produk?",
+                "Bagaimana kompetitor memengaruhi strategi produk kita?",
+                "Apakah Product Research bisa digunakan dalam startup?",
+                "Apa itu strategi STP dan bagaimana penerapannya?",
+                "Mengapa pemahaman terhadap brand identity penting?"
             ],
             "responses": [
                 "Peserta akan mempelajari teknik riset produk untuk mengembangkan solusi dan inovasi melalui berbagai topik, termasuk Market Research (STP Process, Competitor Analysis, SWOT Analysis, USP), Competitive Analysis, Brand Identity, Copywriting, dan Business Model Canvas (BMC), dengan metode asesmen berupa analisis studi kasus dan presentasi kampanye pemasaran digital secara individu melalui media sosial.",
@@ -390,7 +690,17 @@
                 "Metode asesmen Product Research melibatkan presentasi kampanye pemasaran digital berdasarkan studi kasus yang dianalisis secara individu.",
                 "Product Research memberikan keterampilan analitis untuk memahami pasar dan pesaing, mendukung pengambilan keputusan yang lebih baik.",
                 "Peserta akan belajar menciptakan strategi pemasaran melalui USP dan Competitive Analysis untuk meningkatkan nilai produk di pasar.",
-                "Pembelajaran ini dirancang untuk membantu peserta mengintegrasikan riset produk ke dalam strategi pengembangan dan pemasaran yang inovatif."
+                "Pembelajaran ini dirancang untuk membantu peserta mengintegrasikan riset produk ke dalam strategi pengembangan dan pemasaran yang inovatif.",
+                "Riset produk membantu perusahaan memahami kebutuhan pelanggan dan menciptakan solusi yang sesuai dengan pasar.",
+                "Unique Selling Point (USP) didefinisikan untuk menunjukkan keunikan produk dibanding kompetitor dan memperkuat posisi di pasar.",
+                "Analisis SWOT memberikan gambaran tentang kekuatan, kelemahan, peluang, dan ancaman terhadap produk atau bisnis.",
+                "STP (Segmentasi, Targeting, Positioning) adalah strategi penting dalam memahami siapa target pelanggan dan bagaimana menjangkau mereka secara efektif.",
+                "Peserta belajar menyusun strategi bisnis berbasis data riset, agar keputusan yang diambil lebih tepat sasaran.",
+                "Brand identity yang kuat akan membantu konsumen mengenali produk dan membangun loyalitas terhadap brand.",
+                "Dalam konteks startup, riset produk menjadi langkah awal penting sebelum merancang MVP atau melakukan go-to-market.",
+                "Materi juga mencakup cara menyusun copywriting untuk memperkuat strategi pemasaran digital berdasarkan hasil riset.",
+                "Analisis kompetitor digunakan untuk mengidentifikasi keunggulan dan kelemahan pesaing, sebagai dasar untuk menyusun strategi diferensiasi produk.",
+                "Dengan pendekatan riset yang terstruktur, peserta dapat menghasilkan produk yang relevan dan bernilai bagi pasar."
             ]
         },
         {
@@ -405,7 +715,17 @@
                 "Apa itu Design Thinking dalam User Interface?",
                 "Mengapa Figma penting dalam desain User Interface?",
                 "Apa yang dimaksud dengan High-Fidelity dan Low-Fidelity dalam desain?",
-                "Bagaimana cara membuat portofolio desain User Interface?"
+                "Bagaimana cara membuat portofolio desain User Interface?",
+                "Apa hubungan antara UX dan UI dalam desain?",
+                "Bagaimana cara menggunakan teori warna dalam desain UI?",
+                "Apa peran tipografi dalam tampilan antarmuka?",
+                "Bagaimana membuat desain UI yang mobile-friendly?",
+                "Apa tools yang digunakan untuk membuat wireframe?",
+                "Mengapa penting memahami hierarchy dalam desain UI?",
+                "Bagaimana membuat logo yang sesuai dengan konsep UI?",
+                "Apa itu Design Handoff dan kenapa itu penting?",
+                "Bagaimana memastikan konsistensi dalam elemen UI?",
+                "Apa saja kesalahan umum dalam desain antarmuka?"
             ],
             "responses": [
                 "Sasaran pengembangan skill ini bertujuan untuk mempelajari proses User Interface Design, termasuk tren desain terkini, tata cara pembuatan desain, serta implementasi kebutuhan pengguna dalam bentuk visual, dengan topik yang meliputi pengenalan UIUX Design dan Figma, Design Thinking, prinsip desain, pembuatan logo dan ikon, serta berbagai teknik desain mulai dari Low-Fidelity hingga High-Fidelity, dengan fokus pada penerapan teori warna, tipografi, UI responsif, komponen, hingga kolaborasi dalam Design Handoff dan pembuatan portofolio desain, yang dinilai melalui kemampuan peserta dalam menerjemahkan kebutuhan pengguna ke dalam visual dan mensimulasikan prototipe secara individu atau berkelompok.",
@@ -417,7 +737,17 @@
                 "Dalam pembelajaran User Interface, peserta akan memahami bagaimana membuat desain antarmuka yang efektif dengan prinsip-prinsip dasar desain seperti keseimbangan, kontras, dan keterbacaan.",
                 "Figma adalah alat desain kolaboratif yang digunakan untuk membuat prototipe, wireframe, dan desain visual dengan mudah, memungkinkan tim bekerja bersama secara real-time.",
                 "Peserta akan belajar membangun desain dari konsep awal (Low-Fidelity) hingga produk akhir (High-Fidelity), memastikan desain memenuhi standar kualitas dan kebutuhan pengguna.",
-                "Sebagai bagian dari asesmen, peserta akan membuat portofolio desain yang mencerminkan keterampilan mereka dalam menerjemahkan konsep dan kebutuhan pengguna ke dalam solusi visual yang efektif."
+                "Sebagai bagian dari asesmen, peserta akan membuat portofolio desain yang mencerminkan keterampilan mereka dalam menerjemahkan konsep dan kebutuhan pengguna ke dalam solusi visual yang efektif.",
+                "UI berfokus pada tampilan visual dari produk digital, sementara UX mengutamakan pengalaman pengguna secara keseluruhan.",
+                "Penggunaan teori warna dalam UI bertujuan menciptakan harmoni visual, memandu pengguna, dan membangun identitas brand.",
+                "Tipografi memengaruhi keterbacaan dan kejelasan pesan dalam desain antarmuka, serta mendukung hirarki visual.",
+                "Desain UI yang responsif memastikan tampilan tetap optimal di berbagai perangkat, terutama pada perangkat mobile.",
+                "Peserta diajarkan membuat wireframe menggunakan tools seperti Figma untuk merancang struktur dasar antarmuka.",
+                "Hierarki visual membantu pengguna menavigasi konten secara intuitif, menyoroti elemen yang paling penting terlebih dahulu.",
+                "Pembuatan logo dan ikon disesuaikan dengan karakter brand agar tampilan UI lebih kohesif dan profesional.",
+                "Design Handoff adalah proses mentransfer desain ke tim pengembang dengan detail spesifikasi untuk memastikan implementasi yang akurat.",
+                "Konsistensi dalam elemen UI seperti tombol, ikon, dan warna membantu pengguna memahami pola interaksi dan meningkatkan pengalaman pengguna.",
+                "Peserta juga akan belajar menghindari kesalahan umum seperti overdesign, kurangnya kontras, dan navigasi yang membingungkan."
             ]
         },
         {
@@ -432,7 +762,17 @@
                 "Apa itu Design Thinking dalam konteks User Experience?",
                 "Bagaimana cara membuat persona pengguna dalam UX?",
                 "Apa yang dimaksud dengan Crazy 8's dalam UX?",
-                "Apa pentingnya Accessibility dalam User Experience?"
+                "Apa pentingnya Accessibility dalam User Experience?",
+                "Bagaimana UX Design membantu pengguna merasa nyaman?",
+                "Apa perbedaan antara UX dan UI?",
+                "Mengapa riset pengguna penting dalam UX?",
+                "Bagaimana membuat alur pengguna (user flow) yang baik?",
+                "Apa teknik testing dalam UX Design?",
+                "Apa manfaat menggunakan Design Thinking dalam UX?",
+                "Apa yang harus diperhatikan dalam UX Writing?",
+                "Bagaimana UX berdampak pada loyalitas pengguna?",
+                "Mengapa prototype penting dalam pengembangan UX?",
+                "Apa itu Gestalt Principles dalam UX?"
             ],
             "responses": [
                 "Sasaran pengembangan skill ini bertujuan agar peserta mencapai level intermediate hingga advance dalam riset User Experience dan User Experience Design, dengan kemampuan mendefinisikan permasalahan dan merancang solusi berdasarkan hasil riset, yang kemudian diimplementasikan dalam User Interface Design, melalui topik-topik seperti pengenalan metode UX, game engines untuk UX, Design Thinking (Empathize, Define, Ideate, Testing), pembuatan persona pengguna, serta teknik-teknik seperti Crazy 8's, Types of Flow, UX Writing, dan Accessibility & Gestalt, yang dinilai melalui kemampuan peserta dalam melakukan penelitian terhadap permasalahan pengguna, mendefinisikan kebutuhan, dan menciptakan solusi yang disajikan dalam proyek prototype mulai dari Low Fidelity hingga High Fidelity.",
@@ -444,7 +784,17 @@
                 "Design Thinking dalam UX melibatkan lima tahap: Empathize, Define, Ideate, Prototype, dan Testing, yang membantu peserta menciptakan solusi inovatif dan relevan untuk pengguna.",
                 "Pembuatan persona pengguna dalam UX membantu tim desain memahami lebih baik kebutuhan dan perilaku pengguna, serta menciptakan desain yang lebih sesuai dengan target audiens.",
                 "Crazy 8's adalah teknik brainstorming yang digunakan untuk menghasilkan banyak ide dalam waktu singkat, membantu tim desain mengembangkan solusi kreatif dan inovatif.",
-                "Aksesibilitas dalam UX penting untuk memastikan desain dapat digunakan oleh berbagai pengguna, termasuk mereka yang memiliki keterbatasan fisik atau kognitif, sehingga menciptakan pengalaman yang inklusif."
+                "Aksesibilitas dalam UX penting untuk memastikan desain dapat digunakan oleh berbagai pengguna, termasuk mereka yang memiliki keterbatasan fisik atau kognitif, sehingga menciptakan pengalaman yang inklusif.",
+                "UX Design membantu menciptakan produk yang mudah digunakan, intuitif, dan menyenangkan sehingga pengguna merasa nyaman dan puas.",
+                "UX berfokus pada pengalaman dan kenyamanan pengguna secara menyeluruh, sementara UI berhubungan dengan tampilan visual produk.",
+                "Riset pengguna penting untuk memahami perilaku, kebutuhan, dan tujuan pengguna agar solusi yang dibuat benar-benar relevan.",
+                "Alur pengguna dirancang agar perjalanan pengguna dalam aplikasi atau situs web terasa logis, efisien, dan tanpa hambatan.",
+                "Dalam UX Design, teknik seperti usability testing digunakan untuk menguji efektivitas desain sebelum diluncurkan.",
+                "Design Thinking mendorong pendekatan kreatif dan empatik untuk menciptakan solusi yang benar-benar sesuai dengan kebutuhan pengguna.",
+                "UX Writing fokus pada kejelasan dan ketepatan kata yang digunakan dalam antarmuka agar pengguna tidak bingung saat berinteraksi.",
+                "Desain UX yang baik meningkatkan kepuasan pengguna, yang pada akhirnya berdampak pada retensi dan loyalitas mereka terhadap produk.",
+                "Prototype memungkinkan tim menguji ide desain sebelum dikembangkan penuh, menghemat waktu dan biaya pengembangan.",
+                "Gestalt Principles dalam UX menjelaskan bagaimana pengguna memproses informasi visual, seperti kedekatan, kesamaan, dan kontinuitas untuk menciptakan pengalaman yang lebih terstruktur."
             ]
         },
         {
@@ -459,7 +809,17 @@
                 "Apa fungsi dari coroutine di Kotlin?",
                 "Mengapa Kotlin sering digunakan dalam pengembangan aplikasi Android?",
                 "Apa perbedaan Kotlin dengan bahasa pemrograman lainnya?",
-                "Apa saja fitur utama yang diajarkan dalam pembelajaran Kotlin?"
+                "Apa saja fitur utama yang diajarkan dalam pembelajaran Kotlin?",
+                "Apa keuntungan belajar Kotlin dibandingkan bahasa lain?",
+                "Kenapa Kotlin dipilih untuk pengembangan aplikasi Android?",
+                "Bagaimana struktur dasar sintaks Kotlin?",
+                "Seberapa penting coroutine dalam Kotlin?",
+                "Apa perbedaan antara class dan data class di Kotlin?",
+                "Bagaimana Kotlin menangani null safety?",
+                "Apa kegunaan lambda dalam bahasa Kotlin?",
+                "Kapan sebaiknya menggunakan collection di Kotlin?",
+                "Bagaimana cara kerja fungsi di Kotlin?",
+                "Apakah Kotlin mendukung pemrograman fungsional?"
             ],
             "responses": [
                 "Pembelajaran ini bertujuan agar peserta mampu menguasai bahasa pemrograman Kotlin dari level dasar hingga intermediate dengan mempelajari dasar-dasar pemrograman seperti variable, data type, array, if statement, fungsi, collection (set, list, map), control flow (if expression, when expression, loops), classes dan object, data class, lambda, coroutine, dan bekerja dengan Git (GitHub), yang akan diukur melalui Project kelompok berupa pengembangan aplikasi menggunakan Kotlin untuk kemudian dipresentasikan.",
@@ -471,7 +831,17 @@
                 "Peserta akan memahami cara kerja lambda untuk pemrograman fungsional dan belajar menerapkan coroutine dalam skenario aplikasi nyata.",
                 "Pembelajaran ini mencakup praktik langsung untuk mengembangkan aplikasi menggunakan Kotlin, di mana hasilnya akan dipresentasikan dalam bentuk proyek kelompok.",
                 "Peserta akan mendapatkan keterampilan bekerja dengan GitHub untuk version control, yang penting dalam pengembangan perangkat lunak modern.",
-                "Dengan mempelajari Kotlin, peserta akan siap untuk mengembangkan aplikasi berbasis Android menggunakan teknologi terkini dan metode coding yang efisien."
+                "Dengan mempelajari Kotlin, peserta akan siap untuk mengembangkan aplikasi berbasis Android menggunakan teknologi terkini dan metode coding yang efisien.",
+                "Kotlin memberikan pengalaman pengembangan yang modern dengan fitur seperti null safety, coroutine, dan sintaks yang lebih ringkas dibandingkan Java.",
+                "Penggunaan Kotlin di Android didorong oleh dukungan resmi Google dan kemampuannya menulis kode lebih bersih dan aman.",
+                "Sintaks dasar Kotlin sangat ramah bagi pemula karena mudah dibaca dan digunakan dalam berbagai konteks pemrograman.",
+                "Coroutine memungkinkan pengelolaan proses asynchronous dengan cara yang efisien dan bersih dalam Kotlin.",
+                "Class digunakan untuk struktur objek biasa, sementara data class cocok untuk objek yang hanya menyimpan data.",
+                "Null safety di Kotlin membantu mencegah error umum akibat null reference dengan menggunakan sistem tipe yang kuat.",
+                "Lambda di Kotlin memberikan cara singkat untuk mendeklarasikan fungsi anonim, sangat berguna dalam operasi koleksi.",
+                "Collection seperti List, Set, dan Map sangat berguna untuk mengelola data dengan cara yang efisien dan terstruktur.",
+                "Fungsi di Kotlin dapat ditulis dalam berbagai cara, termasuk menggunakan lambda untuk meningkatkan fleksibilitas kode.",
+                "Kotlin mendukung paradigma pemrograman fungsional, memungkinkan penggunaan fungsi sebagai parameter dan hasil."
             ]
         },
         {
@@ -486,7 +856,17 @@
                 "Apa saja keterampilan yang diperoleh dari Pemrograman Android?",
                 "Apa langkah awal dalam belajar Pemrograman Android?",
                 "Sampai mana materi yang akan dibahas pada Pemrograman Android?",
-                "Apa aplikasi yang bisa dibuat setelah mempelajari Pemrograman Android?"
+                "Apa aplikasi yang bisa dibuat setelah mempelajari Pemrograman Android?",
+                "Mengapa harus belajar Jetpack Compose?",
+                "Apa keunggulan Android Studio dalam pemrograman mobile?",
+                "Bagaimana Jetpack Compose mempermudah UI development?",
+                "Apakah pemula bisa belajar Android Programming?",
+                "Apa pentingnya memahami ViewModel dalam Android?",
+                "Bagaimana cara kerja Navigation di Compose?",
+                "Apa itu State Management dalam Compose?",
+                "Mengapa coroutine digunakan di Android Development?",
+                "Apa fungsi library Retrofit dalam aplikasi Android?",
+                "Bagaimana menyimpan data lokal di Android?"
             ],
             "responses": [
                 "Pembelajaran ini bertujuan agar peserta mampu membuat aplikasi menggunakan Android Studio pada tingkat dasar hingga intermediate dengan mempelajari komponen Jetpack Compose seperti Composable, Activity, Navigation, LazyList, Grids, Layouts, penggunaan coroutine seperti Side Effect, pengelolaan Style and Theme, library networking Retrofit dan JSON API, ViewModel, State, konsep Recomposition, dependensi dengan Hilt, serta local storage seperti SharedPreferences, File Storage, dan DataStore, yang akan diukur melalui tugas akhir berupa pembuatan aplikasi mobile secara berkelompok dan presentasi dalam dua tahap assessment akhir (Micro dan Massive Project) selama lima bulan.",
@@ -498,7 +878,17 @@
                 "Dengan belajar Pemrograman Android, peserta akan memahami penggunaan Jetpack Compose untuk membangun aplikasi, meliputi pengelolaan Layouts, ViewModel, State, dan Hilt, serta implementasi local storage seperti SharedPreferences dan DataStore, yang dievaluasi melalui proyek akhir secara berkelompok.",
                 "Peserta akan mendapatkan keterampilan membuat aplikasi Android menggunakan Android Studio dengan Jetpack Compose, mencakup konsep-konsep seperti Navigation, LazyList, ViewModel, State, dan library networking seperti Retrofit, dengan evaluasi melalui dua tahap penilaian proyek aplikasi.",
                 "Pembelajaran ini membantu peserta memahami penggunaan Jetpack Compose, coroutine, library Retrofit, JSON API, dan DataStore untuk membangun aplikasi Android yang efektif, dengan penilaian melalui proyek kelompok dalam dua tahap assessment akhir.",
-                "Peserta mempelajari pembuatan aplikasi mobile Android menggunakan Jetpack Compose, pengelolaan coroutine, pengaturan Style and Theme, dan integrasi library seperti Retrofit serta Hilt, dengan penilaian berupa pembuatan aplikasi kelompok yang dipresentasikan di assessment akhir."
+                "Peserta mempelajari pembuatan aplikasi mobile Android menggunakan Jetpack Compose, pengelolaan coroutine, pengaturan Style and Theme, dan integrasi library seperti Retrofit serta Hilt, dengan penilaian berupa pembuatan aplikasi kelompok yang dipresentasikan di assessment akhir.",
+                "Jetpack Compose menawarkan cara modern membangun UI dengan deklaratif, sehingga lebih efisien dan mudah dipelajari.",
+                "Android Studio adalah IDE resmi yang lengkap untuk mengembangkan aplikasi Android dengan fitur powerful dan integrasi langsung.",
+                "Dengan Jetpack Compose, UI dibangun menggunakan kode deklaratif yang mempercepat pengembangan dan mengurangi bug.",
+                "Pemula dapat dengan mudah memulai Android Programming karena dokumentasi dan komunitasnya sangat mendukung.",
+                "ViewModel penting dalam arsitektur Android karena membantu memisahkan data UI dari logic bisnis.",
+                "Navigation di Compose membantu mengelola perpindahan antar halaman secara terstruktur dan mudah.",
+                "State Management menjaga data tetap sinkron antara tampilan dan logika aplikasi dengan lebih efisien.",
+                "Coroutine membantu menjalankan proses di latar belakang seperti fetching data API tanpa mengganggu UI.",
+                "Retrofit digunakan untuk komunikasi dengan server melalui API secara efisien dalam aplikasi Android.",
+                "Data lokal dapat disimpan dengan berbagai cara seperti SharedPreferences, DataStore, atau file storage."
             ]
         },
         {
@@ -513,7 +903,17 @@
                 "Apa saja topik yang ada di Advance Android Features?",
                 "Apa tujuan belajar Advance Android Features?",
                 "Apa saja materi dalam Advance Android Development?",
-                "Apa itu fitur lanjutan Android dalam pembelajaran?"
+                "Apa itu fitur lanjutan Android dalam pembelajaran?",
+                "Bagaimana menggunakan SQLite di Android?",
+                "Apa manfaat Room dibandingkan SQLite biasa?",
+                "Bagaimana cara membuat animasi di Jetpack Compose?",
+                "Apa kegunaan Google Maps API di aplikasi mobile?",
+                "Bagaimana cara upload gambar ke server dari Android?",
+                "Apa itu layanan lokasi dan bagaimana menggunakannya?",
+                "Mengapa Firebase penting untuk aplikasi Android?",
+                "Bagaimana mengatur media player dalam aplikasi?",
+                "Apa tantangan dalam membuat fitur lanjutan Android?",
+                "Bagaimana cara melakukan pengujian aplikasi Android?"
             ],
             "responses": [
                 "Pembelajaran ini ini bertujuan agar peserta mampu menguasai pemrograman Android pada level advance dengan mempelajari penggunaan database SQLite dan Room, animasi di Jetpack Compose, pengelolaan media seperti audio, video, dan gambar hingga proses upload ke server, integrasi Google Maps API dan layanan lokasi, penggunaan layanan cloud Firebase, serta kemampuan melakukan pengujian aplikasi yang dirancang dengan desain Hi-Fi dari awal bersama tim, yang akan diukur melalui presentasi aplikasi berfitur advance yang dikembangkan secara berkelompok.",
@@ -525,7 +925,17 @@
                 "Advance Android Features mencakup pembelajaran tentang penggunaan database SQLite dan Room, animasi Jetpack Compose, pengelolaan media, integrasi Google Maps API, Firebase, serta pengujian aplikasi, dengan aplikasi Hi-Fi yang dikembangkan secara kolaboratif dalam tim.",
                 "Pembelajaran ini mencakup penggunaan database SQLite dan Room, pembuatan animasi Jetpack Compose, pengelolaan media, integrasi layanan lokasi dengan Google Maps API, Firebase, serta pengujian aplikasi, yang dipraktikkan melalui proyek kelompok aplikasi berfitur advance.",
                 "Dalam Advance Android Features, peserta akan mempelajari database SQLite dan Room, animasi Jetpack Compose, pengelolaan media, Google Maps API, Firebase, dan pengujian aplikasi, dengan presentasi aplikasi hasil pengembangan kelompok sebagai metode asesmen.",
-                "Pembelajaran ini melatih peserta dalam penguasaan fitur advance Android, termasuk database SQLite dan Room, animasi Jetpack Compose, media handling, Google Maps API, Firebase, serta pengujian aplikasi, dengan penilaian berbasis proyek kelompok aplikasi berdesain Hi-Fi."
+                "Pembelajaran ini melatih peserta dalam penguasaan fitur advance Android, termasuk database SQLite dan Room, animasi Jetpack Compose, media handling, Google Maps API, Firebase, serta pengujian aplikasi, dengan penilaian berbasis proyek kelompok aplikasi berdesain Hi-Fi.",
+                "SQLite digunakan untuk menyimpan data secara lokal dalam format database di perangkat Android.",
+                "Room adalah abstraksi modern untuk SQLite yang mengurangi boilerplate code dan meningkatkan keamanan tipe data.",
+                "Jetpack Compose memungkinkan pembuatan animasi dengan lebih mudah menggunakan API seperti animate*AsState.",
+                "Google Maps API menambahkan kemampuan peta dalam aplikasi, penting untuk navigasi dan penandaan lokasi.",
+                "Upload gambar ke server biasanya dilakukan dengan library seperti Retrofit dan multipart form data.",
+                "Layanan lokasi memungkinkan aplikasi mengetahui posisi pengguna, digunakan untuk fitur berbasis lokasi.",
+                "Firebase menyediakan berbagai layanan seperti otentikasi, database real-time, dan cloud messaging.",
+                "Android memungkinkan pemutaran media seperti musik dan video dengan komponen MediaPlayer.",
+                "Membuat fitur lanjutan seperti integrasi media atau lokasi membutuhkan penguasaan API dan arsitektur.",
+                "Pengujian aplikasi dilakukan dengan unit test dan instrumented test untuk memastikan aplikasi bekerja optimal."
             ]
         },
         {
@@ -539,7 +949,17 @@
                 "Apa saja fokus utama pembelajaran Cloud Computing?",
                 "Apa yang dipelajari dalam sesi Cloud Computing?",
                 "Bisakah Anda menjelaskan pembelajaran tentang Cloud Computing?",
-                "Apa tujuan dari pembelajaran Cloud Computing?"
+                "Apa tujuan dari pembelajaran Cloud Computing?",
+                "Apa kegunaan cloud computing dalam pengembangan aplikasi?",
+                "Apa itu AWS dan bagaimana cara kerjanya?",
+                "Mengapa penting belajar cloud computing?",
+                "Bagaimana cara deploy aplikasi ke cloud?",
+                "Apa itu EC2 dan fungsinya di AWS?",
+                "Apa saja jenis layanan di AWS?",
+                "Apa perbedaan cloud storage dan database?",
+                "Apa manfaat integrasi cloud untuk aplikasi mobile?",
+                "Bagaimana konsep scalability dalam cloud?",
+                "Apa itu serverless dan bagaimana penerapannya?"
             ],
             "responses": [
                 "Pembelajaran Cloud Computing bertujuan agar peserta memahami konsep dan terminologi cloud computing pada tahap beginner, termasuk cara kerja sistem cloud, pengenalan Amazon Web Services (AWS) sebagai salah satu penyedia layanan cloud, serta layanan-layanan utama yang sering digunakan untuk pengembangan aplikasi mobile, dengan metode asesmen berupa pembuatan dan presentasi tentang dasar-dasar konsep Cloud Computing.",
@@ -551,7 +971,17 @@
                 "Cloud Computing dalam program ini mencakup pengenalan AWS, layanan-layanan cloud utama, dan praktik integrasi dengan aplikasi mobile, yang dinilai melalui kemampuan peserta dalam merancang solusi berbasis cloud.",
                 "Peserta akan diajarkan dasar-dasar cloud computing, mulai dari pengenalan sistem hingga implementasi layanan AWS seperti storage dan database untuk mendukung aplikasi, dengan asesmen berupa pembuatan laporan dan presentasi.",
                 "Materi Cloud Computing mencakup pemahaman tentang teknologi cloud, pengenalan AWS sebagai platform, dan pengintegrasian layanan cloud untuk pengembangan aplikasi mobile, dengan tugas berupa presentasi proyek berbasis cloud.",
-                "Dalam pembelajaran ini, peserta akan memahami prinsip dasar cloud computing, mengenal layanan AWS, serta belajar mengaplikasikan konsep tersebut dalam pengembangan aplikasi mobile, yang akan dievaluasi melalui proyek kelompok."
+                "Dalam pembelajaran ini, peserta akan memahami prinsip dasar cloud computing, mengenal layanan AWS, serta belajar mengaplikasikan konsep tersebut dalam pengembangan aplikasi mobile, yang akan dievaluasi melalui proyek kelompok.",
+                "Cloud computing memungkinkan penyimpanan dan pengolahan data secara online, mendukung aplikasi modern yang fleksibel.",
+                "AWS (Amazon Web Services) adalah platform cloud yang menyediakan berbagai layanan seperti komputasi, penyimpanan, dan database.",
+                "Belajar cloud computing penting untuk memahami bagaimana aplikasi modern dikelola dan di-scale secara efisien.",
+                "Aplikasi dapat di-deploy ke cloud melalui layanan seperti AWS EC2 atau menggunakan container dan serverless functions.",
+                "EC2 adalah layanan komputasi dari AWS yang memungkinkan pengguna menjalankan server virtual untuk aplikasi mereka.",
+                "AWS memiliki layanan seperti EC2, S3, Lambda, RDS, dan banyak lagi untuk memenuhi kebutuhan pengembangan aplikasi.",
+                "Cloud storage seperti S3 digunakan untuk menyimpan file, sementara database seperti RDS untuk menyimpan data terstruktur.",
+                "Integrasi cloud membuat aplikasi mobile lebih scalable dan mudah dikelola tanpa infrastruktur fisik.",
+                "Scalability di cloud memungkinkan penyesuaian kapasitas secara otomatis berdasarkan permintaan pengguna.",
+                "Serverless computing memungkinkan kode dijalankan tanpa mengelola server, contohnya AWS Lambda."
             ]
         },
         {
@@ -566,7 +996,17 @@
                 "Bagaimana cara belajar Cyber Security di program ini?",
                 "Apa manfaat mempelajari Cyber Security?",
                 "Apakah Cyber Security penting untuk developer?",
-                "Apa saja yang akan dipelajari di kelas Cyber Security?"
+                "Apa saja yang akan dipelajari di kelas Cyber Security?",
+                "Apa risiko jika tidak memahami Cyber Security?",
+                "Bagaimana cara melindungi data pribadi secara digital?",
+                "Apa itu phishing dan bagaimana menghindarinya?",
+                "Apa dampak dari malware terhadap sistem?",
+                "Mengapa penting mengenali jenis serangan siber?",
+                "Apa langkah dasar untuk meningkatkan keamanan perangkat?",
+                "Apa itu enkripsi dan bagaimana fungsinya?",
+                "Apa yang dimaksud dengan biometrics dalam keamanan?",
+                "Bagaimana mengenali serangan berbasis rekayasa sosial?",
+                "Apa perbedaan firewall dan antivirus?"
             ],
             "responses": [
                 "Pembelajaran ini ini bertujuan agar peserta memahami konsep dasar Cyber Security pada tahap beginner, termasuk hacking, malware, firewalls, worms, phishing, encryption, biometrics, dan BYOD, dengan mempelajari kebutuhan keamanan siber, pentingnya melindungi data pribadi, dampak kelalaian terhadap keamanan, profil penyerang siber, jenis-jenis kerentanan perangkat lunak dan keras, teknik serangan, serta cara melindungi perangkat, jaringan, dan data, yang diukur melalui presentasi individu mengenai dasar-dasar Cyber Security yang dibagikan kepada peserta lain dan publik.",
@@ -578,7 +1018,17 @@
                 "Dalam pembelajaran ini, peserta akan mempelajari dasar-dasar hacking, malware, firewall, phishing, hingga teknik enkripsi dan biometrics untuk melindungi data serta perangkat mereka.",
                 "Peserta akan diajak memahami pentingnya keamanan data pribadi, ancaman seperti hacking, malware, dan phishing, serta bagaimana mengatasi kerentanan perangkat lunak dan keras melalui metode Cyber Security.",
                 "Pembelajaran ini menekankan perlunya perlindungan data melalui pengenalan konsep dasar Cyber Security, mulai dari hacking hingga teknik enkripsi, biometrics, dan BYOD untuk melindungi perangkat dan jaringan.",
-                "Melalui pembelajaran Cyber Security, peserta akan mendapatkan pemahaman tentang dasar-dasar keamanan digital, meliputi hacking, malware, firewall, dan cara menangani serangan siber dengan melindungi data dan perangkat."
+                "Melalui pembelajaran Cyber Security, peserta akan mendapatkan pemahaman tentang dasar-dasar keamanan digital, meliputi hacking, malware, firewall, dan cara menangani serangan siber dengan melindungi data dan perangkat.",
+                "Tanpa pemahaman Cyber Security, data pribadi rentan dicuri dan disalahgunakan oleh pihak tidak bertanggung jawab.",
+                "Data pribadi dapat dilindungi dengan menggunakan password kuat, autentikasi dua faktor, dan tidak membagikan informasi sembarangan.",
+                "Phishing adalah upaya penipuan lewat email atau link palsu, dapat dihindari dengan memverifikasi sumber informasi.",
+                "Malware bisa merusak sistem, mencuri data, atau membuat perangkat tidak bisa digunakan dengan normal.",
+                "Mengenali jenis serangan siber membantu kita mengambil langkah pencegahan yang sesuai dan efektif.",
+                "Langkah dasar seperti mengupdate software, menggunakan antivirus, dan menghindari jaringan publik tanpa VPN penting untuk keamanan.",
+                "Enkripsi mengubah data menjadi bentuk yang hanya bisa dibaca oleh pihak berwenang, penting untuk menjaga kerahasiaan.",
+                "Biometrics seperti sidik jari atau wajah digunakan untuk mengidentifikasi pengguna dengan lebih aman dibanding password.",
+                "Rekayasa sosial memanfaatkan psikologi untuk memanipulasi korban, contohnya adalah penipuan melalui telepon atau email.",
+                "Firewall mengontrol lalu lintas jaringan, sedangkan antivirus mendeteksi dan menghapus program jahat di perangkat."
             ]
         },
         {
@@ -593,7 +1043,17 @@
                 "Apa saja konsep dasar yang diajarkan dalam Front End?",
                 "Apa saja keterampilan yang akan dipelajari pada Front End Development?",
                 "Apa yang dimaksud dengan Front End dalam pembelajaran ini?",
-                "Bagaimana cara memulai belajar Front End Development?"
+                "Bagaimana cara memulai belajar Front End Development?",
+                "Apa yang dipelajari di kursus Front End Development ini?",
+                "Materi utama apa saja yang disediakan untuk belajar Front End?",
+                "Skill apa yang bisa saya kuasai setelah belajar Front End?",
+                "Front End Development itu belajar apa saja?",
+                "Apa yang akan saya pelajari tentang teknologi Front End?",
+                "Bagaimana proses belajar Front End di program ini?",
+                "Topik pembelajaran apa yang ada di Front End?",
+                "Apa saja teknologi Front End yang harus dipelajari?",
+                "Apa materi dasar yang diajarkan dalam Front End?",
+                "Apakah ada pembelajaran ReactJS dalam kursus Front End?"
             ],
             "responses": [
                 "Pembelajaran ini bertujuan agar peserta menguasai HTML dasar, CSS, Bootstrap, JavaScript, dan ReactJS, dengan mempelajari cara menggunakan masing-masing teknologi tersebut, yang akan diukur melalui presentasi proyek pada setiap modul, baik secara individu maupun berkelompok.",
@@ -605,7 +1065,17 @@
                 "Peserta akan belajar untuk mengembangkan antarmuka web menggunakan HTML, CSS, JavaScript, Bootstrap, dan ReactJS, serta menunjukkan hasilnya dalam bentuk presentasi proyek untuk setiap topik.",
                 "Pembelajaran ini mengajarkan keterampilan Front End development termasuk penggunaan HTML, CSS, JavaScript, Bootstrap, dan ReactJS, yang dievaluasi melalui presentasi proyek pada akhir setiap modul.",
                 "Dalam pembelajaran Front End, peserta akan mempelajari cara mengembangkan aplikasi web menggunakan HTML, CSS, JavaScript, Bootstrap, dan ReactJS, dengan proyek praktikum sebagai metode evaluasi.",
-                "Pembelajaran ini bertujuan untuk membekali peserta dengan keterampilan dalam HTML, CSS, JavaScript, Bootstrap, dan ReactJS, yang diukur melalui presentasi proyek di setiap tahap pembelajaran."
+                "Pembelajaran ini bertujuan untuk membekali peserta dengan keterampilan dalam HTML, CSS, JavaScript, Bootstrap, dan ReactJS, yang diukur melalui presentasi proyek di setiap tahap pembelajaran.",
+                "Kursus Front End ini meliputi HTML, CSS, Bootstrap, JavaScript, dan ReactJS, dengan fokus pada pembuatan antarmuka pengguna interaktif yang diukur lewat proyek akhir.",
+                "Peserta akan belajar dasar hingga lanjutan Front End Development, mulai dari HTML, CSS, JavaScript, hingga penerapan ReactJS dengan proyek sebagai penilaian.",
+                "Materi Front End mencakup teknologi web populer seperti HTML, CSS, Bootstrap, JavaScript, dan ReactJS, dengan evaluasi berbasis proyek praktis.",
+                "Dalam pembelajaran ini, peserta akan diajarkan membuat aplikasi web yang menarik dan responsif menggunakan berbagai teknologi Front End.",
+                "Kamu akan menguasai pemrograman Front End seperti HTML, CSS, JavaScript, dan framework ReactJS melalui berbagai proyek praktikum.",
+                "Pembelajaran Front End ini menyediakan materi lengkap dari dasar web hingga pengembangan aplikasi menggunakan ReactJS, dengan penilaian berupa presentasi proyek.",
+                "Program ini mengajarkan cara membangun antarmuka web yang interaktif dan responsif menggunakan HTML, CSS, JavaScript, Bootstrap, dan ReactJS.",
+                "Materi utama yang dipelajari meliputi HTML, CSS, JavaScript, Bootstrap, serta ReactJS yang sangat penting untuk Front End Developer.",
+                "Peserta akan mampu menguasai konsep dan teknik dasar sampai lanjutan Front End, termasuk penggunaan ReactJS untuk aplikasi web modern.",
+                "Kursus ini juga menekankan praktik pembuatan proyek nyata dengan teknologi Front End untuk memastikan pemahaman dan keterampilan peserta."
             ]
         },
         {
@@ -620,7 +1090,17 @@
                 "Bagaimana cara mengembangkan aplikasi dengan Back End?",
                 "Apa saja teknologi yang digunakan dalam Back End development?",
                 "Apa yang termasuk dalam materi Back End dalam pembelajaran ini?",
-                "Apa yang harus dipelajari untuk menjadi seorang Back End Developer?"
+                "Apa yang harus dipelajari untuk menjadi seorang Back End Developer?",
+                "Apa saja yang dipelajari dalam kursus Back End Development?",
+                "Bagaimana cara belajar Back End development di sini?",
+                "Teknologi apa yang dipakai untuk Back End pada kursus ini?",
+                "Apa saja skill penting untuk pengembangan Back End?",
+                "Materi Back End yang diajarkan apa saja?",
+                "Apa peran Node.js dalam pembelajaran Back End?",
+                "Bagaimana belajar membuat API di Back End?",
+                "Apa itu RestAPI dan bagaimana cara menggunakannya?",
+                "Apa yang harus saya kuasai untuk menjadi Back End Developer?",
+                "Bagaimana hubungan antara Front End dan Back End dalam aplikasi?"
             ],
             "responses": [
                 "Pembelajaran ini bertujuan agar peserta mampu menguasai penggunaan Node.js, RestAPI, API, dan Web Database, termasuk teknologi seperti Node.js, API, Database, dan ExpressJS, yang akan diukur melalui tugas akhir berupa pembuatan aplikasi web dengan ReactJS yang dipresentasikan secara berkelompok.",
@@ -632,7 +1112,17 @@
                 "Dalam Pembelajaran ini, peserta akan menguasai penggunaan Node.js untuk mengembangkan aplikasi backend dan menghubungkannya dengan frontend menggunakan API dan RestAPI. ExpressJS juga akan digunakan untuk membangun aplikasi web dan pengelolaan database.",
                 "Peserta akan memahami konsep dasar dan lanjutan dalam pengembangan aplikasi backend menggunakan Node.js, serta bagaimana menghubungkannya dengan frontend melalui penggunaan API dan RestAPI. Kursus ini juga mencakup penggunaan ExpressJS dan pengelolaan database untuk aplikasi yang efisien.",
                 "Pembelajaran ini berfokus pada pembuatan aplikasi backend menggunakan Node.js dan ExpressJS, serta penggunaan API untuk berinteraksi dengan frontend. Peserta juga akan mempelajari cara menyimpan dan mengelola data dengan database, yang akan diuji dalam pembuatan aplikasi web berbasis ReactJS.",
-                "Pembelajaran ini dirancang untuk mengajarkan peserta bagaimana menggunakan Node.js, API, RestAPI, dan ExpressJS untuk membangun aplikasi backend yang efisien. Pengelolaan database dan pembuatan aplikasi web dengan ReactJS akan menjadi fokus utama, yang diukur melalui tugas akhir pembuatan proyek aplikasi."
+                "Pembelajaran ini dirancang untuk mengajarkan peserta bagaimana menggunakan Node.js, API, RestAPI, dan ExpressJS untuk membangun aplikasi backend yang efisien. Pengelolaan database dan pembuatan aplikasi web dengan ReactJS akan menjadi fokus utama, yang diukur melalui tugas akhir pembuatan proyek aplikasi.",
+                "Pembelajaran Back End ini mengajarkan Node.js, API, RestAPI, ExpressJS, dan pengelolaan database, dengan proyek akhir sebagai evaluasi.",
+                "Peserta akan belajar cara membangun server aplikasi menggunakan Node.js dan ExpressJS, serta membuat API yang terhubung dengan database.",
+                "Kursus ini menekankan pengembangan aplikasi backend dengan teknologi Node.js dan implementasi API untuk komunikasi dengan frontend.",
+                "Materi Back End mencakup pemrograman server-side, pengelolaan database, serta pembuatan dan penggunaan API dan RestAPI.",
+                "Anda akan memahami konsep dasar dan lanjutan Back End, termasuk cara menggunakan ExpressJS untuk membuat server yang efisien.",
+                "Pembelajaran mencakup cara membangun backend yang scalable dan aman menggunakan Node.js, dengan evaluasi proyek nyata.",
+                "Di sini, peserta akan menguasai pembuatan API yang dapat diakses frontend serta pengelolaan database secara praktis.",
+                "Materi penting yang diajarkan termasuk Node.js, ExpressJS, API, RestAPI, serta teknik pengelolaan data pada backend.",
+                "Program ini mengajarkan Back End Development mulai dari dasar pembuatan server sampai integrasi dengan frontend menggunakan ReactJS.",
+                "Peserta juga akan belajar menerapkan RESTful API sebagai penghubung antara aplikasi frontend dan backend."
             ]
         },
         {
@@ -647,7 +1137,17 @@
                 "Apa saja yang dinilai dalam Micro Problem Project?",
                 "Apa perbedaan Micro Problem Project dengan Massive Problem Project?",
                 "Kenapa Micro Problem Project penting dalam pembelajaran?",
-                "Apa saja tahap-tahap dalam Micro Problem Project?"
+                "Apa saja tahap-tahap dalam Micro Problem Project?",
+                "Apa saja langkah dalam Micro Problem Project?",
+                "Mengapa Micro Problem Project penting untuk peserta?",
+                "Apa yang harus saya lakukan saat mengikuti Micro Problem Project?",
+                "Bagaimana cara menyelesaikan Micro Problem Project dengan baik?",
+                "Apa hasil akhir dari Micro Problem Project?",
+                "Siapa yang membimbing dalam Micro Problem Project?",
+                "Apa bedanya Micro Problem Project dengan proyek lain?",
+                "Apa kerangka kerja yang digunakan dalam Micro Problem Project?",
+                "Berapa lama durasi Micro Problem Project?",
+                "Bagaimana cara bergabung dalam Micro Problem Project?"
             ],
             "responses": [
                 "Micro Problem Project adalah tantangan berskala kecil selama 6 minggu yang bertujuan menghasilkan High Fidelity Prototype, dengan bimbingan mentor grup dan mentor personal, menggunakan kerangka kerja design thinking yang meliputi tahap research, problem, idea, prototype, dan test.",
@@ -659,7 +1159,17 @@
                 "Micro Problem Project memberikan kesempatan kepada peserta untuk mempraktikkan keterampilan desain mereka dalam proyek nyata dengan bimbingan mentor.",
                 "Micro Problem Project adalah bagian dari program yang berfokus pada pengembangan prototipe berkualitas tinggi melalui metode kolaboratif selama 6 minggu.",
                 "Peserta Micro Problem Project akan mengasah kemampuan mereka dalam memahami kebutuhan pengguna dan menciptakan solusi inovatif yang dituangkan dalam High Fidelity Prototype.",
-                "Micro Problem Project dirancang untuk memberikan pengalaman praktik yang terstruktur dalam pembuatan prototipe desain, melibatkan mentor personal, dan menggunakan pendekatan design thinking."
+                "Micro Problem Project dirancang untuk memberikan pengalaman praktik yang terstruktur dalam pembuatan prototipe desain, melibatkan mentor personal, dan menggunakan pendekatan design thinking.",
+                "Micro Problem Project adalah proyek 6 minggu untuk membuat prototipe berkualitas tinggi menggunakan metode design thinking dan bimbingan mentor.",
+                "Peserta akan belajar riset, identifikasi masalah, ideasi, pembuatan prototipe, dan pengujian solusi dalam proyek ini.",
+                "Proyek ini penting untuk mengasah kemampuan praktis peserta dalam menciptakan solusi desain yang inovatif dan terukur.",
+                "Dalam Micro Problem Project, kamu akan mendapatkan pendampingan intensif dari mentor untuk menghasilkan prototipe yang siap diuji.",
+                "Hasil dari Micro Problem Project berupa High Fidelity Prototype yang siap diuji dan dikembangkan lebih lanjut.",
+                "Micro Problem Project didukung mentor personal dan grup yang membimbing tiap tahapan sesuai framework design thinking.",
+                "Proyek ini berskala kecil tapi sangat fokus pada kualitas prototipe dan proses design thinking.",
+                "Framework design thinking menjadi landasan utama dalam pelaksanaan Micro Problem Project mulai dari research hingga test.",
+                "Micro Problem Project biasanya berlangsung selama 6 minggu dengan target prototipe fungsional.",
+                "Peserta bisa mengikuti Micro Problem Project sebagai bagian dari program yang menawarkan tantangan nyata untuk pengembangan skill desain."
             ]
         },
         {
@@ -674,7 +1184,17 @@
                 "Bagaimana proses Massive Problem Project berlangsung?",
                 "Berapa lama durasi Massive Problem Project?",
                 "Siapa yang membimbing dalam Massive Problem Project?",
-                "Apa hasil yang diharapkan dari Massive Problem Project?"
+                "Apa hasil yang diharapkan dari Massive Problem Project?",
+                "Apa saja yang dikerjakan di Massive Problem Project?",
+                "Berapa lama Massive Problem Project berlangsung?",
+                "Bagaimana cara kerja tim di Massive Problem Project?",
+                "Apa hasil utama Massive Problem Project?",
+                "Bagaimana metode SCRUM diterapkan dalam Massive Problem Project?",
+                "Apa keuntungan mengikuti Massive Problem Project?",
+                "Siapa saja yang terlibat dalam Massive Problem Project?",
+                "Apa saja tahapan dalam proyek Massive Problem?",
+                "Bagaimana kolaborasi antar program dalam Massive Problem Project?",
+                "Apa tujuan utama Massive Problem Project ini?"
             ],
             "responses": [
                 "Massive Problem Project adalah tantangan 10 minggu di mana peserta bersama kelompoknya mengembangkan solusi berupa produk digital seperti website dan aplikasi, untuk menyelesaikan masalah yang diangkat, yang melibatkan penelitian, wawancara dengan stakeholders, dan penggunaan jurnal, serta mengimplementasikan SCRUM dalam prosesnya. Proyek ini juga mencakup Collaboration Project, memberikan kesempatan bagi kelompok untuk berkolaborasi dengan program lain seperti Web Development, Mobile Development, dan Advance Artificial Intelligence (AAI), memungkinkan pertukaran pengetahuan dan pengalaman untuk menyelesaikan masalah kompleks. Proses pengerjaan menggunakan framework design thinking (research, problem, idea, prototype, dan test)",
@@ -686,7 +1206,17 @@
                 "Dalam Massive Problem Project, peserta bekerja dalam tim selama 10 minggu untuk mengembangkan solusi berupa aplikasi atau website yang dapat menyelesaikan masalah yang dihadapi. Proyek ini mencakup riset, wawancara dengan stakeholders, dan jurnal, dengan SCRUM diterapkan sebagai metode dalam proses pengembangan. Collaboration Project memungkinkan peserta berkolaborasi dengan tim Web Development, Mobile Development, dan Advanced Artificial Intelligence (AAI) untuk bertukar wawasan dalam menyelesaikan masalah kompleks. Semua tahapan dikerjakan dengan pendekatan design thinking (research, problem, idea, prototype, dan test).",
                 "Massive Problem Project adalah program 10 minggu yang mendorong peserta untuk mengembangkan produk digital, seperti aplikasi dan website, sebagai solusi untuk masalah yang ada. Proyek ini menggunakan riset, wawancara dengan stakeholders, serta jurnal dalam pengembangannya, dan menerapkan SCRUM dalam prosesnya. Selain itu, program Collaboration Project memberi kesempatan bagi peserta untuk bekerja sama dengan tim Web Development, Mobile Development, dan Advanced Artificial Intelligence (AAI) dalam menyelesaikan masalah kompleks. Framework design thinking diterapkan dalam pengembangan produk (research, problem, idea, prototype, dan test).",
                 "Peserta Massive Problem Project akan bekerja sama dalam kelompok untuk menciptakan aplikasi atau website yang menjadi solusi masalah dalam 10 minggu. Proyek ini melibatkan riset, wawancara dengan stakeholders, serta pemanfaatan jurnal, dan diterapkan SCRUM dalam setiap langkahnya. Collaboration Project memberi peserta kesempatan untuk berkolaborasi dengan tim lain, seperti Web Development, Mobile Development, dan Advanced Artificial Intelligence (AAI), untuk berbagi pengalaman dalam menyelesaikan masalah. Framework design thinking diterapkan dalam setiap tahap pengembangan produk (research, problem, idea, prototype, dan test).",
-                "Dalam Massive Problem Project, peserta akan menghabiskan 10 minggu untuk mengembangkan produk digital berupa aplikasi atau website, guna menyelesaikan masalah yang diangkat. Proses ini melibatkan riset, wawancara dengan stakeholders, dan pemanfaatan jurnal, dengan SCRUM diterapkan untuk mengelola proyek. Program Collaboration Project memberi kesempatan bagi peserta untuk bekerja bersama tim Web Development, Mobile Development, dan Advanced Artificial Intelligence (AAI), untuk mengatasi masalah yang lebih kompleks. Semua tahapan pengembangan produk dilakukan dengan menggunakan design thinking (research, problem, idea, prototype, dan test)."
+                "Dalam Massive Problem Project, peserta akan menghabiskan 10 minggu untuk mengembangkan produk digital berupa aplikasi atau website, guna menyelesaikan masalah yang diangkat. Proses ini melibatkan riset, wawancara dengan stakeholders, dan pemanfaatan jurnal, dengan SCRUM diterapkan untuk mengelola proyek. Program Collaboration Project memberi kesempatan bagi peserta untuk bekerja bersama tim Web Development, Mobile Development, dan Advanced Artificial Intelligence (AAI), untuk mengatasi masalah yang lebih kompleks. Semua tahapan pengembangan produk dilakukan dengan menggunakan design thinking (research, problem, idea, prototype, dan test).",
+                "Massive Problem Project berlangsung 10 minggu, dimana peserta membuat solusi digital lengkap seperti aplikasi atau website untuk menyelesaikan masalah nyata.",
+                "Peserta bekerja dalam tim menggunakan metode SCRUM dan design thinking untuk mengelola dan mengembangkan produk digital.",
+                "Kolaborasi antar tim dari berbagai program seperti Web, Mobile, dan AI memungkinkan berbagi pengetahuan dan penyelesaian masalah kompleks.",
+                "Tujuan utama Massive Problem Project adalah menghasilkan produk digital yang dapat memberikan solusi nyata terhadap masalah yang diangkat.",
+                "Seluruh proses dilakukan secara iteratif dengan tahapan research, problem identification, ideation, prototyping, dan testing.",
+                "Proyek ini juga memberikan pengalaman bekerja secara tim dalam lingkungan yang mirip industri teknologi digital.",
+                "Peserta didampingi mentor dan fasilitator untuk memastikan proses pengembangan berjalan efektif dan sesuai target.",
+                "Metode SCRUM membantu peserta dalam mengelola tugas dan progres proyek secara terstruktur.",
+                "Massive Problem Project menggabungkan aspek riset, wawancara dengan stakeholder, dan pemanfaatan jurnal sebagai dasar solusi.",
+                "Dengan mengikuti proyek ini, peserta siap menghadapi tantangan kerja kolaboratif dalam pengembangan produk digital."
             ]
         },
         {
@@ -701,7 +1231,17 @@
                 "Bagaimana pengertian TRIBE dijelaskan?",
                 "Dapatkah Anda menjelaskan konsep TRIBE?",
                 "Apa yang dimaksud istilah TRIBE secara umum?",
-                "TRIBE merujuk pada apa?"
+                "TRIBE merujuk pada apa?",
+                "Bagaimana cara menjadi bagian dari TRIBE?",
+                "Apa peran TRIBE dalam program MSIB?",
+                "Berapa jumlah anggota dalam TRIBE tiap mitra?",
+                "Apa manfaat bergabung di TRIBE?",
+                "Bagaimana TRIBE mendukung peserta program?",
+                "Apa aktivitas yang dilakukan oleh TRIBE?",
+                "Siapa yang memilih anggota TRIBE?",
+                "Apa hubungan TRIBE dengan tim MSIB?",
+                "Bagaimana TRIBE membantu pengembangan soft skill?",
+                "Apa tujuan utama TRIBE dibentuk?"
             ],
             "responses": [
                 "TRIBE adalah perwakilan mahasiswa yang dipilih dari setiap mitra, di mana setiap mitra mengirimkan dua peserta untuk menjadi bagian dari TRIBE. Peran utama TRIBE adalah sebagai jembatan komunikasi antara tim MSIB dengan peserta yang mengikuti program magang atau Studi Independen di mitra. Selain itu, TRIBE juga mengikuti berbagai kegiatan yang dirancang untuk mengembangkan soft skill mereka, dengan harapan kemampuan tersebut dapat dimanfaatkan untuk mendukung mahasiswa lain dalam menjalankan program MSIB di mitra masing-masing.",
@@ -713,7 +1253,17 @@
                 "Melalui TRIBE, dua mahasiswa dari setiap mitra berperan aktif sebagai jembatan komunikasi antara peserta program dan tim MSIB.",
                 "Anggota TRIBE, yang dipilih dari mahasiswa tiap mitra, bertugas menjembatani peserta program dengan tim MSIB, sekaligus mengembangkan soft skill mereka.",
                 "TRIBE adalah perwakilan dari mahasiswa mitra yang berfungsi memfasilitasi komunikasi antara tim MSIB dengan mahasiswa peserta program.",
-                "Sebagai penghubung, TRIBE terdiri dari dua mahasiswa per mitra yang membantu memperlancar komunikasi antara peserta magang atau Studi Independen dan tim MSIB."
+                "Sebagai penghubung, TRIBE terdiri dari dua mahasiswa per mitra yang membantu memperlancar komunikasi antara peserta magang atau Studi Independen dan tim MSIB.",
+                "TRIBE merupakan perwakilan mahasiswa dari tiap mitra yang dipilih untuk menjadi penghubung antara peserta dan tim MSIB.",
+                "Peran TRIBE adalah membantu komunikasi dan koordinasi agar program berjalan lancar serta mendukung peserta di mitra masing-masing.",
+                "Setiap mitra memilih dua mahasiswa untuk menjadi anggota TRIBE yang aktif dalam berbagai kegiatan program.",
+                "Dengan bergabung di TRIBE, mahasiswa dapat mengembangkan kemampuan komunikasi dan kepemimpinan.",
+                "TRIBE berperan sebagai mediator informasi antara peserta program dan tim MSIB agar semua pihak terhubung.",
+                "Aktivitas TRIBE meliputi pengorganisasian acara, penyebaran informasi, dan monitoring kegiatan peserta.",
+                "Pemilihan anggota TRIBE dilakukan oleh mitra program berdasarkan kriteria tertentu seperti kemampuan komunikasi dan komitmen.",
+                "TRIBE membantu memastikan peserta mendapatkan dukungan penuh selama menjalani program MSIB.",
+                "Melalui TRIBE, peserta juga dapat memperluas jaringan sosial dan profesional selama program.",
+                "Tujuan TRIBE adalah memfasilitasi koordinasi serta meningkatkan kualitas pengalaman belajar peserta di MSIB."
             ]
         },
         {
@@ -728,7 +1278,17 @@
                 "Bagaimana cara registrasi dan akses ke LMS?",
                 "Apa saja yang diperlukan untuk bisa mengakses LMS?",
                 "Bagaimana cara masuk ke sistem LMS?",
-                "Apa proses untuk memperoleh akses ke LMS?"
+                "Apa proses untuk memperoleh akses ke LMS?",
+                "Bagaimana cara akses LMS MSIB?",
+                "Apa kegunaan LMS dalam program MSIB?",
+                "Apakah materi program tersedia di LMS?",
+                "Bagaimana cara mengerjakan tugas lewat LMS?",
+                "Apa fitur utama LMS yang digunakan?",
+                "Apakah LMS bisa diakses lewat HP?",
+                "Bagaimana cara cek progress belajar di LMS?",
+                "Apakah LMS menyediakan forum diskusi?",
+                "Bagaimana cara mengunduh materi dari LMS?",
+                "Apakah ada batas waktu mengerjakan tugas di LMS?"
             ],
             "responses": [
                 "Kamu bakal dapat email khusus dari Infinite Learning, lengkap sama password-nya, jadi bisa langsung login ke LMS.",
@@ -740,7 +1300,17 @@
                 "Nanti Infinite Learning kasih akses ke LMS lewat email dan password yang bakal mereka kirim ke kamu.",
                 "Buat akses LMS, kamu tinggal tunggu email dari Infinite Learning yang isinya login details.",
                 "Kamu cukup pakai email dan password dari Infinite Learning buat login ke LMS.",
-                "Infinite Learning bakal kasih semua informasi login, jadi kamu bisa langsung akses LMS tanpa ribet."
+                "Infinite Learning bakal kasih semua informasi login, jadi kamu bisa langsung akses LMS tanpa ribet.",
+                "LMS MSIB adalah platform digital untuk mengakses materi pembelajaran, tugas, dan jadwal program secara mudah.",
+                "Peserta dapat mengerjakan tugas, mengikuti quiz, dan melihat perkembangan belajar melalui LMS.",
+                "Semua materi pembelajaran program disediakan lengkap di LMS agar bisa diakses kapan saja.",
+                "LMS juga menyediakan fitur forum diskusi untuk komunikasi antar peserta dan mentor.",
+                "Platform LMS dapat diakses melalui perangkat komputer maupun ponsel dengan koneksi internet.",
+                "Melalui LMS, peserta dapat memantau progress belajar dan hasil penilaian tugas secara real-time.",
+                "LMS memudahkan peserta mengumpulkan tugas dan mengikuti ujian online.",
+                "Fitur reminder di LMS membantu peserta mengingat jadwal penting program.",
+                "Peserta juga dapat mengunduh materi untuk dipelajari secara offline melalui LMS.",
+                "Batas waktu pengumpulan tugas biasanya tercantum jelas di LMS untuk membantu manajemen waktu peserta."
             ]
         },
         {
@@ -755,7 +1325,17 @@
                 "Bagaimana langkah-langkah untuk mengisi logbook?",
                 "Apa yang perlu diperhatikan saat mengisi logbook?",
                 "Apa saja hal penting yang harus dicantumkan di logbook?",
-                "Bagaimana cara memastikan pengisian logbook sesuai ketentuan?"
+                "Bagaimana cara memastikan pengisian logbook sesuai ketentuan?",
+                "Bagaimana prosedur pengisian logbook yang benar?",
+                "Apa saja hal yang wajib ditulis di logbook bulanan?",
+                "Bagaimana cara mengisi logbook dengan baik dan benar?",
+                "Apa saja aturan penting dalam membuat logbook bulanan?",
+                "Bisa jelaskan cara mengisi logbook yang tepat?",
+                "Bagaimana supaya logbook bulanan bisa diterima dengan baik?",
+                "Apa saja detail yang harus ada dalam logbook bulanan?",
+                "Bagaimana format standar untuk pengisian logbook bulanan?",
+                "Apa tips supaya logbook bisa diisi dengan benar?",
+                "Bagaimana cara mencatat kegiatan dengan tepat di logbook?"
             ],
             "responses": [
                 "Isi logbook bulanan dengan menjawab setiap poin yang diminta, minimal panjangnya 200 kata ya.",
@@ -767,7 +1347,17 @@
                 "Isi logbook dengan menuliskan jawaban yang detail untuk setiap poin, cukup 200 kata atau lebih biar pas.",
                 "Kamu cukup menjawab poin-poin di logbook dengan jelas dan lengkap, 200 kata per laporan sudah cukup.",
                 "Pastikan kamu menuliskan jawaban untuk setiap poin di logbook, minimalnya sih 200 kata per laporan.",
-                "Jawab semua poin di logbook bulanan dengan detail, jangan lupa panjangnya minimal 200 kata ya."
+                "Jawab semua poin di logbook bulanan dengan detail, jangan lupa panjangnya minimal 200 kata ya.",
+                "Lengkapi logbook dengan menjawab seluruh pertanyaan secara jelas, minimal 200 kata tiap laporan.",
+                "Jangan lupa menulis di logbook dengan detail tiap poin, sekitar 200 kata agar lengkap dan informatif.",
+                "Pastikan semua bagian di logbook diisi dengan jawaban yang lengkap dan minimal 200 kata tiap bulan.",
+                "Isi logbook secara teliti dan jawab tiap poin dengan jelas, minimal 200 kata supaya lengkap.",
+                "Tuliskan jawaban yang jelas dan padat untuk tiap poin di logbook, usahakan sekitar 200 kata ya.",
+                "Pengisian logbook harus lengkap dengan jawaban tiap poin, minimal 200 kata agar informatif.",
+                "Pastikan setiap pertanyaan di logbook terjawab dengan baik, sekitar 200 kata untuk tiap laporan.",
+                "Jawaban dalam logbook sebaiknya detail dan lengkap, sekitar 200 kata untuk tiap bagian yang ada.",
+                "Isi logbook bulanan dengan memperhatikan semua poin dan panjang minimal 200 kata setiap laporan.",
+                "Berikan jawaban rinci dan jelas di logbook untuk tiap poin, minimal 200 kata per laporan ya."
             ]
         },
         {
@@ -782,7 +1372,17 @@
                 "Apa yang perlu disiapkan untuk menghadapi final Micro Challenge?",
                 "Hal apa yang penting untuk dipersiapkan pada final Micro Challenge?",
                 "Apa saja yang wajib disiapkan saat final Micro Challenge?",
-                "Persiapan apa yang harus dilakukan untuk mengikuti final Micro Challenge?"
+                "Persiapan apa yang harus dilakukan untuk mengikuti final Micro Challenge?",
+                "Bagaimana cara mempersiapkan diri untuk final Micro Challenge?",
+                "Apa saja dokumen yang harus disiapkan untuk final Micro Challenge?",
+                "Hal penting apa yang harus diperhatikan sebelum final Micro Challenge?",
+                "Apa yang harus dibawa saat mengikuti final Micro Challenge?",
+                "Bagaimana supaya siap menghadapi final Micro Challenge dengan baik?",
+                "Apa tips untuk persiapan final Micro Challenge agar sukses?",
+                "Apa saja komponen penting yang harus disiapkan untuk final Micro Challenge?",
+                "Langkah apa yang harus dilakukan agar siap saat final Micro Challenge?",
+                "Bagaimana mempersiapkan presentasi untuk final Micro Challenge?",
+                "Apa hal-hal utama yang harus dipersiapkan untuk final Micro Challenge?"
             ],
             "responses": [
                 "Untuk Final Micro Challenge, pastikan kamu menyiapkan bahan presentasi yang mencakup riset produk, minimal 3 halaman MVP Wireframe, dan PowerPoint yang menarik. Jangan lupa isi form retro yang telah diberikan mentor, nyalakan kamera, dan pastikan koneksi internetmu stabil. Percaya diri saat menjawab pertanyaan ya!",
@@ -794,7 +1394,17 @@
                 "Untuk Final Micro Challenge, siapkan bahan presentasi yang detail, wireframe minimal 3 halaman, PowerPoint yang menarik, dan form retro yang sudah diisi. Pastikan kamera on dan koneksi lancar agar presentasimu berjalan mulus.",
                 "Persiapan Final Micro Challenge mencakup bahan presentasi riset produk, wireframe minimal 3 halaman, PowerPoint keren, dan form retro yang sudah diisi. Jangan lupa nyalakan kamera, pastikan internetmu stabil, dan tampil percaya diri ya!",
                 "Sebelum Final Micro Challenge, pastikan kamu menyiapkan riset produk, wireframe minimal 3 halaman, dan PowerPoint yang rapi. Isi form retro dari mentor, cek koneksi internetmu, dan siapkan diri untuk menjawab pertanyaan dengan profesional.",
-                "Untuk sukses di Final Micro Challenge, kamu perlu menyiapkan bahan presentasi riset produk, wireframe 3 halaman, PowerPoint yang menarik, dan jangan lupa isi form retro dari mentor. Nyalakan kamera, cek koneksi, dan yakinlah pada kemampuanmu!"
+                "Untuk sukses di Final Micro Challenge, kamu perlu menyiapkan bahan presentasi riset produk, wireframe 3 halaman, PowerPoint yang menarik, dan jangan lupa isi form retro dari mentor. Nyalakan kamera, cek koneksi, dan yakinlah pada kemampuanmu!",
+                "Pastikan kamu sudah mempersiapkan bahan presentasi lengkap dengan riset produk dan wireframe minimal 3 halaman untuk Final Micro Challenge.",
+                "Siapkan PowerPoint yang menarik dan informatif serta isi form retro sebelum mengikuti Final Micro Challenge.",
+                "Jangan lupa cek koneksi internet dan nyalakan kamera agar presentasi di Final Micro Challenge berjalan lancar.",
+                "Latih diri untuk menjawab pertanyaan mentor dengan percaya diri saat Final Micro Challenge berlangsung.",
+                "Susun presentasi dengan urutan yang jelas mulai dari riset produk hingga demo MVP untuk Final Micro Challenge.",
+                "Perhatikan semua detail bahan presentasi agar tidak ada yang terlewat saat Final Micro Challenge.",
+                "Gunakan desain PowerPoint yang menarik supaya presentasi Final Micro Challenge makin maksimal.",
+                "Pastikan kamu sudah memahami riset produk dan wireframe sebelum presentasi Final Micro Challenge.",
+                "Buat catatan penting sebagai bahan jawaban jika ada pertanyaan saat Final Micro Challenge.",
+                "Siapkan mental dan penampilan terbaik untuk tampil percaya diri di Final Micro Challenge."
             ]
         },
         {
@@ -809,7 +1419,17 @@
                 "Bagaimana mekanisme penukaran sesi?",
                 "Apa syarat untuk melakukan tukar sesi?",
                 "Bagaimana jika saya ingin melakukan tukar sesi?",
-                "Apa langkah yang diperlukan untuk tukar sesi?"
+                "Apa langkah yang diperlukan untuk tukar sesi?",
+                "Bisakah saya pindah sesi jika jadwal bentrok?",
+                "Langkah apa yang harus diambil untuk mengganti sesi kelas?",
+                "Siapa yang harus saya hubungi untuk tukar sesi?",
+                "Apakah ada batas waktu untuk tukar sesi?",
+                "Bolehkah tukar sesi jika sudah terdaftar?",
+                "Bagaimana proses tukar sesi jika saya tidak bisa hadir?",
+                "Dapatkah saya mengganti jadwal sesi saya?",
+                "Apa prosedur tepat tukar sesi di program ini?",
+                "Bagaimana cara formal untuk tukar sesi?",
+                "Apakah tukar sesi perlu persetujuan mentor?"
             ],
             "responses": [
                 "Kalau kamu mau tukar sesi, langsung hubungi mentor personal sebelum sesi dimulai ya. Nanti mentor akan kasih link untuk isi form tukar sesi.",
@@ -821,7 +1441,17 @@
                 "Kamu bisa tukar sesi dengan menghubungi mentor personal dan menunggu konfirmasi. Setelah itu, isi form tukar sesi dari mentor.",
                 "Mentor personal adalah kontak pertama untuk tukar sesi. Setelah diskusi, mereka akan memberikan link form untuk menyelesaikan prosesnya.",
                 "Tukar sesi hanya bisa dilakukan jika kamu menghubungi mentor personal sebelumnya. Setelah itu, isi form tukar sesi sesuai petunjuk.",
-                "Pastikan untuk berbicara dengan mentor personal tentang tukar sesi sebelum jadwal dimulai. Isi form tukar sesi setelah mentor memberikannya."
+                "Pastikan untuk berbicara dengan mentor personal tentang tukar sesi sebelum jadwal dimulai. Isi form tukar sesi setelah mentor memberikannya.",
+                "Untuk pindah sesi, hubungi mentor terlebih dahulu agar bisa dikonfirmasi dan diberikan link form tukar sesi.",
+                "Kalau jadwal sesi bentrok, segera informasikan ke mentor personal untuk proses tukar sesi dengan mengisi form yang disediakan.",
+                "Sebelum tukar sesi, konsultasikan dulu ke mentor personal. Mereka akan memberikan instruksi lebih lanjut untuk proses tukar sesi.",
+                "Tukar sesi perlu koordinasi dengan mentor personal supaya prosesnya lancar dan kamu dapat link form tukar sesi.",
+                "Hubungi mentor personal sesegera mungkin untuk meminta tukar sesi dan mengikuti prosedur yang berlaku di program.",
+                "Jika tidak bisa hadir sesi, segera beri tahu mentor personal dan isi form tukar sesi yang akan diberikan.",
+                "Ganti sesi bisa dilakukan dengan persetujuan mentor, jadi pastikan kamu sudah komunikasi dan isi form tukar sesi.",
+                "Tukar sesi diatur oleh mentor personal, jadi jangan lupa diskusi dulu sebelum mengajukan permintaan tukar sesi.",
+                "Form tukar sesi akan diberikan oleh mentor setelah kamu konfirmasi keinginan tukar sesi.",
+                "Selalu koordinasikan ke mentor untuk tukar sesi supaya prosesnya jelas dan kamu dapat form resmi tukar sesi."
             ]
         },
         {
@@ -836,7 +1466,21 @@
                 "Apa saja yang wajib disiapkan untuk Final Massive Challenge?",
                 "Persiapan apa yang diperlukan untuk menghadapi Final Massive Challenge?",
                 "Apa saja langkah persiapan untuk Final Massive Challenge?",
-                "Apa yang harus dipastikan sebelum Final Massive Challenge dimulai?"
+                "Apa yang harus dipastikan sebelum Final Massive Challenge dimulai?",
+                "Apa saja yang wajib disiapkan untuk Final Massive Challenge?",
+                "Persiapan apa yang diperlukan untuk menghadapi Final Massive Challenge?",
+                "Apa saja langkah persiapan untuk Final Massive Challenge?",
+                "Apa yang harus dipastikan sebelum Final Massive Challenge dimulai?",
+                "Bagaimana mempersiapkan presentasi untuk Final Massive Challenge?",
+                "Apa tips agar sukses di Final Massive Challenge?",
+                "Hal penting apa yang harus dibawa saat Final Massive Challenge?",
+                "Bagaimana cara membuat demo yang efektif untuk Final Massive Challenge?",
+                "Apa yang harus diperhatikan untuk video showcase di Final Massive Challenge?",
+                "Langkah apa yang paling krusial saat menghadapi Final Massive Challenge?",
+                "Bagaimana memastikan ide proyek jelas saat presentasi Final Massive Challenge?",
+                "Apa yang harus ditonjolkan saat pitching di Final Massive Challenge?",
+                "Bagaimana membuat Call To Action yang efektif di Final Massive Challenge?",
+                "Apa komponen utama yang harus ada di presentasi Final Massive Challenge?"
             ],
             "responses": [
                 "Untuk menghadapi final massive challenge, kamu perlu siap presentasi dengan teknik pitching yang oke, ceritakan proyek kamu dengan cerita yang menarik, lalu jelaskan ide, masalah yang dihadapi, solusi yang diusulkan, demo fitur MVP, video showcase, dan jangan lupa untuk mengajak audiens coba produk kalian lewat Call To Action.",
@@ -848,7 +1492,17 @@
                 "Untuk sukses di final massive challenge, kamu harus siap presentasi dengan pitching yang jelas dan cerita yang menarik, bahas project idea, masalah, solusi, demo fitur MVP, dan jangan lupa tampilkan video showcase. Akhiri dengan Call To Action yang mengajak audiens menggunakan produk kamu.",
                 "Di final massive challenge, pastikan presentasi kamu punya pitching yang oke, ceritakan proyek kamu dengan story telling yang menarik, lalu jelaskan ide, masalah, solusi, demo fitur MVP, dan jangan lupa untuk ada Call To Action yang ajak audiens coba produk kalian.",
                 "Untuk final massive challenge, buat presentasi dengan pitching yang engaging dan cerita yang menarik. Jangan lupa jelaskan project idea, masalah, solusi, demo fitur MVP, dan video showcase. Terakhir, pastikan ada Call To Action untuk mendorong audiens mencoba produk kalian.",
-                "Untuk menghadapi final massive challenge, persiapkan presentasi dengan pitching yang baik, cerita yang mengalir, serta jelaskan project idea, masalah, solusi, demo fitur MVP, video showcase, dan pastikan ada Call To Action yang mengajak audiens untuk coba produk kamu."
+                "Untuk menghadapi final massive challenge, persiapkan presentasi dengan pitching yang baik, cerita yang mengalir, serta jelaskan project idea, masalah, solusi, demo fitur MVP, video showcase, dan pastikan ada Call To Action yang mengajak audiens untuk coba produk kamu.",
+                "Persiapkan slide presentasi yang jelas dan menarik agar bisa menyampaikan ide proyek dengan baik saat final massive challenge.",
+                "Jangan lupa latih pitching kamu agar lebih percaya diri dan mampu menjelaskan solusi dari masalah yang kamu angkat di final massive challenge.",
+                "Siapkan demo fitur utama (MVP) yang berjalan dengan baik agar bisa meyakinkan juri dan audiens saat final massive challenge.",
+                "Pastikan video showcase kamu singkat tapi padat, menampilkan keunggulan produk dengan visual yang menarik.",
+                "Fokuslah pada storytelling yang menghubungkan ide proyek dengan kebutuhan pengguna saat mempersiapkan final massive challenge.",
+                "Gunakan Call To Action yang jelas dan persuasif untuk mendorong audiens agar mencoba produkmu saat final massive challenge.",
+                "Latih pertanyaan dan jawaban untuk sesi tanya jawab agar kamu siap menghadapi juri dan audiens di final massive challenge.",
+                "Susun presentasi dengan alur logis mulai dari masalah, solusi, demo, hingga video showcase agar audiens mudah mengikuti.",
+                "Jelaskan nilai tambah produkmu dengan jelas untuk membedakan dari proyek lain di final massive challenge.",
+                "Gunakan bahasa tubuh yang percaya diri dan kontak mata saat pitching agar presentasi kamu semakin meyakinkan."
             ]
         },
         {
@@ -862,7 +1516,18 @@
                 "Kapan jadwal pembagian sertifikat dan nilai?",
                 "Berapa lama waktu tunggu untuk nilai dan sertifikat?",
                 "Kapan waktu yang tepat untuk mendapatkan nilai dan sertifikat?",
-                "Sertifikat dan nilai akan diberikan setelah apa?"
+                "Sertifikat dan nilai akan diberikan setelah apa?",
+                "Kapan hasil nilai dan sertifikat diumumkan?",
+                "Berapa lama proses pengiriman sertifikat dan nilai?",
+                "Apa waktu estimasi untuk terima sertifikat dan nilai?",
+                "Kapan saya bisa cek nilai dan ambil sertifikat?",
+                "Berapa lama menunggu sertifikat dan hasil nilai selesai diproses?",
+                "Kapan sertifikat serta nilai bisa saya dapatkan setelah program?",
+                "Kapan saya akan menerima sertifikat dan nilai akhir?",
+                "Kapan sertifikat akan dikirimkan ke peserta?",
+                "Seberapa cepat nilai dan sertifikat dapat diterima setelah program?",
+                "Apa jadwal resmi untuk pembagian sertifikat dan nilai?",
+                "Kapan peserta bisa menerima hasil nilai dan sertifikat resmi?"
             ],
             "responses": [
                 "Sertifikat dan nilai biasanya akan diberikan sekitar 2-4 minggu setelah program selesai. Kalau kamu butuh nilai sementara untuk konversi, jangan ragu untuk menghubungi mentor personalmu.",
@@ -874,7 +1539,17 @@
                 "Sertifikat dan nilai akan didistribusikan 2-4 minggu pasca program selesai. Bila butuh nilai lebih awal, kamu bisa langsung kontak mentor personalmu.",
                 "Dalam 2-4 minggu setelah program selesai, sertifikat dan nilai akan diberikan. Kalau ada kebutuhan mendesak terkait nilai, mentor personal bisa memberikan panduan.",
                 "Kamu bisa menerima sertifikat dan nilai sekitar 2-4 minggu setelah program berakhir. Untuk kebutuhan nilai sementara, jangan sungkan hubungi mentor personal.",
-                "Sertifikat dan nilai akan diberikan setelah program selesai, biasanya dalam 2-4 minggu. Kalau perlu nilai lebih cepat, koordinasikan langsung dengan mentor personal."
+                "Sertifikat dan nilai akan diberikan setelah program selesai, biasanya dalam 2-4 minggu. Kalau perlu nilai lebih cepat, koordinasikan langsung dengan mentor personal.",
+                "Pengiriman sertifikat dan nilai biasanya memakan waktu 2-4 minggu setelah program selesai.",
+                "Proses distribusi nilai dan sertifikat memakan waktu sekitar 2-4 minggu setelah program berakhir.",
+                "Setelah selesai program, sertifikat dan nilai akan diterima dalam waktu 2 hingga 4 minggu.",
+                "Nilai dan sertifikat akan diberikan dalam rentang waktu 2-4 minggu setelah program selesai.",
+                "Estimasi waktu penerimaan sertifikat dan nilai adalah sekitar 2 sampai 4 minggu setelah program.",
+                "Sertifikat serta nilai akan tersedia setelah 2-4 minggu sejak program selesai.",
+                "Waktu tunggu untuk menerima sertifikat dan nilai adalah sekitar 2-4 minggu pasca program.",
+                "Sertifikat dan nilai akan dikirimkan dalam kurun waktu 2 hingga 4 minggu setelah program selesai.",
+                "Biasanya, nilai dan sertifikat bisa diterima dalam waktu 2-4 minggu setelah program berakhir.",
+                "Setelah program selesai, kamu akan mendapatkan sertifikat dan nilai dalam waktu 2 sampai 4 minggu."
             ]
         },
         {
@@ -889,7 +1564,17 @@
                 "Apakah sertifikat bisa diberikan sebelum jadwal biasanya?",
                 "Bagaimana cara mendapatkan sertifikat jika program belum selesai?",
                 "Apakah mungkin menerima sertifikat lebih cepat dari waktu yang ditentukan?",
-                "Apa langkah-langkah untuk meminta sertifikat lebih awal?"
+                "Apa langkah-langkah untuk meminta sertifikat lebih awal?",
+                "Bisakah sertifikat diambil sebelum waktu resmi pembagian?",
+                "Bagaimana cara mempercepat proses penerimaan sertifikat?",
+                "Apakah ada cara agar sertifikat bisa diterima lebih cepat?",
+                "Bolehkah saya mengajukan sertifikat sebelum program selesai?",
+                "Apa kebijakan terkait permintaan sertifikat mendadak?",
+                "Bagaimana jika saya butuh sertifikat dengan segera?",
+                "Apakah sertifikat bisa dikirim sebelum waktu yang ditetapkan?",
+                "Langkah apa yang harus diikuti untuk dapat sertifikat lebih awal?",
+                "Bisakah saya mendapatkan sertifikat sebelum masa program berakhir?",
+                "Apakah memungkinkan pengambilan sertifikat secara mendadak?"
             ],
             "responses": [
                 "Maaf ya, sertifikat hanya akan diberikan setelah jadwal yang sudah ditentukan, tapi kalau kamu butuh untuk konversi nilai, kamu bisa minta nilai sementara ke mentor personal.",
@@ -901,7 +1586,17 @@
                 "Kami memahami kebutuhanmu, namun sertifikat nggak bisa diterbitkan lebih awal. Kamu bisa menghubungi mentor personal untuk meminta nilai sementara.",
                 "Maaf, sertifikat belum bisa diberikan lebih awal. Namun, nilai sementara dapat diminta ke mentor personal jika diperlukan untuk konversi.",
                 "Sertifikat akan diserahkan pada waktu yang telah dijadwalkan. Kalau butuh cepat untuk keperluan tertentu, silakan minta nilai sementara dari mentor personal.",
-                "Sertifikat akan dibagikan secara serentak sesuai jadwal. Kalau kamu butuh sesuatu untuk segera digunakan, mentor personal bisa memberikan nilai sementara."
+                "Sertifikat akan dibagikan secara serentak sesuai jadwal. Kalau kamu butuh sesuatu untuk segera digunakan, mentor personal bisa memberikan nilai sementara.",
+                "Sertifikat hanya diserahkan sesuai jadwal resmi, namun nilai sementara bisa kamu peroleh jika menghubungi mentor personal.",
+                "Sayangnya, sertifikat tidak bisa diberikan sebelum waktunya. Tapi jika diperlukan, nilai sementara bisa kamu dapatkan dari mentor personal.",
+                "Sertifikat tidak dapat diberikan sebelum jadwal, namun kamu dapat meminta nilai sementara untuk kebutuhan mendesak.",
+                "Kami tidak bisa mempercepat pemberian sertifikat, tapi nilai sementara bisa kamu minta dari mentor personal.",
+                "Sertifikat akan diserahkan sesuai waktu yang ditentukan, tapi nilai sementara bisa kamu dapatkan jika menghubungi mentor personal.",
+                "Untuk sertifikat, mohon menunggu jadwal resmi. Nilai sementara tersedia jika kamu butuh untuk konversi atau keperluan lainnya.",
+                "Mohon maaf, tidak ada kebijakan untuk mempercepat sertifikat, tapi nilai sementara bisa kamu peroleh dari mentor personal.",
+                "Sertifikat hanya diberikan pada waktu yang sudah dijadwalkan, namun kamu bisa meminta nilai sementara jika butuh segera.",
+                "Sertifikat tidak dapat diambil secara mendadak, tapi nilai sementara bisa kamu peroleh dengan menghubungi mentor personal.",
+                "Saat ini, sertifikat hanya dibagikan sesuai jadwal, namun kamu dapat meminta nilai sementara dari mentor personal jika diperlukan."
             ]
         },
         {
@@ -916,7 +1611,17 @@
                 "Jika program sudah selesai, apakah LMS tetap bisa diakses?",
                 "LMS masih bisa diakses setelah program selesai atau tidak?",
                 "Apakah materi di LMS akan tetap tersedia setelah program ini selesai?",
-                "Bisakah saya mengakses materi LMS setelah menyelesaikan program ini?"
+                "Bisakah saya mengakses materi LMS setelah menyelesaikan program ini?",
+                "Setelah selesai program, apakah saya masih dapat membuka materi di LMS?",
+                "Apakah akses ke platform LMS tetap aktif setelah pelatihan selesai?",
+                "Bolehkah saya mengakses ulang materi di LMS usai program berakhir?",
+                "Apakah saya bisa belajar kembali melalui LMS ketika program sudah selesai?",
+                "Apakah LMS tetap tersedia setelah pelatihan usai?",
+                "Bagaimana dengan akses materi LMS setelah program selesai?",
+                "Apakah saya bisa login ke LMS setelah program ditutup?",
+                "Apakah akses LMS dipertahankan setelah program selesai?",
+                "Bisa nggak saya pakai LMS lagi setelah program resmi selesai?",
+                "Apakah saya masih memiliki akses ke materi di LMS setelah program berakhir?"
             ],
             "responses": [
                 "Sayangnya, akses ke LMS akan ditutup setelah program selesai. Jadi pastikan kamu sudah memanfaatkan semua materi selama program berlangsung ya!",
@@ -928,7 +1633,17 @@
                 "LMS akan ditutup setelah program selesai, jadi maksimalkan waktu yang ada untuk belajar dan mencatat semua materi yang penting!",
                 "Akses ke LMS akan berakhir setelah program selesai. Jadi pastikan kamu menyelesaikan materi dan memahami isinya sebelum program berakhir ya!",
                 "Setelah program selesai, kamu tidak akan bisa lagi masuk ke LMS. Jadi manfaatkan kesempatan ini untuk belajar semaksimal mungkin!",
-                "LMS hanya dapat diakses selama program berlangsung. Jadi pastikan kamu sudah belajar dengan baik dan menyimpan materi penting sebelum program selesai!"
+                "LMS hanya dapat diakses selama program berlangsung. Jadi pastikan kamu sudah belajar dengan baik dan menyimpan materi penting sebelum program selesai!",
+                "Setelah program berakhir, akses ke LMS otomatis akan ditutup, jadi pastikan kamu sudah memanfaatkan semua materi selama program.",
+                "Sayangnya, LMS tidak dapat diakses lagi setelah pelatihan selesai. Jadi manfaatkan waktu sebaik mungkin saat program berjalan.",
+                "Akses LMS akan berhenti saat program selesai, jadi usahakan untuk menyelesaikan semua materi sebelum waktunya habis.",
+                "Materi di LMS hanya bisa diakses selama periode program berlangsung, setelah itu akses akan dicabut.",
+                "Kamu tidak dapat membuka LMS lagi setelah program selesai, jadi pastikan semua materi sudah kamu pelajari dengan baik.",
+                "LMS hanya aktif selama durasi program. Setelah itu, kamu tidak bisa mengakses materi lagi di platform tersebut.",
+                "Setelah pelatihan selesai, akses ke LMS akan dinonaktifkan, jadi gunakan kesempatan belajar selama program masih berjalan.",
+                "Akses ke LMS akan berakhir bersamaan dengan selesainya program, jadi jangan lupa untuk menyelesaikan semua tugas dan materi.",
+                "Platform LMS akan tertutup setelah program berakhir, sehingga kamu tidak bisa lagi mengakses konten di dalamnya.",
+                "Begitu program selesai, kamu tidak akan bisa mengakses materi di LMS lagi. Jadi manfaatkan sebaik mungkin selama program aktif."
             ]
         },
         {
