@@ -74,16 +74,16 @@
         {
             "tag": "studi_independen",
             "patterns": [
-                "Program Studi Independen itu apa?",
-                "Apa saja yang dipelajari di Studi Independen?",
-                "Ceritakan tentang Studi Independen di Infinite Learning",
-                "Bagaimana sistem Studi Independen di Infinite Learning?",
-                "Bidang apa yang tersedia di Studi Independen?",
-                "Apa tujuan dari Studi Independen?",
-                "Apa saja jalur pembelajaran Studi Independen?",
-                "Bagaimana cara kerja Studi Independen di Infinite Learning?",
-                "Apa keistimewaan program Studi Independen?",
-                "Informasi lengkap Studi Independen, tolong"
+                "Jelaskan tentang program Studi Independen di Infinite Learning",
+                "Apa saja program Studi Independen di Infinite Learning?",
+                "Studi Independen di Infinite Learning ada program apa aja sih?",
+                "Program Studi Independen apa saja yang ditawarkan oleh Infinite Learning?",
+                "Apa yang bisa dipelajari dalam program Studi Independen di Infinite Learning?",
+                "Bagaimana cara mengikuti program Studi Independen di Infinite Learning?",
+                "Apa saja learning path di Studi Independen Infinite Learning?",
+                "Apa saja bidang yang tersedia dalam program Studi Independen di Infinite Learning?",
+                "Apa yang dipelajari dalam Studi Independen Infinite Learning?",
+                "Program Studi Independen apa yang paling populer di Infinite Learning?"
             ],
             "responses": [
                 "Program Studi Independen adalah program pembelajaran intensif berdurasi satu semester (setara 20 SKS). Program ini didesain bersama praktisi industri dan menggunakan pendekatan project-based learning dengan 30% teori dan 70% praktik. Terdapat 5 Learning Path pada program Studi Independen di Infinite Learning, yaitu Android Mobile Development & UIUX Designer, Web Development & UIUX Design, Game Development, Linux System Administration, dan Artificial Intelegent",
