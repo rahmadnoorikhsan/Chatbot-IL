@@ -1,0 +1,411 @@
+{
+    "intents": [
+        {
+            "tag": "hello",
+            "patterns": [
+                "Selamat datang",
+                "Halo, siapa di sana?",
+                "Permisi, ada yang bisa bantu?",
+                "Selamat pagi, ada yang bisa saya bantu?",
+                "Hi, saya butuh info",
+                "Saya mau tanya sesuatu",
+                "Selamat siang, bantuan dong"
+            ],
+            "responses": [
+                "Halo! Selamat datang di Infinite Learning. Ada yang bisa ILO bantu?",
+                "Hai! Senang bertemu denganmu. ILO siap membantu kamu!",
+                "Selamat datang! Silakan tanyakan apa pun tentang Infinite Learning."
+            ]
+        },
+        {
+            "tag": "infinite_learning_info",
+            "patterns": [
+                "Apa itu Infinite Learning?",
+                "Jelaskan tentang Infinite Learning",
+                "Apa sih Infinite Learning?",
+                "Dapatkah kamu menjelaskan Infinite Learning?",
+                "Bisakah kamu memberi tahu tentang Infinite Learning?",
+                "Jelaskan tentang Infinite Learning!",
+                "Apa sebenarnya Infinite Learning itu?"
+            ],
+            "responses": [
+                "Infinite Learning adalah divisi dari PT Kinema Systrans Multimedia yang berfokus pada pelatihan vokasi untuk mendukung kebutuhan tenaga terampil di ekosistem Nongsa Digital Park. Sejak memperoleh lisensi LPK dari Kementerian Ketenagakerjaan pada tahun 2018, Infinite Learning dapat menyelenggarakan pelatihan terbuka untuk umum, bekerja sama dengan institusi pendidikan lokal dan internasional.",
+                "Infinite Learning merupakan bagian dari PT Kinema Systrans Multimedia yang mengkhususkan diri dalam pelatihan kejuruan untuk memenuhi kebutuhan SDM terampil di kawasan Nongsa Digital Park. Sejak mendapatkan lisensi LPK dari Kementerian Ketenagakerjaan pada 2018, Infinite Learning menyelenggarakan pelatihan terbuka yang dijalankan bersama mitra pendidikan dalam dan luar negeri.",
+                "Infinite Learning, salah satu divisi PT Kinema Systrans Multimedia, berkomitmen menyediakan program pelatihan kejuruan untuk mengatasi kebutuhan SDM terampil di Nongsa Digital Park. Dengan lisensi LPK yang diperoleh sejak 2018, mereka berwenang mengadakan pelatihan terbuka dan berkolaborasi dengan institusi pendidikan lokal maupun global."
+            ]
+        },
+        {
+            "tag": "studi_independen",
+            "patterns": [
+                "Jelaskan tentang program Studi Independen di Infinite Learning",
+                "Bisa dijelaskan mengenai Program Studi Mandiri yang ada di Infinite Learning?",
+                "Bagaimana konsep Program Studi Independen yang ditawarkan Infinite Learning?",
+                "Bisa diuraikan lebih detail tentang Program Studi Independen di Infinite Learning?",
+                "Bagaimana skema dan mekanisme Program Studi Independen di Infinite Learning?",
+                "Seperti apa program Studi Independen di Infinite Learning itu?",
+                "Bisa ceritakan mengenai program Studi Independen yang diselenggarakan oleh Infinite Learning?"
+            ],
+            "responses": [
+                "Studi Independen itu semacam program belajar intensif selama satu semester, setara 20 SKS. Program ini dibikin bareng praktisi dari industri, dan cara belajarnya fokus ke praktik. Jadi 30% teori, sisanya 70% langsung ngerjain proyek. Di Infinite Learning, ada 5 jalur yang bisa dipilih: Android & UI/UX, Web & UI/UX, Game Dev, Linux Admin, dan Kecerdasan Buatan.",
+                "Jadi, Studi Independen tuh program belajar selama satu semester yang ngebantu kita dapet pengalaman dunia kerja. Sistem belajarnya project-based, jadi lebih banyak praktik (70%) dibanding teori (30%). Di Infinite Learning sendiri ada lima pilihan jalur, kayak Android & UI/UX, Web Dev & UI/UX, Game Dev, Linux System, sampai AI.",
+                "Program Studi Independen itu kayak magang sambil belajar, tapi intens banget selama satu semester. Dibimbing langsung sama orang industri, belajarnya lebih banyak praktik daripada teori. Nah, di Infinite Learning kamu bisa pilih 5 jurusan seru, mulai dari Android & UI/UX, Web Dev, Game Dev, Linux, sampai AI."
+            ]
+        },
+        {
+            "tag": "program_benefits",
+            "patterns": [
+                "Apa keuntungan mengikuti Studi Independen di Infinite Learning?",
+                "Manfaat apa yang didapat dari program Studi Independen?",
+                "Benefit mengikuti Studi Independen di Infinite Learning apa aja sih?",
+                "Apa manfaat mengikuti Program Studi Independen di Infinite Learning?",
+                "Apa kelebihan yang didapat dari Program Belajar Independen Infinite Learning?",
+                "Bagaimana keunggulan mengikuti Studi Independen di Infinite Learning?",
+                "Mengapa harus memilih Studi Independen di Infinite Learning?"
+            ],
+            "responses": [
+                "Manfaat program meliputi konversi hingga 20 SKS, kesempatan magang, bekerja di perusahaan multinasional, pembelajaran fleksibel, 2 sertifikat berupa Sertifikat Studi Independen dan Magang, serta membangun portofolio melalui proyek nyata yang dapat dipublikasikan",
+                "Keunggulan program mencakup pengakuan kredit hingga 20 SKS, peluang magang dan bekerja di perusahaan global, sistem belajar yang adaptif, memperoleh dua sertifikat (Studi Independen dan Magang), serta kesempatan mengembangkan portofolio melalui proyek riil yang bisa ditampilkan.",
+                "Keuntungan yang diperoleh meliputi konversi 20 SKS, kesempatan karir di perusahaan internasional, metode pembelajaran fleksibel, dua jenis sertifikasi (Program Studi Independen dan Magang), plus pengalaman membangun portofolio profesional berbasis proyek nyata."
+            ]
+        },
+        {
+            "tag": "independent_study_registration",
+            "patterns": [
+                "Bagaimana cara mendaftar program Studi Independen?",
+                "Apa tahapan pendaftaran Studi Independen?",
+                "Gimana sih cara daftarnya?",
+                "Aku ingin ikut Studi Independen, apa yang perlu saya lakukan?",
+                "Langkah apa saja yang diperlukan untuk mendaftar Studi Independen?",
+                "Bagaimana proses pendaftaran Studi Independen dilakukan?",
+                "Apa yang harus saya siapkan untuk mendaftar Studi Independen?"
+            ],
+            "responses": [
+                "Kalau kamu mau daftar lewat program Kampus Merdeka, langsung aja buka situs resminya. Pilih “Program Studi Independen”, cari “Infinite Learning”, terus pilih program yang kamu suka. Upload dokumen yang diminta, lalu tinggal tunggu pengumuman lewat email atau WhatsApp. Kalau mau daftar jalur mandiri, bisa langsung cek di: https://course.infinitelearning.id/course-category/kamdek-mandiri/",
+                "Pengen gabung lewat Kampus Merdeka? Gampang! Cukup buka websitenya, klik Program Studi Independen, cari Infinite Learning, terus pilih program yang kamu minati. Upload aja semua dokumen yang diminta di sana, dan tinggal tunggu kabar selanjutnya lewat email atau WA. Kalau lewat jalur mandiri, kamu bisa daftar lewat link ini ya: https://course.infinitelearning.id/course-category/kamdek-mandiri/",
+                "Mau daftar programnya Infinite Learning lewat Kampus Merdeka? Tinggal buka websitenya, pilih Studi Independen, terus cari “Infinite Learning” dan pilih program yang kamu pengen. Lengkapi dokumennya, upload, dan tunggu info hasilnya via email atau WhatsApp. Kalau kamu mau daftar jalur mandiri, langsung klik link ini aja: https://course.infinitelearning.id/course-category/kamdek-mandiri/"
+            ]
+        },
+        {
+            "tag": "learning_schedule",
+            "patterns": [
+                "Bagaimana jadwal belajar Studi Independen di Infinite Learning?",
+                "Gimana sih jadwal belajarnya di Studi Independen Infinite Learning?",
+                "Kapan aja waktu belajar di program Studi Independen Infinite Learning?",
+                "Jadwal kelas di Studi Independen Infinite Learning itu kayak gimana?",
+                "Sistem belajarnya di Studi Independen Infinite Learning gimana ya?",
+                "Bagaimana pembagian waktu dan sesi dalam Studi Independen di Infinite Learning?",
+                "Bagaimana pengaturan jadwal kegiatan belajar di Program Studi Independen ini?"
+            ],
+            "responses": [
+                "Belajarnya dari Senin sampai Jumat, ya. Kelas online dibagi dua sesi: pagi jam 9 sampai 12 dan sore jam 2 sampai 5. Dari Senin sampai Kamis, kamu bakal ikut sesi soft skill, hard skill, latihan langsung, mentoring, sampai ngerjain proyek bareng. Nah, khusus Jumat ada kegiatan seru kayak Culture Week dan English Day.",
+                "Jadwal belajarnya Senin sampai Jumat, guys! Belajar online-nya dibagi dua: pagi jam 9 sampai 12 dan lanjut lagi jam 2 sampai 5 sore. Selama Senin sampai Kamis, kamu bakal dapet materi soft skill, hard skill, praktek, mentoring, dan ngerjain proyek. Terus hari Jumat waktunya santai dikit, ada Culture Week sama English Day!",
+                "Kegiatan belajarnya full dari Senin sampai Jumat. Ada dua sesi online, pagi jam 9 sampai 12, dan siang jam 2 sampai 5. Senin sampai Kamis, isinya lengkap—dari soft skill, hard skill, praktik langsung, sampai mentoring dan ngerjain proyek. Jumat lebih chill, ada Culture Week dan English Day buat seru-seruan sambil belajar."
+            ]
+        },
+        {
+            "tag": "web_curriculum",
+            "patterns": [
+                "Apa saja kurikulum pada learning path Web Development?",
+                "Materi apa saja yang dipelajari di kelas Web Development?",
+                "Apa saja topik yang dibahas di program pelatihan Web Development?",
+                "Web Development mencakup pembelajaran apa saja?",
+                "Apa saja hal yang diajarkan dalam program Web Development?",
+                "Apa saja modul atau silabus dalam Web Development?",
+                "Web Development biasanya mempelajari apa saja?"
+            ],
+            "responses": [
+                "Di kurikulum Web Development, kamu bakal belajar dua hal utama: hard skill dan soft skill. Hard skill-nya nih, ada belajar riset produk, desain tampilan (UI), ngoding front end & back end, terus kenalan juga sama cloud computing dan keamanan siber. Nah, kalau soft skill-nya, kamu bakal diasah dalam hal kerja bareng tim, komunikasi, adaptasi, manajemen proyek, sampai dapet coaching buat nyiapin karier.",
+                "Jadi kurikulum belajar Web Development disini tuh nggak cuma soal ngoding doang, tapi juga nyentuh skill teknis dan non-teknis. Hard skill-nya kayak riset produk, desain UI, dasar front end & back end, terus ada juga cloud sama cyber security. Buat soft skill-nya, kamu bakal belajar cara kerja tim, komunikasi yang oke, gampang beradaptasi, ngatur proyek, sampai dapet arahan karier dari mentor.",
+                "Isi kurikulum Web Dev seru banget! Kamu nggak cuma belajar ngoding, tapi juga dapet ilmu soal desain, riset produk, dan teknologi kayak cloud sama cyber security. Itu bagian hard skill-nya. Terus, ada juga soft skill kayak kerja sama tim, komunikasi, adaptasi, ngatur proyek, dan coaching biar kamu siap terjun ke dunia kerja."
+            ]
+        },
+        {
+            "tag": "web_requirements",
+            "patterns": [
+                "Apa syarat mengikuti Studi Independen program Web Development?",
+                "Buat ikutan Studi Independen Web Development, perlu syarat apa aja sih?",
+                "Syarat ikut program Web Development di Studi Independen itu apa aja ya?",
+                "Gimana syarat atau ketentuan buat bisa ikut Studi Independen Web Development?",
+                "Kalau pengen join Studi Independen Web Dev, ada persyaratan khusus nggak?",
+                "Apa aja syarat yang harus dipenuhi biar bisa masuk program Web Development ini?",
+                "Kalau mau ambil Studi Independen di bidang Web Dev, ada syarat khusus nggak?"
+            ],
+            "responses": [
+                "Buat kamu yang pengen ikut Studi Independen Web Development, pastiin kamu masih aktif kuliah ya — minimal semester 4 kalau S1, atau semester 2 kalau D3/D4. Semua jurusan boleh daftar kok, tapi yang dari IT, DKV, atau Manajemen Bisnis bakal jadi nilai plus. Wajib WNI, kondisi sehat jasmani dan rohani juga penting. Terus, kamu juga butuh laptop yang cukup mumpuni: OS-nya 64-bit (Windows 8/10, MacOS 10.14 ke atas, atau Linux), prosesor minimal Intel Core gen-2 atau AMD yang support virtualisasi, RAM 8 GB, dan ruang penyimpanan minimal 8 GB (lebih oke lagi kalau SSD).",
+                "Syarat buat gabung ke Studi Independen Web Dev nggak ribet kok! Kamu cukup jadi mahasiswa aktif — minimal semester 4 buat S1, atau semester 2 buat D3/D4. Jurusan bebas, tapi yang dari IT, DKV, atau Bisnis jadi nilai plus. Wajib WNI, sehat lahir batin, dan punya laptop yang kuat: OS 64-bit (Windows, Mac, atau Linux), prosesor Intel gen-2 ke atas atau AMD yang support virtualisasi, RAM 8 GB, dan storage minimal 8 GB. Kalau pakai SSD, makin sip!",
+                "Pengen ikut Studi Independen Web Dev? Gampang, asal kamu mahasiswa aktif minimal semester 4 (S1) atau semester 2 (D3/D4). Semua jurusan boleh, tapi kalau kamu dari IT, DKV, atau Manajemen Bisnis, jadi nilai plus. Harus WNI, sehat luar dalam, dan punya laptop yang sanggup kerja keras: OS-nya 64-bit, prosesor minimal Intel Core gen-2 atau AMD setara, RAM 8 GB, dan storage minimal 8 GB — kalau bisa SSD biar makin ngebut!"
+            ]
+        },
+        {
+            "tag": "mobile_curriculum",
+            "patterns": [
+                "Kurikulum Mobile Dev mencakup hal-hal apa aja, ya?",
+                "Belajar Mobile Development tuh isinya apa aja sih?",
+                "Materi apa yang dipelajari di program Mobile Development?",
+                "Kalau ambil Mobile Development, bakal dapet pelajaran apa aja?",
+                "Apa aja topik yang dibahas dalam kurikulum Mobile Development?",
+                "Mobile Development ngajarin apa aja sih dari awal sampai akhir?",
+                "Isi pembelajaran Mobile Development itu biasanya ngapain aja?"
+            ],
+            "responses": [
+                "Di kurikulum Mobile Development, kamu bakal dapet bekal hard skill dan soft skill. Buat hard skill, kamu akan belajar riset produk, desain UI, ngoding pakai Kotlin & Android, lanjut ke fitur-fitur Android yang lebih advance, plus kenalan juga sama cloud dan cyber security. Nah, soft skill-nya nggak kalah penting, kamu akan diasah di kerja tim, komunikasi, adaptasi, manajemen proyek, sampai dapet coaching buat siapin karier ke depan.",
+                "Jadi kurikulum belajar Mobile Development disini tuh nggak cuma soal coding doang. Kamu juga diajarin skill teknis kayak riset produk, desain UI, ngoding pakai Kotlin, bikin aplikasi Android, belajar fitur-fitur canggih, dan kenalan sama cloud sama cyber security. Di sisi lain, kamu juga dapet soft skill kayak cara kerja tim, komunikasi yang asik, adaptasi cepat, manajemen proyek, dan coaching biar makin siap terjun ke dunia kerja.",
+                "Isi kurikulum Mobile Dev lengkap banget! Hard skill-nya ngajarin kamu mulai dari riset produk, desain UI, coding Kotlin & Android, sampai fitur-fitur canggih Android dan teknologi kayak cloud sama cyber security. Terus, kamu juga bakal dilatih soft skill kayak kerja bareng tim, komunikasi yang oke, gampang adaptasi, ngatur proyek, dan ada juga sesi coaching buat bantu kamu siap masuk dunia kerja."
+            ]
+        },
+        {
+            "tag": "mobile_requirements",
+            "patterns": [
+                "Kalau mau ikut Studi Independen Mobile Dev, harus siapin apa aja sih?",
+                "Pengen daftar Mobile Development di Studi Independen, syaratnya ribet nggak ya?",
+                "Buat gabung ke program Mobile Dev, ada syarat khusus nggak?",
+                "Apa aja syarat yang harus dimiliki biar bisa masuk ke Studi Independen Mobile Development?",
+                "Syarat ikut Mobile Dev di program Studi Independen tuh gimana sih?",
+                "Mobile Development di Studi Independen bisa diikuti siapa aja?",
+                "Apa aja syarat yang wajib dipenuhi buat bisa daftar Studi Independen Mobile Dev?"
+            ],
+            "responses": [
+                "Syarat buat ikut program Mobile Development ini cukup standar kok! Kamu harus jadi mahasiswa aktif — minimal semester 4 buat S1 atau semester 2 buat D3/D4. Semua jurusan boleh daftar, tapi yang dari IT, DKV, atau Manajemen Bisnis jadi poin plus. Harus WNI ya, dan pastinya sehat lahir batin. Selain itu, kamu juga perlu punya HP Android dan laptop yang kuat: OS 64-bit (Windows, Mac, atau Linux), prosesor Intel gen-2 ke atas atau AMD yang support virtualisasi, RAM minimal 8 GB (kalau bisa 16 GB lebih mantap), dan storage minimal 12 GB — SSD lebih oke!",
+                "Buat kamu yang pengen gabung ke Studi Independen Mobile Dev, pastiin dulu kamu masih aktif kuliah — S1 minimal semester 4, D3/D4 minimal semester 2. Semua jurusan bisa, tapi yang dari IT, DKV, atau Manajemen Bisnis punya poin plus. Wajib WNI dan sehat jasmani rohani. Terus, jangan lupa siapin Android phone dan laptop dengan spek: OS 64-bit, prosesor Intel Core gen-2 ke atas atau AMD setara, RAM minimal 8 GB (kalau 16 GB lebih jos), dan storage minimal 12 GB (lebih kenceng pakai SSD).",
+                "Pengen daftar Mobile Development? Gampang, asal kamu mahasiswa aktif minimal semester 4 (S1) atau semester 2 (D3/D4). Jurusan bebas, tapi yang dari IT, DKV, atau Manajemen Bisnis lebih diutamakan. Kamu juga harus WNI, sehat fisik dan mental, dan punya smartphone Android. Terus, laptop kamu juga kudu siap tempur: OS-nya 64-bit, prosesor Intel Core gen-2 atau AMD yang support virtualisasi, RAM minimal 8 GB (kalau 16 GB makin lancar), dan penyimpanan minimal 12 GB, pakai SSD lebih cepat!"
+            ]
+        },
+        {
+            "tag": "micro_project",
+            "patterns": [
+                "Apa itu Micro Project?",
+                "Micro Project itu maksudnya apa, ya?",
+                "Boleh dijelasin Micro Project itu apa?",
+                "Micro Project tuh kegiatan kayak gimana sih?",
+                "Sebenarnya Micro Project itu apa, ya?",
+                "Apa sih yang dimaksud dengan Micro Project?",
+                "Kegiatannya Micro Project itu ngapain aja?"
+            ],
+            "responses": [
+                "Micro Project adalah tantangan berskala kecil selama 6 minggu yang bertujuan menghasilkan High Fidelity Prototype, dengan bimbingan mentor grup dan mentor personal, menggunakan kerangka kerja design thinking yang meliputi tahap research, problem, idea, prototype, dan test.",
+                "Micro Project itu tantangan kecil selama 6 minggu di mana kamu dan tim bikin prototype yang cukup detail. Selama proses, ada mentor grup dan mentor pribadi yang siap bantu, pakai metode design thinking mulai dari riset sampai tes prototype.",
+                "Micro Project itu proyek skala kecil selama 6 minggu yang fokus bikin prototype keren. Kamu bakal dapat bimbingan dari mentor grup dan mentor pribadi, dan prosesnya lewat tahapan design thinking, dari riset, nyari masalah, ide, bikin prototype, sampai uji coba."
+            ]
+        },
+        {
+            "tag": "massive_project",
+            "patterns": [
+                "Apa yang dimaksud Massive Project?",
+                "Apa itu Massive Project?",
+                "Massive Project itu apa ya?",
+                "Boleh dijelasin apa itu Massive Project?",
+                "Massive Project tuh apa sih sebenarnya?",
+                "Bisa kasih gambaran tentang Massive Project?",
+                "Kegiatan apa aja yang masuk dalam Massive Project?"
+            ],
+            "responses": [
+                "Massive Project adalah challenge dalam 10 minggu di mana peserta bersama kelompoknya mengembangkan solusi berupa produk digital seperti website dan aplikasi, untuk menyelesaikan masalah yang diangkat, yang melibatkan penelitian, wawancara dengan stakeholders, dan penggunaan jurnal, serta mengimplementasikan SCRUM dalam prosesnya. Proyek ini juga mencakup Collaboration Project, memberikan kesempatan bagi kelompok untuk berkolaborasi dengan program lain seperti Web Development, Mobile Development, dan Advance Artificial Intelligence (AAI), memungkinkan pertukaran pengetahuan dan pengalaman untuk menyelesaikan masalah kompleks. Proses pengerjaan menggunakan framework design thinking (research, problem, idea, prototype, dan test)",
+                "Massive Project itu tantangan seru selama 10 minggu, di mana peserta bareng timnya bikin solusi digital kayak aplikasi atau website. Mereka harus riset, wawancara sama stakeholder, dan pakai jurnal juga. Semua prosesnya pakai metode SCRUM biar lebih terstruktur. Nggak cuma itu, ada juga Collaboration Project yang memungkinkan tim kolaborasi lintas program kayak Web Dev, Mobile Dev, atau AAI. Serunya lagi, pendekatannya pakai design thinking—mulai dari riset sampai ke uji coba produk.",
+                "Massive Project adalah tantangan kelompok selama 10 minggu buat bikin produk digital, entah itu website atau aplikasi, yang nyelesaiin masalah nyata. Prosesnya lengkap banget: mulai dari riset, ngobrol sama stakeholder, sampai baca jurnal. Tim juga harus pakai metode kerja SCRUM. Yang bikin makin menarik, proyek ini bisa dikolaborasikan dengan program lain, jadi bisa saling tukar ilmu antar bidang. Semua tahap dikerjain pakai design thinking—mulai dari cari masalah sampai testing solusi."
+            ]
+        },
+        {
+            "tag": "tribe",
+            "patterns": [
+                "Apa yang dimaksud TRIBE?",
+                "Bisakah dijelaskan apa yang dimaksud dengan TRIBE?",
+                "TRIBE adalah apa?",
+                "Apa yang dimaksud dengan istilah TRIBE?",
+                "Ceritakan tentang TRIBE.",
+                "Apa arti dari TRIBE dalam konteks ini?",
+                "Bagaimana pengertian TRIBE dijelaskan?",
+                "Dapatkah Anda menjelaskan konsep TRIBE?",
+                "Apa yang dimaksud istilah TRIBE secara umum?",
+                "TRIBE merujuk pada apa?"
+            ],
+            "responses": [
+                "TRIBE adalah perwakilan mahasiswa yang dipilih dari setiap mitra, di mana setiap mitra mengirimkan dua peserta untuk menjadi bagian dari TRIBE. Peran utama TRIBE adalah sebagai jembatan komunikasi antara tim MSIB dengan peserta yang mengikuti program magang atau Studi Independen di mitra. Selain itu, TRIBE juga mengikuti berbagai kegiatan yang dirancang untuk mengembangkan soft skill mereka, dengan harapan kemampuan tersebut dapat dimanfaatkan untuk mendukung mahasiswa lain dalam menjalankan program MSIB di mitra masing-masing.",
+                "TRIBE merupakan mahasiswa yang dipilih jadi perwakilan dari masing-masing mitra—dua orang tiap mitra. Mereka jadi penghubung antara tim pusat MSIB dan mahasiswa yang sedang ikut magang atau Studi Independen. Selain itu, TRIBE juga dapat bekal soft skill lewat beragam aktivitas supaya bisa bantu dan dampingi mahasiswa lain selama program berlangsung.",
+                "TRIBE itu semacam perwakilan mahasiswa dari tiap mitra. Setiap mitra milih dua orang buat jadi bagian dari TRIBE. Tugas utamanya jadi penghubung antara tim MSIB dan peserta program magang atau Studi Independen. Nggak cuma itu, TRIBE juga ikutan berbagai kegiatan pengembangan soft skill biar mereka makin siap bantu teman-teman lain selama program berlangsung."
+            ]
+        },
+        {
+            "tag": "learninig_management_system",
+            "patterns": [
+                "Bagaimana cara untuk mendapatkan akses ke LMS?",
+                "Apa prosedur untuk mendapatkan akses ke LMS?",
+                "Bagaimana cara memperoleh akses ke LMS?",
+                "Bagaimana cara masuk ke sistem LMS?",
+                "Gimana prosedur buat dapat akses LMS?",
+                "Bisa jelaskan cara mengakses LMS?",
+                "Gimana sih cara bisa masuk ke LMS?"
+            ],
+            "responses": [
+                "Kamu bakal dapat email khusus dari Infinite Learning, lengkap sama password-nya, jadi bisa langsung login ke LMS.",
+                "Tenang aja, Infinite Learning akan ngirimin email dan password supaya kamu bisa akses LMS dengan mudah.",
+                "Infinite Learning bakal kasih semua informasi login melalui email, jadi kamu bisa langsung akses LMS tanpa ribet."
+            ]
+        },
+        {
+            "tag": "logbook",
+            "patterns": [
+                "Apa saja ketentuan dalam mengisi logbook bulanan?",
+                "Bagaimana cara yang benar untuk mengisi logbook?",
+                "Apa ketentuan yang harus diikuti saat mengisi logbook?",
+                "Bagaimana format pengisian logbook yang sesuai?",
+                "Ada aturan tertentu dalam pengisian logbook?",
+                "Apa yang perlu diperhatikan saat mengisi logbook?",
+                "Apa saja hal penting yang harus dicantumkan di logbook?"
+            ],
+            "responses": [
+                "Pastikan kamu menjawab semua poin di logbook bulanan dengan jelas, minimal 200 kata ya Inners.",
+                "Untuk mengisi logbook, jawab setiap poin yang tertera dengan jelas, minimal 200 kata per laporan ya.",
+                "Logbook bulanan harus diisi dengan jawaban lengkap untuk setiap poin, panjangnya minimal 200 kata ya."
+            ]
+        },
+        {
+            "tag": "final_micro_challenge_preparation",
+            "patterns": [
+                "Apa saja yang perlu dipersiapkan pada final Micro Challenge?",
+                "Buat final Micro Challenge, apa saja yang harus saya siapin?",
+                "Hal apa yang perlu dipersiapkan saat final Micro Challenge?",
+                "Apa yang harus dilakukan sebelum final Micro Challenge?",
+                "Apa yang perlu disiapkan untuk menghadapi final Micro Challenge?",
+                "Persiapan apa saja yang perlu dilakukan untuk final Micro Challenge?",
+                "Apa aja sih yang harus disiapin buat final Micro Challenge?"
+            ],
+            "responses": [
+                "Buat Final Micro Challenge, siapin presentasi yang lengkap ya, mulai dari riset produk, minimal Wireframe halaman MVP—kalau bisa mokup biar makin keren—dan PowerPoint yang menarik. Jangan lupa nyalain kamera dan pastiin koneksi internet lancar. Jawab pertanyaan dengan pede, dan setelah selesai, isi form retro dari mentor, ya!",
+                "Nah, buat Final Micro Challenge, kamu harus siapin bahan presentasi yang ada riset produk, minimal Wireframe halaman MVP, kalau bisa bikin mokup biar makin oke, plus PowerPoint yang kece. Jangan lupa nyalain kamera, pastiin internet stabil, terus percaya diri waktu jawab pertanyaan. Abis itu, langsung isi form retro dari mentor, ya!",
+                "Buat Final Micro Challenge itu penting banget siapin presentasi yang lengkap: riset produk, minimal Wireframe halaman MVP—mokup kalau bisa, biar makin mantap—dan PowerPoint yang menarik. Pastikan kamera nyala dan koneksi internet oke. Santai aja jawab pertanyaannya, terus jangan lupa isi form retro yang dikasih mentor setelah selesai!"
+            ]
+        },
+        {
+            "tag": "session_swap_request",
+            "patterns": [
+                "Bagaimana cara agar dapat tukar sesi?",
+                "Apa langkah-langkah untuk tukar sesi?",
+                "Bagaimana jika saya tidak dapat mengikuti sesi, dan ingin melakukan tukar sesi?",
+                "Bagaimana prosedur untuk tukar sesi?",
+                "Apa saja yang harus dilakukan untuk menukar sesi?",
+                "Apakah memungkinkan untuk mengganti sesi yang sudah dijadwalkan?",
+                "Bagaimana mekanisme penukaran sesi?",
+                "Apa syarat untuk melakukan tukar sesi?",
+                "Bagaimana jika saya ingin melakukan tukar sesi?",
+                "Apa langkah yang diperlukan untuk tukar sesi?"
+            ],
+            "responses": [
+                "Kalau kamu mau tukar sesi, langsung hubungi mentor personal sebelum sesi dimulai ya. Nanti mentor akan kasih link untuk isi form tukar sesi.",
+                "Tukar sesi bisa dilakukan dengan kontak mentor personal dulu. Setelah konfirmasi, kamu bakal dapat link form tukar sesi.",
+                "Hubungi mentor personal kamu sebelum sesi dimulai untuk tukar sesi, nanti mereka akan memberikan link form yang harus diisi.",
+                "Untuk ganti sesi, pastikan kamu komunikasi dulu dengan mentor personal. Setelah disetujui, isi form tukar sesi yang diberikan.",
+                "Jika ingin tukar sesi, diskusikan dengan mentor personal terlebih dahulu. Link form tukar sesi akan diberikan setelah konfirmasi.",
+                "Proses tukar sesi dimulai dengan menghubungi mentor personal sebelum sesi berlangsung. Mentor akan mengirimkan link untuk formnya.",
+                "Kamu bisa tukar sesi dengan menghubungi mentor personal dan menunggu konfirmasi. Setelah itu, isi form tukar sesi dari mentor.",
+                "Mentor personal adalah kontak pertama untuk tukar sesi. Setelah diskusi, mereka akan memberikan link form untuk menyelesaikan prosesnya.",
+                "Tukar sesi hanya bisa dilakukan jika kamu menghubungi mentor personal sebelumnya. Setelah itu, isi form tukar sesi sesuai petunjuk.",
+                "Pastikan untuk berbicara dengan mentor personal tentang tukar sesi sebelum jadwal dimulai. Isi form tukar sesi setelah mentor memberikannya."
+            ]
+        },
+        {
+            "tag": "final_massive_challenge_preparation",
+            "patterns": [
+                "Apa saja yang harus disiapkan untuk Final Massive Challenge?",
+                "Apa yang perlu dipersiapkan sebelum Final Massive Challenge?",
+                "Apa persiapan penting untuk menghadapi Final Massive Challenge?",
+                "Hal apa saja yang harus dipersiapkan untuk Final Massive Challenge?",
+                "Bagaimana cara mempersiapkan diri untuk Final Massive Challenge?",
+                "Apa yang harus dilakukan sebelum Final Massive Challenge?",
+                "Apa saja yang wajib disiapkan untuk Final Massive Challenge?",
+                "Persiapan apa yang diperlukan untuk menghadapi Final Massive Challenge?",
+                "Apa saja langkah persiapan untuk Final Massive Challenge?",
+                "Apa yang harus dipastikan sebelum Final Massive Challenge dimulai?"
+            ],
+            "responses": [
+                "Untuk menghadapi final massive challenge, kamu perlu siap presentasi dengan teknik pitching yang oke, ceritakan proyek kamu dengan cerita yang menarik, lalu jelaskan ide, masalah yang dihadapi, solusi yang diusulkan, demo fitur MVP, video showcase, dan jangan lupa untuk mengajak audiens coba produk kalian lewat Call To Action.",
+                "Di final massive challenge, pastikan presentasi kamu sudah ready dengan pitching yang engaging, cerita yang seru, lalu bahas project idea, masalah yang mau diselesaikan, solusi, demo fitur MVP, dan video showcase. Terakhir, ingat untuk selalu ada Call To Action untuk ajak audiens coba produk kamu.",
+                "Untuk tampil maksimal di final massive challenge, buatlah presentasi dengan pitching yang santai tapi jelas, ceritakan ide proyek, masalah yang dihadapi, solusinya, demo fitur MVP, dan video showcase. Jangan lupa, pastikan ada Call To Action untuk mendorong audiens mencoba produk kalian.",
+                "Saat final massive challenge, pastikan presentasi kamu punya pitching yang menarik dan cerita yang bagus, jelaskan ide proyek, masalah, solusi, demo fitur MVP, dan video showcase. Terakhir, tambahkan Call To Action untuk mengajak audiens mencoba produk kalian.",
+                "Persiapkan presentasi final massive challenge dengan pitching yang menarik, ceritakan tentang project idea, problem yang kamu pecahkan, solusi, demo fitur MVP, dan video showcase. Dan jangan lupa, pastikan ada Call To Action yang ngajak audiens buat coba produk kamu.",
+                "Final massive challenge itu tentang presentasi yang menarik, jadi pastikan pitching kamu solid dan cerita kamu meyakinkan. Bahas project idea, masalah, solusi, demo fitur MVP, dan video showcase, lalu tutup dengan Call To Action yang ajak audiens mencoba produk kalian.",
+                "Untuk sukses di final massive challenge, kamu harus siap presentasi dengan pitching yang jelas dan cerita yang menarik, bahas project idea, masalah, solusi, demo fitur MVP, dan jangan lupa tampilkan video showcase. Akhiri dengan Call To Action yang mengajak audiens menggunakan produk kamu.",
+                "Di final massive challenge, pastikan presentasi kamu punya pitching yang oke, ceritakan proyek kamu dengan story telling yang menarik, lalu jelaskan ide, masalah, solusi, demo fitur MVP, dan jangan lupa untuk ada Call To Action yang ajak audiens coba produk kalian.",
+                "Untuk final massive challenge, buat presentasi dengan pitching yang engaging dan cerita yang menarik. Jangan lupa jelaskan project idea, masalah, solusi, demo fitur MVP, dan video showcase. Terakhir, pastikan ada Call To Action untuk mendorong audiens mencoba produk kalian.",
+                "Untuk menghadapi final massive challenge, persiapkan presentasi dengan pitching yang baik, cerita yang mengalir, serta jelaskan project idea, masalah, solusi, demo fitur MVP, video showcase, dan pastikan ada Call To Action yang mengajak audiens untuk coba produk kamu."
+            ]
+        },
+        {
+            "tag": "certificate_and_grades_timeline",
+            "patterns": [
+                "Kapan nilai dan sertifikat bisa didapatkan?",
+                "Sertifikat dan nilai akan diterima kapan?",
+                "Berapa lama hingga sertifikat dan nilai dibagikan?",
+                "Kapan peserta akan mendapatkan sertifikat dan nilai?",
+                "Kapan ya saya bisa dapat nilai dan sertifikat?",
+                "Nilai dan sertifikatnya biasanya keluar kapan?",
+                "Waktu dapat nilai dan sertifikat itu kapan, sih?"
+            ],
+            "responses": [
+                "Sertifikat dan nilai biasanya keluar dalam 2-4 minggu setelah program selesai, ya. Kalau kamu butuh nilai sementara buat konversi, langsung aja kontak mentor personal kamu, mereka siap bantu kok!",
+                "Biasanya sih, sertifikat dan nilai baru dikasih 2-4 minggu setelah program beres. Tapi kalau kamu perlu nilai cepat buat konversi, jangan sungkan hubungi mentor personal, mereka pasti bantu.",
+                "Sertifikat sama nilai biasanya butuh waktu 2-4 minggu setelah program selesai. Nah, kalau kamu perlu nilai sementara buat urusan konversi, langsung chat mentor personal aja, gampang kok!"
+            ]
+        },
+        {
+            "tag": "early_certificate_request",
+            "patterns": [
+                "Bagaimana jika saya ingin mendapatkan sertifikat terlebih dahulu?",
+                "Apakah saya bisa menerima sertifikat lebih cepat?",
+                "Bagaimana cara mendapatkan sertifikat sebelum waktu biasanya?",
+                "Bisakah saya meminta sertifikat lebih awal?",
+                "Apakah sertifikat bisa diberikan sebelum jadwal biasanya?",
+                "Apakah mungkin menerima sertifikat lebih cepat dari waktu yang ditentukan?",
+                "Kalau saya mau ambil sertifikat duluan, bisa nggak?"
+            ],
+            "responses": [
+                "Wah, maaf ya! Sertifikatnya baru bisa dibagikan sesuai jadwal yang udah ditentukan. Tapi tenang, kalau kamu butuh buat konversi nilai, kamu bisa kok minta nilai sementaranya ke mentor personal.",
+                "Yuk sabar dulu, sertifikatnya bakal keluar pas jadwal resminya. Tapi kalau kamu butuh buat keperluan nilai, coba aja hubungi mentor personal buat minta nilai sementara. Bisa bantu banget, lho!",
+                "Sertifikat belum bisa diambil sekarang, ya. Masih nunggu jadwal resminya. Tapi kalau kamu buru-buru butuh buat konversi nilai, langsung aja ngobrol sama mentor personal, nanti bisa dibantu kasih nilai sementaranya."
+            ]
+        },
+        {
+            "tag": "lms_access_after_program",
+            "patterns": [
+                "Apakah saya masih bisa belajar dari materi LMS setelah program selesai?",
+                "Apakah akses ke LMS tetap tersedia setelah program selesai?",
+                "Setelah program berakhir, apakah saya masih bisa membuka materi di LMS?",
+                "Bolehkah saya menggunakan LMS untuk belajar lagi setelah lulus program?",
+                "Materi LMS masih bisa diakses nggak setelah selesai program?",
+                "Apakah materi di LMS tetap tersedia setelah program selesai?",
+                "Jika program sudah selesai, apakah LMS tetap bisa diakses?"
+            ],
+            "responses": [
+                "Sayangnya, akses ke LMS akan ditutup setelah program selesai. Jadi pastikan kamu sudah memanfaatkan semua materi selama program berlangsung ya!",
+                "Sayangnya, LMS hanya bisa diakses selama program berlangsung. Jadi gunakan kesempatan ini untuk mempelajari materi sebanyak mungkin!",
+                "Maaf ya, setelah program selesai kamu tidak dapat mengakses LMS lagi. Jadi pastikan kamu sudah menyelesaikan semua materi sebelum waktunya habis!"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Saya pamit dulu ya",
+                "Terima kasih banyak",
+                "Sampai ketemu lagi",
+                "Sekian dulu, makasih",
+                "Selamat tinggal semuanya",
+                "Bye, sampai jumpa lagi",
+                "Sampai jumpa, ILO!"
+            ],
+            "responses": [
+                "Terima kasih telah berbicara dengan ILO. Sampai bertemu lagi!",
+                "Terima kasih! Semoga sukses selalu dalam perjalanan belajarmu bersama Infinite Learning.",
+                "Terima kasih banyak! Semoga perjalanan belajar kamu di Infinite Learning selalu lancar dan sukses, ya!"
+            ]
+        },
+        {
+            "tag": "fallback_intent",
+            "patterns": [],
+            "responses": [
+                "Mohon maaf saya tidak mengetahui pertanyaan yang kamu tanyakan.",
+                "Maaf, saya belum bisa menjawab itu.",
+                "Saya tidak mengerti pertanyaanmu, coba tanya yang lain ya.",
+                "Oops, saya belum paham nih. Bisa tanya yang lain?"
+            ]
+        }
+    ]
+}
