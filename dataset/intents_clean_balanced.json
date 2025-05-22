@@ -4730,10 +4730,9 @@
             "tag": "fallback_intent",
             "patterns": [],
             "responses": [
-                "Mohon maaf saya tidak mengetahui pertanyaan yang kamu tanyakan.",
-                "Maaf, saya belum bisa menjawab itu.",
-                "Saya tidak mengerti pertanyaanmu, coba tanya yang lain ya.",
-                "Oops, saya belum paham nih. Bisa tanya yang lain?"
+                "Maaf, ILO belum bisa memahami pertanyaan kamu. Silakan coba dengan pertanyaan lain ya.",
+                "ILO tidak mengerti maksudmu. Bisa diulangi dengan cara lain?",
+                "Hmm, pertanyaan itu belum bisa ILO pahami. Coba yang lain yuk!"
             ]
         }
     ]
